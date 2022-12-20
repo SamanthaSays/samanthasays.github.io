@@ -1,0 +1,22 @@
+/* Nav bar background colour */
+.navigation { font-family: "eurostile"; font-weight: bold; background-color: #F2465D; overflow: hidden; max-width: 1440px; margin: 0 auto; }
+
+/* Link text */
+.navigation a { float: left; color: #F2F2F2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
+
+/* Link colour on hover */
+.navigation a:hover { background-color: #FACFCF; color: black; }
+
+/* Colour of active page */
+.navigation .active { background-color: #F78190; color: black; }
+
+/* Icon on small screens */
+.navigation .icon { display: none; }
+
+/* Compress links under 600px */
+@media screen and (max-width: 600px) { .navigation a:not(:first-child) { display: none; } .navigation a.icon { float: right; display: block; } }
+
+/* Display links vertically under 600px */
+@media screen and (max-width: 600px) { .navigation.responsive { position: relative; } .navigation.responsive a.icon { position: absolute; right: 0; top: 0; } .navigation.responsive a { float: none; display: block; text-align: left; } }
+
+/*# sourceMappingURL=styles.css.map */
