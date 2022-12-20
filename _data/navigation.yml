@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Mods
+  link: /mods
+- name: Characters
+  link: /characters
+- name: Gallery
+  link: /gallery
+- name: About
+  link: /about
