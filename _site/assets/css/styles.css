@@ -19,34 +19,34 @@
 /* Display links vertically under 600px */
 @media screen and (max-width: 600px) { .navigation.responsive { position: relative; } .navigation.responsive a.icon { position: absolute; right: 0; top: 0; } .navigation.responsive a { float: none; display: block; text-align: left; } }
 
-@font-face { font-family: "pelagiad"; src: url("https://samanthasays.github.io/assets/fonts/Pelagiad.ttf") format("truetype"); }
+@font-face { font-family: "pelagiad"; src: url("fonts/Pelagiad.ttf") format("truetype"); }
 
-@font-face { font-family: "eurostile"; src: url("https://samanthasays.github.io/assets/fonts/CClub%20Eurostile.ttf") format("truetype"); }
+@font-face { font-family: "eurostile"; src: url("fonts/CClub Eurostile.ttf") format("truetype"); }
 
-@font-face { font-family: "eurostile"; src: url("https://samanthasays.github.io/assets/fonts/CClub%20Eurostile%20Bold.ttf") format("truetype"); font-weight: bold; }
+@font-face { font-family: "eurostile"; src: url("fonts/CClub Eurostile Bold.ttf") format("truetype"); font-weight: bold; }
 
-@font-face { font-family: "futura"; src: url("https://samanthasays.github.io/assets/fonts/Futura Condensed.ttf") format("truetype"); }
+@font-face { font-family: "futura"; src: url("fonts/Futura Condensed.ttf") format("truetype"); }
 
-@font-face { font-family: "futura"; src: url("https://samanthasays.github.io/assets/fonts/Futura CondensedLight.ttf") format("truetype"); font-style: italic; }
+@font-face { font-family: "futura"; src: url("fonts/Futura CondensedLight.ttf") format("truetype"); font-style: italic; }
 
-@font-face { font-family: "futura"; src: url("https://samanthasays.github.io/assets/fonts/Futura CondensedBold.ttf") format("truetype"); font-weight: bold; }
+@font-face { font-family: "futura"; src: url("fonts/Futura CondensedBold.ttf") format("truetype"); font-weight: bold; }
 
-@font-face { font-family: "gaelic"; src: url("https://samanthasays.github.io/assets/fonts/Books_Gaelic - Sky.ttf") format("truetype"); }
+@font-face { font-family: "gaelic"; src: url("fonts/Books_Gaelic - Sky.ttf") format("truetype"); }
 
-@font-face { font-family: "handwritten"; src: url("https://samanthasays.github.io/assets/fonts/Books_Handwritten_Bold - Sky.ttf") format("truetype"); }
+@font-face { font-family: "handwritten"; src: url("fonts/Books_Handwritten_Bold - Sky.ttf") format("truetype"); }
 
-@font-face { font-family: "unreadable"; src: url("https://samanthasays.github.io/assets/fonts/Books_Unreadable - Sky.ttf") format("truetype"); }
+@font-face { font-family: "unreadable"; src: url("fonts/Books_Unreadable - Sky.ttf") format("truetype"); }
 
-@font-face { font-family: "univers"; src: url("https://samanthasays.github.io/assets/fonts/univers 55 - Onl.ttf") format("truetype"); }
+@font-face { font-family: "univers"; src: url("fonts/univers 55 - Onl.ttf") format("truetype"); }
 
-@font-face { font-family: "daedric"; src: url "https://samanthasays.github.io/assets/fonts/ayembedt - mor.tff" format("truetype"); }
+@font-face { font-family: "daedric"; src: url "fonts/ayembedt - mor.tff" format("truetype"); }
 
-@font-face { font-family: "dejavu"; src: url("https://samanthasays.github.io/assets/fonts/DejaVuLGCSansMono - Mor.ttv") format("truetype"); }
+@font-face { font-family: "dejavu"; src: url("fonts/DejaVuLGCSansMono - Mor.ttv") format("truetype"); }
 
-@font-face { font-family: "dragon"; src: url("https://samanthasays.github.io/assets/fonts/DragonTES_2.tff") format("truetype"); }
+@font-face { font-family: "dragon"; src: url("fonts/DragonTES_2.tff") format("truetype"); }
 
-@font-face { font-family: "dwemer"; src: url("https://samanthasays.github.io/assets/fonts/DwemerSR.tff") format("truetype"); src: local("Dwemersr"); }
+@font-face { font-family: "dwemer"; src: url("fonts/DwemerSR.tff") format("truetype"); src: local("Dwemersr"); }
 
-@font-face { font-family: "falmer"; src: url("https://samanthasays.github.io/assets/fonts/Falmer.tff") format("truetype"); src: local("Falmer"); }
+@font-face { font-family: "falmer"; src: url("fonts/Falmer.tff") format("truetype"); src: local("Falmer"); }
 
 /*# sourceMappingURL=styles.css.map */
