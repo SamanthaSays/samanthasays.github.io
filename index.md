@@ -12,7 +12,7 @@ section: Home
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
 <script type="text/javascript">
     new Twitch.Embed("twitch-embed", {
-        width: 720,
+        width: 900,
         height: 500,
         channel: "samanthasays",
         muted: true
