@@ -1,0 +1,6 @@
+<h3>Social</h3>
+<ul style="padding-left:10px">
+{% for item in site.data.socials %}
+<li style=list-style-type:none><a href="{{ item.link }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>

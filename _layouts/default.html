@@ -9,6 +9,21 @@
     </head>
     <body>
         {% include navigation.html %}
-        {{ content }}
+        <div id="container">
+            <div id="flex">
+                <aside id="leftSidebar">
+                    {% include leftSidebar.html %}
+                </aside>
+                <main>
+                    {{content}}
+                </main>
+                <aside id="rightSidebar">
+                    {% include rightSidebar.html %}
+                </aside>
+            </div>
+            <footer>
+                {% include footer.html %}
+            </footer>
+        </div>
     </body>
 </html>

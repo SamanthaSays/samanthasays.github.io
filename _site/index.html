@@ -10,15 +10,15 @@
     <body>
         <div class="navigation" id="myNavigation">
     
-    <a  class="active"  href="/">Home</a>
+    <a href="/">Home</a>
     
-    <a  href="/mods">Mods</a>
+    <a href="/mods">Mods</a>
     
-    <a  href="/characters">Characters</a>
+    <a href="/characters">Characters</a>
     
-    <a  href="/gallery">Gallery</a>
+    <a href="/gallery">Gallery</a>
     
-    <a  href="/about">About</a>
+    <a href="/about">About</a>
     
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
@@ -34,7 +34,56 @@
     }
   </script>
 </div>
-        <h1>Hello World!</h1>
+        <div id="container">
+            <div id="flex">
+                <aside id="leftSidebar">
+                    <h3>Social</h3>
+<ul style="padding-left:10px">
 
+<li style=list-style-type:none><a href="https://twitch.tv/samanthasays">Twitch</a></li>
+
+<li style=list-style-type:none><a href="https://twitter.com/samanthasaystv">Twitter</a></li>
+
+<li style=list-style-type:none><a href="https://discord.gg/0gcBYQ0ac8Vq4le6">Discord</a></li>
+
+</ul>
+                </aside>
+                <main>
+                    <h1>Under Construction!</h1>
+<p><a href="about">Check out the About page</a> to see what's being worked on!</p>
+
+<h3 style="text-align:center">Samantha Says on <a href="https://twitch.tv/samanthasays" title="Visit Samantha Says on Twitch" target="_blank">Twitch</a></h3>
+<div id="twitch-embed" align="center"></div>
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+<script type="text/javascript">
+    new Twitch.Embed("twitch-embed", {
+        width: 720,
+        height: 500,
+        channel: "samanthasays",
+        muted: true
+    });
+</script>
+
+
+                </main>
+                <aside id="rightSidebar">
+                    <p style="font-size: 10px"><a href="https://greenmangaming.sjv.io/samanthasays" title="Save on PC games at Green Man Gaming" target="_blank"><img src="assets/images/GMG 300x250.webp" border="0" alt="" width="300px" height="auto"></a>
+<br>Proud ambassador of Green Man Gaming</p>
+
+
+
+<p>Leave a message!<br>
+<iframe src="https://www5.cbox.ws/box/?boxid=939891&boxtag=FyeHvl" width="300" height="300" allowtransparency="yes" allow="autoplay" frameborder="0" scrolling="auto"></iframe></p>
+
+<p style="font-size: 10px"><a href="https://shrsl.com/3um55" title="Buy some Samantha Says designs and more from Design by Humans" target="_blank"><img src="assets/images/DBH 300x250.webp" border="0" alt="" width="300px" height="auto"></a>
+<br>Samantha Says designs and more from Design by Humans</p>
+                </aside>
+            </div>
+            <footer>
+                <script type="text/javascript" src="//counter.websiteout.net/js/6/0/0/0"></script>
+<p>Thanks for visiting!</p>
+            </footer>
+        </div>
     </body>
 </html>
