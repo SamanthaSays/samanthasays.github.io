@@ -225,7 +225,7 @@ function loadGame () {
         }
         if (typeof savedGame.achievementAwarded !== "undefined") {
             for (i = 0; i < savedGame.achievementAwarded.length; i++) {
-                upgrade.awarded[i] = savedGame.achievementAwarded[i];
+                achievement.awarded[i] = savedGame.achievementAwarded[i];
             }
         }
     }
