@@ -281,4 +281,4 @@ document.addEventListener("keydown", function(event) {
     }
 }, false)
 
-alert("This game is a work in progress! Current version: 0.000a")
+alert("This game is a work in progress! Current version: 0.000b")
