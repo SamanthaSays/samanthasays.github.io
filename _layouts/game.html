@@ -6,20 +6,21 @@
         <link rel = "icon" href = "/assets/images/Apples icon.png" type = "image/x-icon">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/styles.css"
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     </head>
     <body>
         {% include navigation.html %}
         <div id="container">
             <div id="flex">
-                <aside id="leftSidebar">
+                <!-- <aside id="leftSidebar">
                     {% include leftSidebar.html %}
-                </aside>
+                </aside> -->
                 <main>
                     {{content}}
                 </main>
-                <aside id="rightSidebar">
+                <!-- <aside id="rightSidebar">
                     {% include rightSidebar.html %}
-                </aside>
+                </aside> -->
             </div>
             <footer>
                 {% include footer.html %}

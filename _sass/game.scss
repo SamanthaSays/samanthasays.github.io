@@ -1,0 +1,90 @@
+.gameLeft {
+    float: left;
+    width: 80%;
+}
+
+.logsContainer{
+    font-family: pelagiad;
+    font-size: 24px;
+    background-color: #F78190;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.gameRight {
+    font-family: pelagiad;
+    float: right;
+    width: 20%;
+    user-select: none;
+}
+
+.gameRight button{
+    font-family: pelagiad;
+    font-size: 24px;
+    float: right;
+}
+
+.logsClicker img {
+    position: relative;
+    transition: all .1s ease-in-out;
+}
+
+.logsClicker img:hover {
+    transform: scale(1.10);
+}
+
+.logsClicker img:active {
+    transform: scale(0.99);
+}
+
+.marketplaceButton {
+    background-color: #B5B5B5;
+    transition: all .2s ease-in-out;
+    border-radius: 10px;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+.marketplaceButton:hover {
+    background-color: #C7C7C7;
+    transition: all .2s ease-in-out;
+}
+
+.marketplaceButton #image {
+    width: 25%;
+}
+
+.marketplaceButton img {
+    height: 64px;
+    width: auto;
+}
+
+.marketplaceButton #nameAndCost p{
+    margin: 0px;
+    width: 60%;
+}
+
+.marketplaceButton #nameAndCost p:first-of-type {
+    font-size: 24px;
+}
+
+.marketplaceButton #amount {
+    font-size: 48px;
+    color: #595959;
+    width: 15%;
+}
+
+.unselectable {
+    user-select: none;
+}
+
+#upgradeContainer img {
+    height: 64px;
+    width: auto;
+}
+
+#achievementContainer img {
+    height: 64px;
+    width: auto;
+}
