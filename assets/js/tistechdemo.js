@@ -3,7 +3,7 @@ var game = {
     totalLogs: 0,
     totalClicks: 0,
     clickValue: 1,
-    version: "0.000a",
+    version: "0.000c",
 
     addToLogs: function(amount) {
         this.logs += amount;
@@ -281,4 +281,4 @@ document.addEventListener("keydown", function(event) {
     }
 }, false)
 
-alert("This game is a work in progress! Current version: 0.000b")
+alert("This is just a tech demo! Current version: 0.000c")
