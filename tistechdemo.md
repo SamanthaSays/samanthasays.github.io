@@ -1,5 +1,5 @@
 ---
-layout: game
+layout: tistechdemo
 title: The Idle Scrolls | Samantha Says
 section: Game
 ---
@@ -20,4 +20,4 @@ section: Game
     <div id="marketplaceContainer"></div>
     <div id="achievementContainer"></div>
 </div>
-<script src="assets/js/TheIdleScrolls.js"></script>
+<script src="assets/js/tistechdemo.js"></script>
