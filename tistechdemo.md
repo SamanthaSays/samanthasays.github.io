@@ -10,14 +10,13 @@ section: Game
             Logs per second: <span id="logsPerSecond">0</span>
         </div>
         <br>
-        <div class="logsClicker">
-        <img src="assets/images/TIS/Firewood.webp" height="256px" width="auto" id="logClicker">
+        <div class="unselectable" id="logsClicker">
         </div>
     </center>
 </div>
 <div class="gameRight">
-    <div id="upgradeContainer"></div>
-    <div id="marketplaceContainer"></div>
-    <div id="achievementContainer"></div>
+    <div class="unselectable" id="upgradeContainer"></div>
+    <div class="unselectable" id="marketplaceContainer"></div>
+    <div class="unselectable" id="achievementContainer"></div>
 </div>
 <script src="assets/js/tistechdemo.js"></script>

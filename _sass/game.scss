@@ -25,17 +25,29 @@
     float: right;
 }
 
-.logsClicker img {
+#logsClicker {
+    background-image: url("/assets/images/TIS/Firewood.webp");
+    background-size: contain;
     position: relative;
     transition: all .1s ease-in-out;
+    height: 256px;
+    width: 256px;
 }
 
-.logsClicker img:hover {
+#logsClicker:hover {
     transform: scale(1.10);
 }
 
-.logsClicker img:active {
+#logsClicker:active {
     transform: scale(0.99);
+}
+
+#logsClicker > .number {
+    z-index: 99;
+    font-size: 24px;
+    font-family: "gaelic";
+    color: black;
+    position: absolute;
 }
 
 .marketplaceButton {

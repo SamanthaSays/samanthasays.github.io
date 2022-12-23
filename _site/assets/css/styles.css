@@ -82,11 +82,13 @@ footer { background-color: #FF545A; padding: 5px; text-align: center; font-size:
 
 .gameRight button { font-family: pelagiad; font-size: 24px; float: right; }
 
-.logsClicker img { position: relative; transition: all .1s ease-in-out; }
+#logsClicker { background-image: url("/assets/images/TIS/Firewood.webp"); background-size: contain; position: relative; transition: all .1s ease-in-out; height: 256px; width: 256px; }
 
-.logsClicker img:hover { transform: scale(1.1); }
+#logsClicker:hover { transform: scale(1.1); }
 
-.logsClicker img:active { transform: scale(0.99); }
+#logsClicker:active { transform: scale(0.99); }
+
+#logsClicker > .number { z-index: 99; font-size: 24px; font-family: "gaelic"; color: black; position: absolute; }
 
 .marketplaceButton { background-color: #B5B5B5; transition: all .2s ease-in-out; border-radius: 10px; width: 100%; margin: 10px 0px 10px 0px; }
 

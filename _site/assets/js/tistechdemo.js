@@ -3,7 +3,7 @@ var game = {
     totalLogs: 0,
     totalClicks: 0,
     clickValue: 1,
-    version: "0.000a",
+    version: "0.000d",
 
     addToLogs: function(amount) {
         this.logs += amount;
@@ -225,7 +225,7 @@ function loadGame () {
         }
         if (typeof savedGame.achievementAwarded !== "undefined") {
             for (i = 0; i < savedGame.achievementAwarded.length; i++) {
-                upgrade.awarded[i] = savedGame.achievementAwarded[i];
+                achievement.awarded[i] = savedGame.achievementAwarded[i];
             }
         }
     }
@@ -239,9 +239,56 @@ function resetGame() {
     }
 }
 
-document.getElementById("logClicker").addEventListener("click", function() {
+function randomNumber(min, max) {
+    return Math.round(Math.random() * (max - min) + min);
+}
+
+function fadeOut(element, duration, finalOpacity, callback) {
+    let opacity = 1;
+
+    let elementFadingInterval = window.setInterval(function(){
+        opacity -= 50 / duration;
+        if (opacity <= finalOpacity) {
+            clearInterval(elementFadingInterval);
+            callback();
+        }
+        element.style.opacity = opacity;
+    }, 50);
+}
+
+function createNumberOnLogsClicker(event) {
+    // Locate clicker
+    let clicker = document.getElementById("logsClicker");
+    // Locate where it was clicked
+    let clickerOffset = clicker.getBoundingClientRect();
+    let position = {
+        x: event.pageX - clickerOffset.left + randomNumber(-5, 5),
+        y: event.pageY - clickerOffset.top
+    };
+    // Create number
+    let element = document.createElement("div");
+    element.textContent = "+" + game.clickValue;
+    element.classList.add("number", "unselectable");
+    element.style.left = position.x + "px";
+    element.style.top = position.y + "px";
+    // Add number to clicker
+    clicker.appendChild(element);
+    // Rise number
+    let movementInterval = window.setInterval(function() {
+        if (typeof element == "undefined" && element == null) clearInterval(movementInteral);
+        position.y--;
+        element.style.top = position.y + "px";
+    }, 10);
+    // Fade out
+    fadeOut(element, 1000, 0, function(){
+        element.remove();
+    })
+}
+
+document.getElementById("logsClicker").addEventListener("click", function(event) {
     game.totalClicks++;
     game.addToLogs(game.clickValue);
+    createNumberOnLogsClicker(event);
 }, false)
 
 window.onload = function() {
@@ -281,4 +328,4 @@ document.addEventListener("keydown", function(event) {
     }
 }, false)
 
-alert("This game is a work in progress! Current version: 0.000a")
+alert("This is just a tech demo! Current version: 0.000d")
