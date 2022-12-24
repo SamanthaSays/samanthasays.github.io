@@ -309,12 +309,8 @@ setInterval(function() {
     game.totalLogs += game.getLogsPerSecond();
     display.updateLogs();
     display.updateAchievements();
-}, 1000);
-
-setInterval(function() {
-    display.updateLogs();
     display.updateUpgrades();
-}, 10000);
+}, 1000);
 
 setInterval(function() {
     saveGame();
