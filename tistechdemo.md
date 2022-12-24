@@ -19,4 +19,3 @@ section: Game
     <div class="unselectable" id="marketplaceContainer"></div>
     <div class="unselectable" id="achievementContainer"></div>
 </div>
-<script src="assets/js/tistechdemo.js"></script>

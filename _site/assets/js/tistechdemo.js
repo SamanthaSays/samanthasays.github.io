@@ -192,12 +192,12 @@ function saveGame() {
         upgradePurchased: upgrade.purchased,
         achievementAwarded: achievement.awarded
     };
-    localStorage.setItem("gameSave", JSON.stringify(gameSave));
+    ls.set("gameSave", gameSave, { encrypt: true });
 }
 
 function loadGame () {
-    var savedGame = JSON.parse(localStorage.getItem("gameSave"));
-    if (localStorage.getItem("gameSave") !== null) {
+    var savedGame = ls.get("gameSave");
+    if (ls.get("gameSave", {decrypt: true}) !== null) {
         if (typeof savedGame.logs !== "undefined") game.logs = savedGame.logs;
         if (typeof savedGame.totalLogs !== "undefined") game.totalLogs = savedGame.totalLogs;
         if (typeof savedGame.totalClicks !== "undefined") game.totalClicks = savedGame.totalClicks;
@@ -234,7 +234,7 @@ function loadGame () {
 function resetGame() {
     if (confirm("Are you sure you want to reset your game?")) {
         var gameSave = {};
-        localStorage.setItem("gameSave", JSON.stringify(gameSave));
+        ls.set("gameSave", gameSave);
         location.reload();
     }
 }
