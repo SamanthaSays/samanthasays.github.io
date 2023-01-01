@@ -192,12 +192,12 @@ function saveGame() {
         upgradePurchased: upgrade.purchased,
         achievementAwarded: achievement.awarded
     };
-    ls.set("gameSave", gameSave, { encrypt: true });
+    localStorage.setItem("gameSave", Base64.encode(gameSave));
 }
 
 function loadGame () {
-    var savedGame = ls.get("gameSave");
-    if (ls.get("gameSave", {decrypt: true}) !== null) {
+    var savedGame = Base64.decode(localStorage.getItem("gameSave"));
+    if (localStorage.getItem("gameSave") !== null) {
         if (typeof savedGame.logs !== "undefined") game.logs = savedGame.logs;
         if (typeof savedGame.totalLogs !== "undefined") game.totalLogs = savedGame.totalLogs;
         if (typeof savedGame.totalClicks !== "undefined") game.totalClicks = savedGame.totalClicks;
