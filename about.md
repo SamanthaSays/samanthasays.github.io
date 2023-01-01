@@ -14,6 +14,6 @@ section: About
     <li>Any creative writing I may end up doing (probably about The Elder Scrolls)</li>
     <li>A gallery of pretty screenshots I've taken!</li>
     <li>Some niche guides that I've made for various people</li>
-    <li>Maybe even an <a href="https://samanthasays.github.io/tistechdemo" title="A tech demo of an idle game"> Elder Scrolls idle game</a>... if Bethesda won't make one, then I will</li>
+    <li>Maybe even an Elder Scrolls idle game... if Bethesda won't make one, then I will</li>
 </ul>
 <p>Until then, thanks for visiting! <a href="https://twitter.com/samanthasaystv" title="Visit the Samantha Says Twitter page" target="_blank">You can also find me on Twitter</a>

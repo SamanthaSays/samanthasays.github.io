@@ -1,12 +1,20 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
+        <meta charset="utf-8" content="width=device-width, initial-scale=1.0">
         <title>About | Samantha Says</title>
         <link rel = "icon" href = "/assets/images/Apples icon.png" type = "image/x-icon">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/assets/css/styles.css"
+        <link rel="stylesheet" href="/assets/css/styles.css">
     </head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F4LQ0GBVF7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-F4LQ0GBVF7');
+    </script>
     <body>
         <div class="navigation" id="myNavigation">
     
@@ -18,13 +26,15 @@
     
     <a href="/gallery">Gallery</a>
     
+    <a href="/game">Game</a>
+    
     <a href="/about">About</a>
     
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <a href="javascript:void(0);" class="icon" onclick="borgy()">
         <i class="fa fa-bars"></i>
     </a>
   <script>
-    function myFunction() {
+    function borgy() {
       var x = document.getElementById("myNavigation");
       if (x.className === "navigation") {
         x.className += " responsive";
@@ -59,24 +69,28 @@
     <li>Any creative writing I may end up doing (probably about The Elder Scrolls)</li>
     <li>A gallery of pretty screenshots I've taken!</li>
     <li>Some niche guides that I've made for various people</li>
-    <li>Maybe even an <a href="https://samanthasays.github.io/tistechdemo" title="A tech demo of an idle game"> Elder Scrolls idle game</a>... if Bethesda won't make one, then I will</li>
+    <li>Maybe even an Elder Scrolls idle game... if Bethesda won't make one, then I will</li>
 </ul>
 <p>Until then, thanks for visiting! <a href="https://twitter.com/samanthasaystv" title="Visit the Samantha Says Twitter page" target="_blank">You can also find me on Twitter</a>
 </p></p>
 
                 </main>
                 <aside id="rightSidebar">
-                    <p style="font-size: 10px"><a href="https://greenmangaming.sjv.io/samanthasays" title="Save on PC games at Green Man Gaming" target="_blank"><img src="assets/images/GMG 300x250.webp" border="0" alt="" width="300px" height="auto"></a>
+                    <p style="font-size: 10px"><a href="https://greenmangaming.sjv.io/samanthasays" title="Save on PC games at Green Man Gaming" target="_blank"><img src="assets/images/GMG 300x250.webp" alt="Save on PC games at Green Man Gaming" width="100%"></a>
 <br>Proud ambassador of Green Man Gaming</p>
 
 
-<p><iframe src="https://player.twitch.tv/?channel=samanthasays&parent=samanthasays.github.io" frameborder="0" allowfullscreen="true" scrolling="no" width="300" height="168.75"></iframe></p>
+<div id="twitchPlayer">
+<p><iframe src="https://player.twitch.tv/?channel=samanthasays&parent=samanthasays.github.io" frameborder="0" allowfullscreen="true" scrolling="no"></iframe></p>
+</div>
 
 
 <p>Leave a message!<br>
-<iframe src="https://www5.cbox.ws/box/?boxid=939891&boxtag=FyeHvl" width="300" height="300" allowtransparency="yes" allow="autoplay" frameborder="0" scrolling="auto"></iframe></p>
+<div id="chatEmbed">
+<iframe src="https://www5.cbox.ws/box/?boxid=939891&boxtag=FyeHvl" allowtransparency="yes" allow="autoplay" frameborder="0" scrolling="auto"></iframe></p>
+</div>
 
-<p style="font-size: 10px"><a href="https://shrsl.com/3um55" title="Buy some Samantha Says designs and more from Design by Humans" target="_blank"><img src="assets/images/DBH 300x250.webp" border="0" alt="" width="300px" height="auto"></a>
+<p style="font-size: 10px"><a href="https://shrsl.com/3um55" title="Buy some Samantha Says designs and more from Design by Humans" target="_blank"><img src="assets/images/DBH 300x250.webp" alt="Buy some Samantha Says designs and more from Design by Humans" width="100%"></a>
 <br>Samantha Says designs and more from Design by Humans</p>
                 </aside>
             </div>

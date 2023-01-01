@@ -30,11 +30,11 @@ body {
   
 aside {
     background-color: #F78190;
-    width: 300px;
     padding: 15px;
 }
   
 main {
+    width: 69%;
     background-color: #FACFCF;
     flex:1;
     padding:20px;
@@ -43,16 +43,49 @@ main {
   
 #leftSidebar {
     order:1;
-    width: 150px;
+    width: 10%;
     font-family: "eurostile";
     font-weight: bold;
     list-style-type: none;
-  }
+}
   
 #rightSidebar {
-    order:3;
+    order: 3;
+    width: 21%;
     font-size: smaller;
-  }
+}
+
+#rightImage {
+    text-align: center;
+}
+
+#twitchPlayer {
+    position: relative;
+    padding-bottom: 56.5%;
+    height: 0;
+}
+
+#twitchPlayer iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#chatEmbed {
+    position: relative;
+    padding-bottom: 100%;
+    height: 0;
+}
+
+#chatEmbed iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
   
 footer {
     background-color: #FF545A;
@@ -63,7 +96,7 @@ footer {
 }
 
 /* Re-order page under 1280px */
-@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 620px) {
     #flex {
         flex-wrap: wrap;
     }

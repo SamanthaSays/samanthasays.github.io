@@ -2,11 +2,11 @@
     {% for item in site.data.navigation %}
     <a href="{{ item.link }}">{{ item.name }}</a>
     {% endfor %}
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <a href="javascript:void(0);" class="icon" onclick="borgy()">
         <i class="fa fa-bars"></i>
     </a>
   <script>
-    function myFunction() {
+    function borgy() {
       var x = document.getElementById("myNavigation");
       if (x.className === "navigation") {
         x.className += " responsive";

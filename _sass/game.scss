@@ -1,13 +1,21 @@
-.gameLeft {
-    float: left;
-    width: 80%;
+#gameLeftSidebar {
+    width: 10%;
+    font-family: "pelagiad";
+    font-size: 24px;
+    list-style-type: none;
 }
 
-.logsContainer{
-    font-family: pelagiad;
-    font-size: 24px;
-    background-color: #F78190;
+.gameLeft {
+    float: left;
     width: 50%;
+}
+
+.titleContainer {
+    font-family: pelagiad;
+    font-size: 48px;
+    text-align: center;
+    background-color: #F78190;
+    width: 97.5%;
     padding: 10px;
     border-radius: 10px;
 }
@@ -15,11 +23,11 @@
 .gameRight {
     font-family: pelagiad;
     float: right;
-    width: 20%;
+    width: 50%;
     user-select: none;
 }
 
-.gameRight button{
+.gameRight button {
     font-family: pelagiad;
     font-size: 24px;
     float: right;
@@ -92,11 +100,6 @@
 }
 
 #upgradeContainer img {
-    height: 64px;
-    width: auto;
-}
-
-#achievementContainer img {
     height: 64px;
     width: auto;
 }
