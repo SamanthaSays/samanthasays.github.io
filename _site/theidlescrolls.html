@@ -50,49 +50,76 @@
 </div>
         <div id="container">
             <div id="flex">
-                <aside id="gameLeftSidebar">
-    <ul style="padding-left:10px">
-    <p>Gold:<br />
-    <span id="goldAmount">0</span></p>
-    <p>Firewood:<br />
-    <span id="firewoodAmount">0</span></p>
+              <aside id="leftSidebar">
+                
+<button onclick="saveGame();">Save Game</button>
+<div class="unselectable" id="saveAlert">Game saved!</div>
+<button onclick="resetGame()">Reset Game</button>
+
+<h3>Social</h3>
+<ul style="padding-left:10px">
+
+<li style=list-style-type:none><a href="https://twitch.tv/samanthasays">Twitch</a></li>
+
+<li style=list-style-type:none><a href="https://twitter.com/samanthasaystv">Twitter</a></li>
+
+<li style=list-style-type:none><a href="https://discord.gg/0gcBYQ0ac8Vq4le6">Discord</a></li>
+
 </ul>
-</aside>
-<main>
-    <div class="gameLeft">
-        <center><div class="unselectable" id="logsClicker"></div></center>
+              </aside>
+              <main>
+                <div class="gameLeft">
+    <center><span class="unselectable" id="playerName" onclick="playerName()">Adventurer</span>
+    <p class="unselectable">Gold:<br />
+    <span id="goldAmount">0</span><br />
+    <span id="goldPerSecond">0</span></p>
+    <div class="unselectable" id="enemyClicker"></div>
+    <span class="unselectable" id="enemyName">Loading...</span></center>
+</div>
+<div class="gameRight">
+    <div class="tab">
+        <button class="tablinks unselectable" onclick="rightMenu(event, 'Character')"><img src="assets/images/TIS/ON-icon-Bank.webp" /></button>
+        <button class="tablinks unselectable" id="defaultOpen" onclick="rightMenu(event, 'Marketplace')"><img src="assets/images/TIS/ON-icon-Vendor.webp" /></button>
+        <button class="tablinks unselectable" onclick="rightMenu(event, 'Blacksmith')"><img src="assets/images/TIS/ON-icon-Smithy.webp" /></button>
     </div>
-    <div class="gameRight">
-        <div class="unselectable" id="upgradeContainer"></div>
-        <div class="unselectable" id="marketplaceContainer"></div>
+    <div id="Character" class="tabcontent">
+        <h3>Character</h3>
+        <p>things and stuff</p>
     </div>
-</main>
-<aside id="rightSidebar">
-    <p style="font-size: 10px"><a href="https://greenmangaming.sjv.io/samanthasays" title="Save on PC games at Green Man Gaming" target="_blank"><img src="assets/images/GMG 300x250.webp" alt="Save on PC games at Green Man Gaming" width="100%" /></a>
-<br />Proud ambassador of Green Man Gaming</p>
+    <div id="Marketplace" class="tabcontent">
+        <h3>Marketplace</h3>
+        <p>stuff and things</p>
+    </div>
+    <div id="Blacksmith" class="tabcontent">
+        <h3>Blacksmith</h3>
+        <p>stuff and stuff</p>
+    </div>
+</div>
+<div class="unselectable" id="upgradeContainer"></div>
+<div class="unselectable" id="marketplaceContainer"></div>
+
+              </main>
+              <aside id="rightSidebar">
+                <p style="font-size: 10px"><a href="https://greenmangaming.sjv.io/samanthasays" title="Save on PC games at Green Man Gaming" target="_blank"><img src="assets/images/GMG 300x250.webp" alt="Save on PC games at Green Man Gaming" width="100%"></a>
+<br>Proud ambassador of Green Man Gaming</p>
 
 
 <div id="twitchPlayer">
-<p><iframe src="https://player.twitch.tv/?channel=samanthasays&amp;parent=samanthasays.github.io" frameborder="0" allowfullscreen="true" scrolling="no"></iframe></p>
+<p><iframe src="https://player.twitch.tv/?channel=samanthasays&parent=samanthasays.github.io" frameborder="0" allowfullscreen="true" scrolling="no"></iframe></p>
 </div>
 
 
 <p>Leave a message!</p>
 <div id="chatEmbed">
-<iframe src="https://www5.cbox.ws/box/?boxid=939891&amp;boxtag=FyeHvl" allowtransparency="yes" allow="autoplay" frameborder="0" scrolling="auto"></iframe>
+<iframe src="https://www5.cbox.ws/box/?boxid=939891&boxtag=FyeHvl" allowtransparency="yes" allow="autoplay" frameborder="0" scrolling="auto"></iframe>
 </div>
-</aside>
-
+              </aside>
             </div>
             <footer>
-                
-<button onclick="resetGame();">Reset Game</button><br><br>
-
-<script type="text/javascript" src="//counter.websiteout.net/js/6/0/0/0"></script>
+                <script type="text/javascript" src="//counter.websiteout.net/js/6/0/0/0"></script>
 <p>Thanks for visiting!</p>
             </footer>
         </div>
-        <script src="assets/js/base64.js"></script>
         <script src="assets/js/theidlescrolls.js"></script>
         <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
         <script>
@@ -118,8 +145,8 @@
               "position": "top",
               "static": true,
               "content": {
-                "message": "This website uses cookies for ads, traffic analysis, and a consistent experience.",
-                "dismiss": "I consent!",
+                "message": "This website uses cookies for a consistent experience, ads, and traffic analysis.",
+                "dismiss": "Dismiss",
                 "link": "Find out more"
               }
             });

@@ -30,16 +30,16 @@
 .navigation .icon {
   display: none;
 }
-/* Compress links under 575px */
-@media screen and (max-width: 575px) {
+/* Compress links under 640 */
+@media screen and (max-width: 640px) {
   .navigation a:not(:first-child) {display:none;}
   .navigation a.icon {
     float: right;
     display: block;
   }
 }
-/* Display links vertically under 575px */
-@media screen and (max-width: 575px) {
+/* Display links vertically under 640 */
+@media screen and (max-width: 640px) {
   .navigation.responsive {position: relative;}
   .navigation.responsive a.icon {
     position: absolute;

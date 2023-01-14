@@ -48,11 +48,11 @@ footer { background-color: #FF545A; padding: 5px; text-align: center; font-size:
 /* Icon on small screens */
 .navigation .icon { display: none; }
 
-/* Compress links under 575px */
-@media screen and (max-width: 575px) { .navigation a:not(:first-child) { display: none; } .navigation a.icon { float: right; display: block; } }
+/* Compress links under 640 */
+@media screen and (max-width: 640px) { .navigation a:not(:first-child) { display: none; } .navigation a.icon { float: right; display: block; } }
 
-/* Display links vertically under 575px */
-@media screen and (max-width: 575px) { .navigation.responsive { position: relative; } .navigation.responsive a.icon { position: absolute; right: 0; top: 0; } .navigation.responsive a { float: none; display: block; text-align: left; } }
+/* Display links vertically under 640 */
+@media screen and (max-width: 640px) { .navigation.responsive { position: relative; } .navigation.responsive a.icon { position: absolute; right: 0; top: 0; } .navigation.responsive a { float: none; display: block; text-align: left; } }
 
 @font-face { font-family: "pelagiad"; src: url("fonts/Pelagiad.ttf") format("truetype"); }
 
@@ -84,23 +84,41 @@ footer { background-color: #FF545A; padding: 5px; text-align: center; font-size:
 
 @font-face { font-family: "falmer"; src: url("fonts/Falmer.tff") format("truetype"); src: local("Falmer"); }
 
-#gameLeftSidebar { width: 10%; font-family: "pelagiad"; font-size: 24px; list-style-type: none; }
+#leftSidebar button { transition: all .2s ease-in-out; font-family: pelagiad; font-size: 18px; background-color: #FACFCF; cursor: pointer; }
 
-.gameLeft { float: left; width: 50%; }
+#leftSidebar button:hover { background-color: #F2465D; }
 
-.titleContainer { font-family: pelagiad; font-size: 48px; text-align: center; background-color: #F78190; width: 97.5%; padding: 10px; border-radius: 10px; }
+#saveAlert { opacity: 0; }
 
-.gameRight { font-family: pelagiad; float: right; width: 50%; user-select: none; }
+.gameLeft { float: left; width: 50%; font-family: pelagiad; font-size: 24px; }
 
-.gameRight button { font-family: pelagiad; font-size: 24px; float: right; }
+#playerName { cursor: pointer; transition: all .2s ease-in-out; font-family: pelagiad; font-size: 36px; text-align: center; background-color: #F78190; padding: 10px; border-radius: 10px; }
 
-#logsClicker { background-image: url("/assets/images/TIS/Firewood.webp"); background-size: contain; position: relative; transition: all .1s ease-in-out; height: 256px; width: 256px; }
+#playerName:hover { background-color: #F2465D; }
 
-#logsClicker:hover { transform: scale(1.1); }
+.gameRight { float: right; width: 50%; user-select: none; }
 
-#logsClicker:active { transform: scale(0.99); }
+.tab { overflow: hidden; }
 
-#logsClicker > .number { z-index: 99; font-size: 24px; font-family: "gaelic"; color: black; position: absolute; }
+.tab button { background-color: inherit; float: center; border: none; outline: none; cursor: pointer; transition: 0.3s; }
+
+.tab button:hover { background-color: #F2465D; }
+
+.tab button.active { background-color: #F78190; }
+
+.tabcontent { display: none; padding: 6px 12px; border: 1px solid #ccc; border-top: none; }
+
+#enemyClicker { background-size: contain; position: relative; transition: all .1s ease-in-out; max-width: 256px; }
+
+#enemyClicker img { cursor: pointer; height: 256px; width: 256px; }
+
+#enemyClicker:hover { transform: scale(1.1); }
+
+#enemyClicker:active { transform: scale(0.99); }
+
+#enemyClicker > .number { z-index: 99; font-size: 36px; font-family: "gaelic"; color: red; position: absolute; }
+
+#enemyName { font-size: 28px; background-color: #F78190; padding: 10px; border-radius: 10px; }
 
 .marketplaceButton { background-color: #B5B5B5; transition: all .2s ease-in-out; border-radius: 10px; width: 100%; margin: 10px 0px 10px 0px; }
 

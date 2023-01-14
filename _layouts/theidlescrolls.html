@@ -21,13 +21,20 @@
         {% include navigation.html %}
         <div id="container">
             <div id="flex">
+              <aside id="leftSidebar">
+                {% include leftSidebar.html %}
+              </aside>
+              <main>
                 {{ content }}
+              </main>
+              <aside id="rightSidebar">
+                {% include rightSidebar.html %}
+              </aside>
             </div>
             <footer>
                 {% include footer.html %}
             </footer>
         </div>
-        <script src="assets/js/base64.js"></script>
         <script src="assets/js/theidlescrolls.js"></script>
         <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
         <script>
@@ -53,8 +60,8 @@
               "position": "top",
               "static": true,
               "content": {
-                "message": "This website uses cookies for ads, traffic analysis, and a consistent experience.",
-                "dismiss": "I consent!",
+                "message": "This website uses cookies for a consistent experience, ads, and traffic analysis.",
+                "dismiss": "Dismiss",
                 "link": "Find out more"
               }
             });

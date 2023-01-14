@@ -1,61 +1,109 @@
-#gameLeftSidebar {
-    width: 10%;
-    font-family: "pelagiad";
-    font-size: 24px;
-    list-style-type: none;
+#leftSidebar button {
+    transition: all .2s ease-in-out;
+    font-family: pelagiad;
+    font-size: 18px;
+    background-color: #FACFCF;
+    cursor: pointer;
+}
+
+#leftSidebar button:hover {
+    background-color: #F2465D;
+}
+
+#saveAlert {
+    opacity: 0;
 }
 
 .gameLeft {
     float: left;
     width: 50%;
+    font-family: pelagiad;
+    font-size: 24px;
 }
 
-.titleContainer {
+#playerName {
+    cursor: pointer;
+    transition: all .2s ease-in-out;
     font-family: pelagiad;
-    font-size: 48px;
+    font-size: 36px;
     text-align: center;
     background-color: #F78190;
-    width: 97.5%;
     padding: 10px;
     border-radius: 10px;
 }
 
+#playerName:hover {
+    background-color: #F2465D;
+}
+
 .gameRight {
-    font-family: pelagiad;
     float: right;
     width: 50%;
     user-select: none;
 }
 
-.gameRight button {
-    font-family: pelagiad;
-    font-size: 24px;
-    float: right;
+.tab {
+    overflow: hidden;
 }
 
-#logsClicker {
-    background-image: url("/assets/images/TIS/Firewood.webp");
+.tab button {
+    background-color: inherit;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.tab button:hover {
+    background-color: #F2465D;
+}
+
+.tab button.active {
+    background-color: #F78190;
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+#enemyClicker {
     background-size: contain;
     position: relative;
     transition: all .1s ease-in-out;
+    max-width: 256px;
+}
+
+#enemyClicker img {
+    cursor: pointer;
     height: 256px;
     width: 256px;
 }
 
-#logsClicker:hover {
+#enemyClicker:hover {
     transform: scale(1.10);
 }
 
-#logsClicker:active {
+#enemyClicker:active {
     transform: scale(0.99);
 }
 
-#logsClicker > .number {
+#enemyClicker > .number {
     z-index: 99;
-    font-size: 24px;
+    font-size: 36px;
     font-family: "gaelic";
-    color: black;
+    color: red;
     position: absolute;
+}
+
+#enemyName {
+    font-size: 28px;
+    background-color: #F78190;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .marketplaceButton {
