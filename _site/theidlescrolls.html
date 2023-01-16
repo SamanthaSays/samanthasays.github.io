@@ -20,19 +20,33 @@
     <body>
         <div class="navigation" id="myNavigation">
     
+    
     <a href="/">Home</a>
+    
+    
     
     <a href="/mods">Mods</a>
     
+    
+    
     <a href="/characters">Characters</a>
+    
+    
     
     <a href="/gallery">Gallery</a>
     
-    <a href="/game">Game</a>
+    
+    
+    <a class="active" href="/game">Game</a>
+    
+    
     
     <a href="https://shrsl.com/3um55">Merch</a>
     
+    
+    
     <a href="/about">About</a>
+    
     
     <a href="javascript:void(0);" class="icon" onclick="borgy()">
         <i class="fa fa-bars"></i>
@@ -73,26 +87,22 @@
     <p class="unselectable">Gold:<br />
     <span id="goldAmount">0</span><br />
     <span id="goldPerSecond">0</span></p>
-    <div class="unselectable" id="enemyClicker"></div>
+    <div id="enemyClicker"></div>
     <span class="unselectable" id="enemyName">Loading...</span></center>
 </div>
 <div class="gameRight">
-    <div class="tab">
-        <button class="tablinks unselectable" onclick="rightMenu(event, 'Character')"><img src="assets/images/TIS/ON-icon-Bank.webp" /></button>
-        <button class="tablinks unselectable" id="defaultOpen" onclick="rightMenu(event, 'Marketplace')"><img src="assets/images/TIS/ON-icon-Vendor.webp" /></button>
-        <button class="tablinks unselectable" onclick="rightMenu(event, 'Blacksmith')"><img src="assets/images/TIS/ON-icon-Smithy.webp" /></button>
-    </div>
+    <div id="rightMenu"></div>
     <div id="Character" class="tabcontent">
-        <h3>Character</h3>
-        <p>things and stuff</p>
+        <div id="tabCharacter"></div>
     </div>
     <div id="Marketplace" class="tabcontent">
-        <h3>Marketplace</h3>
-        <p>stuff and things</p>
+        <div id="tabMarketplace"></div>
     </div>
     <div id="Blacksmith" class="tabcontent">
-        <h3>Blacksmith</h3>
-        <p>stuff and stuff</p>
+        <div id="tabBlacksmith"></div>
+    </div>
+    <div id="FightersGuild" class="tabcontent">
+        <div id="tabFightersGuild"></div>
     </div>
 </div>
 <div class="unselectable" id="upgradeContainer"></div>

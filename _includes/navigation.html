@@ -1,6 +1,10 @@
 <div class="navigation" id="myNavigation">
     {% for item in site.data.navigation %}
+    {% if item.name == page.section %}
+    <a class="active" href="{{ item.link }}">{{ item.name }}</a>
+    {% else %}
     <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endif %}
     {% endfor %}
     <a href="javascript:void(0);" class="icon" onclick="borgy()">
         <i class="fa fa-bars"></i>
