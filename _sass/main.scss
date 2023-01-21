@@ -1,6 +1,6 @@
 body {
-    background-color: #FACFCF;
-    color: black;
+    background-color: var(--background);
+    color: var(--textMain);
     font-family: "univers";
     margin: 0;
     padding: 0;
@@ -12,41 +12,47 @@ body {
     max-width: 1440px;
     margin: 0 auto;
 }
-#container a:link {
-    color: #0645AD;
-    text-decoration: none;
-}
-#container a:visited {
-    color: #0B0080;
-    text-decoration: none;
-}
-#container a:hover {
-    text-decoration: underline;
-}
   
 #flex {
     display:flex;
 }
   
 aside {
-    background-color: #F78190;
+    background-color: var(--aside);
     padding: 15px;
 }
-  
+
 main {
     width: 69%;
-    background-color: #FACFCF;
+    background-color: var(--background);
     flex:1;
     padding:20px;
     order:2;
 }
-  
+
 #leftSidebar {
     order:1;
     width: 10%;
     font-family: "eurostile";
     font-weight: bold;
     list-style-type: none;
+}
+
+.socials {
+    padding-left:10px;
+    list-style-type: none;
+}
+
+.socials a:link {
+    color: var(--textLink);
+    text-decoration: none;
+}
+.socials a:visited {
+    color: var(--textLinkVisited);
+    text-decoration: none;
+}
+.socials a:hover {
+    text-decoration: underline;
 }
   
 #rightSidebar {
@@ -88,11 +94,55 @@ main {
 }
   
 footer {
-    background-color: #FF545A;
+    background-color: var(--footer);
     padding: 5px;
     text-align: center;
     font-size: 10px;
     font-weight: bolder;
+}
+
+.themeButton {
+    background-color: var(--navigation);
+    color: var(--textInverse);
+    padding: 8px;
+    cursor: pointer;
+    border: none;
+}
+
+.themeButton:hover {
+    background-color: var(--background);
+    color: var(--textMain);
+}
+
+.theme {
+    position: relative;
+    display: inline-block;
+}
+
+.themeContent {
+    display: none;
+    position: absolute;
+    background-color: var(--navigation);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    min-width: 140px;
+}
+
+.themeContent a {
+    color: var(--textInverse);
+    text-decoration: none;
+    padding: 8px;
+    display: block;
+    user-select: none;
+    cursor: pointer;
+}
+
+.themeContent a:hover {
+    background-color: var(--background);
+    color: var(--textMain);
+}
+
+.show {
+    display: block;
 }
 
 /* Re-order page under 1280px */

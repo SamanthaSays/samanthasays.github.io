@@ -2,7 +2,7 @@
 .navigation {
   font-family: "eurostile";
   font-weight: bold;
-  background-color: #F2465D;
+  background-color: var(--navigation);
   overflow: hidden;
   max-width: 1440px;
   margin: 0 auto;
@@ -10,7 +10,7 @@
 /* Link text */
 .navigation a {
   float: left;
-  color: #F2F2F2;
+  color: var(--textInverse);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -18,13 +18,13 @@
 }
 /* Link colour on hover */
 .navigation a:hover {
-  background-color: #FACFCF;
-  color: black;
+  background-color: var(--background);
+  color: var(--textMain);
 }
 /* Colour of active page */
 .navigation .active {
-  background-color: #F78190;
-  color: black;
+  background-color: var(--aside);
+  color: var(--textMain);
 }
 /* Icon on small screens */
 .navigation .icon {

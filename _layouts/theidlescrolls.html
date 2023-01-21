@@ -5,38 +5,39 @@
         <title>{{ page.title }}</title>
         <link rel = "icon" href = "/assets/images/Apples icon.png" type = "image/x-icon">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
         <link rel="stylesheet" href="/assets/css/styles.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+        <script src="assets/js/theme.js"></script>
+        <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6719583402470545"
+            crossorigin="anonymous"></script>
+        <script src="assets/js/theidlescrolls.js"></script>
     </head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F4LQ0GBVF7"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-F4LQ0GBVF7');
-    </script>
     <body>
+        <script>
+            if (localStorage.getItem("theme") !== null) {
+                theme(JSON.parse(localStorage.getItem("theme")));
+            }
+        </script>
         {% include navigation.html %}
         <div id="container">
             <div id="flex">
-              <aside id="leftSidebar">
-                {% include leftSidebar.html %}
-              </aside>
-              <main>
-                {{ content }}
-              </main>
-              <aside id="rightSidebar">
-                {% include rightSidebar.html %}
-              </aside>
+                <aside id="leftSidebar">
+                    {% include saveGame.html %}
+                    {% include socials.html %}
+                    {% include theme.html %}
+                </aside>
+                <main>
+                    {{ content }}
+                </main>
+                <aside id="rightSidebar">
+                    {% include rightSidebar.html %}
+                </aside>
             </div>
             <footer>
                 {% include footer.html %}
             </footer>
         </div>
-        <script src="assets/js/theidlescrolls.js"></script>
-        <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
         <script>
             kofiWidgetOverlay.draw('samanthasays', {
                 'type': 'floating-chat',
@@ -48,23 +49,23 @@
         <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
         <script>
             window.cookieconsent.initialise({
-              "palette": {
-                "popup": {
-                  "background": "#8fabbb"
+                "palette": {
+                    "popup": {
+                        "background": "#8fabbb"
+                    },
+                    "button": {
+                        "background": "#e6e6e6"
+                    }
                 },
-                "button": {
-                  "background": "#e6e6e6"
+                "theme": "edgeless",
+                "position": "top",
+                "static": true,
+                "content": {
+                    "message": "This website uses cookies for a consistent experience, ads, and traffic analysis.",
+                    "dismiss": "Dismiss",
+                    "link": "Find out more"
                 }
-              },
-              "theme": "edgeless",
-              "position": "top",
-              "static": true,
-              "content": {
-                "message": "This website uses cookies for a consistent experience, ads, and traffic analysis.",
-                "dismiss": "Dismiss",
-                "link": "Find out more"
-              }
             });
-            </script>
+        </script>
     </body>
 </html>
