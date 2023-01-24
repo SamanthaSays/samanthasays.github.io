@@ -1,0 +1,15 @@
+- name: The Elder Scrolls Online
+  link: /eso
+  image: ESO-cover.webp
+- name: Skyrim VR
+  link: /ssevr
+  image: SSE VR-cover.webp
+- name: Morrowind
+  link: /morrowind
+  image: MW-cover.webp
+- name: Daggerfall
+  link: /daggerfall
+  image: DF-cover.webp
+- name: Minecraft
+  link: /minecraft
+  image: MC-cover.webp
