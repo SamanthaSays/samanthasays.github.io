@@ -61,6 +61,19 @@ main {
     font-size: smaller;
 }
 
+#twitchContainer {
+    position: relative;
+    aspect-ratio: 94/48;
+    float: center;
+}
+
+#twitch-embed {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+}
+
 #rightImage {
     text-align: center;
 }
@@ -99,6 +112,25 @@ footer {
     text-align: center;
     font-size: 10px;
     font-weight: bolder;
+}
+
+#title {
+    font-size: 2em;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#tablesContainer {
+    text-align: center;
+    font-weight: bolder;
+}
+
+#modGallery {
+    display: inline;
+}
+
+#modGallery img {
+    height: 300px;
 }
 
 .themeButton {
