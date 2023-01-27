@@ -13,6 +13,15 @@
             crossorigin="anonymous"></script>
     </head>
     <body>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-F4LQ0GBVF7"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-F4LQ0GBVF7');
+        </script>
+        <!-- Theme manager -->
         <script>
             if (localStorage.getItem("theme") !== null) {
                 theme(JSON.parse(localStorage.getItem("theme")));
