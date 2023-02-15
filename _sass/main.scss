@@ -98,7 +98,7 @@ main {
     height: 0;
 }
 
-#chatEmbed iframe{
+#chatEmbed iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -131,6 +131,39 @@ footer {
 
 #modGallery img {
     height: 300px;
+}
+
+.qotd {
+    width: 40%;
+    height: 20%;
+    margin: 1em;
+    outline: var(--navigation) solid 0.15em;
+    padding: 0.1em;
+    border-radius: 0.3em;
+    float: right;
+    overflow-y: scroll;
+}
+
+.qotd::-webkit-scrollbar {
+    width: 0.3em;
+}
+
+.qotd::-webkit-scrollbar-track {
+    background: var(--aside);
+}
+
+.qotd::-webkit-scrollbar-thumb {
+    background: var(--navigation);
+}
+
+.qotd figcaption {
+    margin: 1em;
+}
+
+.qotd blockquote {
+    font-size: 0.8em;
+    text-indent: 1em;
+    margin: 1em;
 }
 
 .themeButton {
