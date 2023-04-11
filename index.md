@@ -4,9 +4,36 @@ title: Home | Samantha Says
 section: Home
 ---
 
-<div id="title">Samantha Says</div>
+<h1>Samantha Says</h1>
 
-<figure class="qotd">
+There are many more pages to come, <a href="about">check out the About page</a> to see what's being worked on!
+
+<h3 style="text-align:center">Samantha Says on <a href="https://twitch.tv/samanthasays" title="Visit Samantha Says on Twitch" target="_blank">Twitch</a></h3>
+
+<div class="twitch">
+  <div class="twitch-video">
+    <iframe
+      src="https://player.twitch.tv/?channel=samanthasays&parent=samanthasays.github.io&autoplay=true"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen="true"
+      height="100%"
+      width="100%">
+    </iframe>
+  </div>
+  <div class="twitch-chat">
+    <iframe
+      frameborder="0"
+      scrolling="no"
+      src="https://www.twitch.tv/embed/samanthasays/chat?parent=amanthasays.github.io"
+      height="100%"
+      width="100%">
+    </iframe>
+  </div>
+</div>
+
+<h3>Favourite quote:</h3>
+<figure id="qotd">
     <blockquote>
         <p>Most computer gamers use the save game to maximise their playing ability. Any time something goes wrong, they return to a saved game and replay it until they get it right. The final history of their game looks like an endless streak of lucky breaks and perfect choices.</p>
         <p>Roleplaying is not about playing the perfect game. It is about building a character and creating a story. Bethesda Softworks has worked very hard to make The Elder Scrolls: Daggerfall a game that does not require players to replay their mistakes. All adversity can be overcome, excepting only the character's actual death. In fact, you will never see some of the most interesting aspects of the game unless you play through your mistakes.</p>
@@ -17,19 +44,11 @@ section: Home
     </figcaption>
 </figure>
 
-There are many more pages to come, <a href="about">check out the About page</a> to see what's being worked on!
-
-<br><br><br><br><br><br><br>
-<h3 style="text-align:center">Samantha Says on <a href="https://twitch.tv/samanthasays" title="Visit Samantha Says on Twitch" target="_blank">Twitch</a></h3>
-
-<div id="twitchContainer"><div id="twitch-embed"></div></div>
-
-<script src="https://embed.twitch.tv/embed/v1.js"></script>
-<script type="text/javascript">
-    new Twitch.Embed("twitch-embed", {
-        width: "100%",
-        height: "100%",
-        channel: "samanthasays",
-        muted: true
+<script>
+    kofiWidgetOverlay.draw('samanthasays', {
+        'type': 'floating-chat',
+        'floating-chat.donateButton.text': 'Tip Jar',
+        'floating-chat.donateButton.background-color': '#F2465D',
+        'floating-chat.donateButton.text-color': '#fff'
     });
 </script>

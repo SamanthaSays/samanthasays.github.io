@@ -1,81 +1,107 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: var(--background);
     color: var(--textMain);
     font-family: "univers";
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    box-sizing: border-box;
-}
-
-#container {
-    max-width: 1440px;
     margin: 0 auto;
-}
-  
-#flex {
-    display:flex;
-}
-  
-aside {
-    background-color: var(--aside);
-    padding: 15px;
+    padding: 0px;
+    max-width: 1440px;
 }
 
-main {
-    width: 69%;
-    background-color: var(--background);
-    flex:1;
-    padding:20px;
-    order:2;
+.container {
+    display: flex;
+    flex-wrap: wrap;
 }
 
-#leftSidebar {
-    order:1;
-    width: 10%;
-    font-family: "eurostile";
-    font-weight: bold;
-    list-style-type: none;
+/* mobile */
+.container > * {
+    width: 100%;
 }
 
-.socials {
-    padding-left:10px;
-    list-style-type: none;
+/* tablet */
+@media (min-width: 768px) {
+    .container > .sidebarLeft,
+    .container > .sidebarRight {
+        width: 50%;
+    }
 }
 
-.socials a:link {
+/* desktop */
+@media (min-width: 1024px) {
+    .container > .navigation {
+        order: -2;
+    }
+    .container > .sidebarLeft {
+        order: -1;
+    }
+    .container > .content {
+        width: 66%;
+    }
+    .container > .sidebarLeft {
+        width: 12%;
+    }
+    .container > .sidebarRight {
+        width: 22%;
+    }
+}
+
+.container > .navigation {background: var(--navigation)}
+.container > .content {background: var(--background)}
+.container > .sidebarLeft {background: var(--aside)}
+.container > .sidebarRight {background: var(--aside)}
+.container > .footer {background: var(--footer)}
+
+.content, .sidebarLeft, .sidebarRight {
+    padding: 1rem;
+}
+
+.content a {
     color: var(--textLink);
     text-decoration: none;
 }
-.socials a:visited {
-    color: var(--textLinkVisited);
+
+.content a:visited {
+    color: var(--textLink);
     text-decoration: none;
 }
-.socials a:hover {
+
+.content a:hover {
     text-decoration: underline;
 }
-  
-#rightSidebar {
-    order: 3;
-    width: 21%;
-    font-size: smaller;
+
+.sidebarLeft {
+    font-family: "eurostile";
+    font-weight: bold;
 }
 
-#twitchContainer {
+.sidebarRight {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.footer {
+    background-color: var(--footer);
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 0.65rem;
+    font-weight: bolder;
+}
+
+#chatEmbed {
     position: relative;
-    aspect-ratio: 94/48;
-    float: center;
+    padding-bottom: 100%;
+    height: 0;
 }
 
-#twitch-embed {
+#chatEmbed iframe {
     position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
-    left: 0;
-}
-
-#rightImage {
-    text-align: center;
 }
 
 #twitchPlayer {
@@ -92,141 +118,67 @@ main {
     height: 100%;
 }
 
-#chatEmbed {
-    position: relative;
-    padding-bottom: 100%;
-    height: 0;
+#socials {
+    padding-left: 1rem;
+    list-style-type: none;
 }
 
-#chatEmbed iframe {
+#socials a {
+    color: var(--textLink);
+    text-decoration: none;
+}
+#socials a:visited {
+    color: var(--textLinkVisited);
+    text-decoration: none;
+}
+#socials a:hover {
+    text-decoration: underline;
+}
+
+#qotd {
+    outline: var(--navigation) solid 0.15em;
+    border-radius: 0.3em;
+    padding: 0.3em;
+}
+
+.twitch .twitch-video {
+    padding-top: 56.25%;
+    position: relative;
+    height: 0;
+  }
+  
+  .twitch .twitch-video iframe {
     position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 100%;
-}
+    top: 0;
+  }
+
+  .twitch .twitch-chat {
+    height: 400px;
+  }
   
-footer {
-    background-color: var(--footer);
-    padding: 5px;
-    text-align: center;
-    font-size: 10px;
-    font-weight: bolder;
-}
+  .twitch .twitch-chat iframe {
+    width: 100%;
+    height: 100%;
+  }
 
-#title {
-    font-size: 2em;
-    text-align: center;
-    font-weight: bolder;
-}
-
-#tablesContainer {
-    text-align: center;
-    font-weight: bolder;
-}
-
-#modGallery {
-    display: inline;
-}
-
-#modGallery img {
-    height: 300px;
-}
-
-.qotd {
-    width: 40%;
-    height: 20%;
-    margin: 1em;
-    outline: var(--navigation) solid 0.15em;
-    padding: 0.1em;
-    border-radius: 0.3em;
-    float: right;
-    overflow-y: scroll;
-}
-
-.qotd::-webkit-scrollbar {
-    width: 0.3em;
-}
-
-.qotd::-webkit-scrollbar-track {
-    background: var(--aside);
-}
-
-.qotd::-webkit-scrollbar-thumb {
-    background: var(--navigation);
-}
-
-.qotd figcaption {
-    margin: 1em;
-}
-
-.qotd blockquote {
-    font-size: 0.8em;
-    text-indent: 1em;
-    margin: 1em;
-}
-
-.themeButton {
-    background-color: var(--navigation);
-    color: var(--textInverse);
-    padding: 8px;
-    cursor: pointer;
-    border: none;
-}
-
-.themeButton:hover {
-    background-color: var(--background);
-    color: var(--textMain);
-}
-
-.theme {
-    position: relative;
-    display: inline-block;
-}
-
-.themeContent {
-    display: none;
-    position: absolute;
-    background-color: var(--navigation);
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    min-width: 140px;
-}
-
-.themeContent a {
-    color: var(--textInverse);
-    text-decoration: none;
-    padding: 8px;
-    display: block;
-    user-select: none;
-    cursor: pointer;
-}
-
-.themeContent a:hover {
-    background-color: var(--background);
-    color: var(--textMain);
-}
-
-.show {
-    display: block;
-}
-
-/* Re-order page under 1280px */
-@media only screen and (max-width: 620px) {
-    #flex {
-        flex-wrap: wrap;
+  @media screen and (min-width: 768px) {
+    .twitch {
+      position: relative;
     }
-    main {
-        order: 1;
+  
+    .twitch .twitch-video {
+      width: 75%;
+      padding-top: 42.1875%;
     }
-    #leftSidebar {
-        order: 2;
-        width: 100%;
-    }
-    #rightSidebar {
-        order: 3;
-        width: 100%;
-    }
-    aside {
-        width: 100%;
+  
+    .twitch .twitch-chat {
+      width: 25%;
+      height: auto;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
     }
   }

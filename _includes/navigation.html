@@ -1,4 +1,4 @@
-<div class="navigation" id="myNavigation">
+<navigation class="navigation" id="myNavigation">
     {% for item in site.data.navigation %}
     {% if item.name == page.section %}
     <a class="active" href="{{ item.link }}">{{ item.name }}</a>
@@ -21,4 +21,4 @@
       }
     }
   </script>
-</div>
+</navigation>
