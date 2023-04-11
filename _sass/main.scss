@@ -156,6 +156,7 @@ body {
 
   .twitch .twitch-chat {
     height: 400px;
+    overflow-y: scroll;
   }
   
   .twitch .twitch-chat iframe {
