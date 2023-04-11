@@ -10,26 +10,8 @@ There are many more pages to come, <a href="about">check out the About page</a> 
 
 <h3 style="text-align:center">Samantha Says on <a href="https://twitch.tv/samanthasays" title="Visit Samantha Says on Twitch" target="_blank">Twitch</a></h3>
 
-<div class="twitch">
-  <div class="twitch-video">
-    <iframe
-      src="https://player.twitch.tv/?channel=samanthasays&parent=samanthasays.github.io&autoplay=true"
-      frameborder="0"
-      scrolling="no"
-      allowfullscreen="true"
-      height="100%"
-      width="100%">
-    </iframe>
-  </div>
-  <div class="twitch-chat">
-    <iframe
-      frameborder="0"
-      scrolling="no"
-      src="https://www.twitch.tv/embed/samanthasays/chat?parent=samanthasays.github.io"
-      height="100%"
-      width="100%">
-    </iframe>
-  </div>
+<div id="twitchPlayer">
+<p><iframe src="https://player.twitch.tv/?channel=samanthasays&parent=samanthasays.github.io" frameborder="0" allowfullscreen="true" scrolling="no"></iframe></p>
 </div>
 
 <h3>Favourite quote:</h3>
