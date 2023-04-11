@@ -25,7 +25,7 @@ There are many more pages to come, <a href="about">check out the About page</a> 
     <iframe
       frameborder="0"
       scrolling="no"
-      src="https://www.twitch.tv/embed/samanthasays/chat?parent=amanthasays.github.io"
+      src="https://www.twitch.tv/embed/samanthasays/chat?parent=samanthasays.github.io"
       height="100%"
       width="100%">
     </iframe>
