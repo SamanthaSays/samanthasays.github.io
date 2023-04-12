@@ -1,7 +1,7 @@
 {% for item in site.data.moddedGames %}
     <table id="modGallery">
         <tr>
-            <th><a href="/mods{{ item.link }}"><img src="assets/images/games/{{ item.image }}"></a></th>
+            <th><a href="/mods{{ item.link }}"><img src="/assets/images/games/{{ item.image }}"></a></th>
         </tr><tr>
             <td><a href="/mods{{ item.link }}">{{ item.name }}</a></td>
         </tr>

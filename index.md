@@ -6,7 +6,16 @@ section: Home
 
 <h1>Samantha Says</h1>
 
-There are many more pages to come, <a href="about">check out the About page</a> to see what's being worked on!
+<h2>Latest Pages</h2>
+<table id="latestPages">
+    <tr>
+        <td><a href="mods" title="My modlists">Mods</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 <h3 style="text-align:center">Samantha Says on <a href="https://twitch.tv/samanthasays" title="Visit Samantha Says on Twitch" target="_blank">Twitch</a></h3>
 
