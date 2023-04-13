@@ -4,6 +4,29 @@ title: ESO Mods | Samantha Says
 section: Mods
 ---
 
-<h1>Coming soon!</h1>
+<h1>ESO add-ons</h1>
 
-Once I get a template ready, it should be easy to write up all of my modlists!
+
+
+All add-ons are installed and managed through <a target="_blank" href="https://www.minion.gg">Minion 3</a>.
+
+Remember to not just blindly copy somebody else's add-on selection. Make sure each add-on is one that you really want! Because of this, my installed Libraries are not listed.
+
+Additionally, I use <a target="_blank" href="https://www.nexusmods.com/elderscrollsonline/mods/69">Sildurs Enhanced TESO</a> reshade. It's subtle, but really makes the image quality pop.
+
+Add-ons marked with a ♥ heart are my top 10 favourites. Last updated on the 13th of April, 2023.
+
+<table class="modlist">
+    <thead>
+    <tr>
+        <th class="order order-active">Add-on</th>
+        <th class="order order-inactive">Category</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% include esoMods.html %}
+    </tbody>
+</table>
+
+<script src="/assets/js/tableSort.js"></script>

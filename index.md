@@ -9,8 +9,8 @@ section: Home
 <h2>Latest Pages</h2>
 <table id="latestPages">
     <tr>
+        <td><a href="mods/eso" title="ESO Add-ons">ESO Add-ons</a></td>
         <td><a href="mods" title="My modlists">Mods</a></td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>

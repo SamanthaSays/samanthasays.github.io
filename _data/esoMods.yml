@@ -1,0 +1,336 @@
+- name: Accurate World Map
+  link: https://www.esoui.com/downloads/info3377-AccurateWorldMap.html
+  category: Map, Coords, Compasses
+  author: Thal-j
+  description: Totally recreates ESO's world map. It remasters it in 8k as well as fixes various lore issues, improving the map's overall quality.
+  choice: Yes
+- name: Character Knowledge (Motif, Recipe and Furnishing Plan Tracker)
+  link: https://www.esoui.com/downloads/info2938-CharacterKnowledgeMotifRecipeandFurnishingPlanTracker.html
+  category: Character Advancement
+  author: code65536
+  description: Tracks recipe, furnishing plan, and motif knowledge across multiple characters.
+  choice: Yes
+- name: EasyTravel
+  link: https://www.esoui.com/downloads/info1454-EasyTravel.html
+  category: Map, Coords, Compasses
+  author: sirinsidiator
+  description: Right click a zone in the location tab of the map screen to automatically search for a player to jump to.
+  choice: Yes
+- name: Event Collectibles
+  link: https://www.esoui.com/downloads/info2588-EventCollectibles.html
+  category: Data Mods
+  author: code65536
+  description: Displays a list of every account-wide collectible that can be acquired during time-limited events.
+  choice: Yes
+- name: Harven's Quest Journal
+  link: https://www.esoui.com/downloads/info580-HarvensQuestJournal.html
+  category: Character Advancement
+  author: Harven
+  description: A fully functional quest journal inspired by The Elder Scrolls III&#58; Morrowind.
+  choice: Yes
+- name: Item Set Browser
+  link: https://www.esoui.com/downloads/info1480-ItemSetBrowser.html
+  category: Data Mods
+  author: code65536
+  description: An easier, faster, more efficient way to navigate item sets.
+  choice: Yes
+- name: Jack of all Trades - Automatic CP Respec
+  link: https://www.esoui.com/downloads/info2951-JackofallTrades-AutomaticCPRespec.html
+  category: Character Advancement
+  author: CyberOnEso
+  description: Automatically adjusts the Craft champion bar depending on context.
+  choice: Yes
+- name: Loot Log
+  link: https://www.esoui.com/downloads/info1455-LootLog.html
+  category: Bags, Bank, Inventory
+  author: code65536
+  description: Helps track your loot drops and those of group members.
+  choice: Yes
+- name: Notebook 2018
+  link: https://www.esoui.com/downloads/info1991-Notebook2018.html
+  category: Miscellaneous
+  author: Phuein
+  description: A virtual notebook to keep track of anything. Allows the creation of as many pages as you wish to write.
+  choice: Yes
+- name: PerfectPixel
+  link: https://www.esoui.com/downloads/info2103-PerfectPixel.html
+  category: Bags, Bank, Inventory
+  author: KLISK
+  description: Changes the style of windows and expands the inventory list.
+  choice: Yes
+- name: Addon Selector
+  link: https://www.esoui.com/downloads/info1161-AddonSelectorSaveAddOnprofilespacks.html
+  category: Utility Mods
+  author: Baertram
+  description: Allows you to save the current enabled state of all of your addons in an addon pack.
+- name: Aetherius Badge Filter
+  link: https://www.esoui.com/downloads/info1354-AetheriusBadgeFilter.html
+  category: Group, Guild & Friends
+  author: sirinsidiator
+  description: Adds a new button to the guild roster to filter members by their badges.
+- name: Arkadius' Trade Tools
+  link: https://www.esoui.com/downloads/info1752-ArkadiusTradeTools.html
+  category: Auction House & Vendors
+  author: Arkadius
+  description: Collects sales and purchases from the player's guilds and displays them, lists average price to item tooltips.
+- name: Auto Recharge (and repair)
+  link: https://www.esoui.com/downloads/info1091-AutoRechargeandrepair.html
+  category: Combat Mods
+  author: XanDDemoX
+  description: Recharges and repairs your equipped weapons and armour automatically upon entering and leaving combat.
+- name: AwesomeGuildStore
+  link: https://www.esoui.com/downloads/info695-AwesomeGuildStore.html
+  category: Auction House & Vendors
+  author: sirinsidiator
+  description: Augments the guild store interface with. Item categories are like in the inventory and countless filters.
+- name: BeamMeUp - Teleporter (Fast Travel)
+  link: https://www.esoui.com/downloads/info2143-BeamMeUp-TeleporterFastTravel.html
+  category: Map, Coords, Compasses
+  author: DeadSoon
+  description: All fast travel options you have through guilds, friends, and group are listed in a clear way and are usable with different search and filtering features.
+- name: Code's Combat Alerts
+  link: https://www.esoui.com/downloads/info1855-CodesCombatAlerts.html
+  category: Combat Mods
+  author: code65536
+  description: Provides notifications and alerts for a selection of PvE mechanics.
+- name: Combat Metrics
+  link: https://www.esoui.com/downloads/info1360-CombatMetrics.html
+  category: Combat Mods
+  author: Solinur
+  description: Tracks your fights, measures your DPS and other statistics.
+- name: CraftStore
+  link: https://www.esoui.com/downloads/info1590-CraftStoreScribesofFate.html
+  category: TradeSkill Mods
+  author: Rhyono
+  description: Tracks known traits, custom enchanting and provisioning UI, and more.
+- name: Discord Status
+  link: https://www.esoui.com/downloads/info2054-DiscordStatus.html
+  category: Miscellaneous
+  author: Medallyonify
+  description: Discord Rich Presence information, showing character information, current location, quest, and more.
+- name: Dolgubon's Lazy Writ Crafter
+  link: https://www.esoui.com/downloads/info1346-DolgubonsLazyWritCrafter.html
+  category: TradeSkill Mods
+  author: Dolgubon
+  description: Fully automatic writ crafting, reward looting, and more.
+- name: Dungeon Timer
+  link: https://www.esoui.com/downloads/info2262-DungeonTimer.html
+  category: Info, Plug-in Bars
+  author: code65546
+  description: Keeps track of the time elapsed in veteran-mode group dungeons.
+- name: Dungeon Tracker
+  link: https://www.esoui.com/downloads/info1552-DungeonTracker.html
+  category: Map, Coords, Compasses
+  author: Phinix
+  description: Adds completion and achievement information to dungeon and trial tooltips, and overhauls the activity finder.
+- name: Enhanced Bounties
+  link: https://www.esoui.com/downloads/info3096-EnhancedBounties.html
+  category: Graphic UI Mods
+  author: Cirridyn
+  description: Monitors the player's inventory, including worn items, and displays the overall quantity and total gold value of all stolen items.
+- name: ESO Treasure Box
+  link: https://www.esoui.com/downloads/info3178-ESOTreasureBox.html
+  category: Bags, Bank, Inventory
+  author: Phinix
+  description: Adds a window to track, sort, and browse through all the treasures in Tamriel.
+
+- name: Favorite Dungeon Rotation
+  link: https://www.esoui.com/downloads/info2643-FavoriteDungeonRotation.html
+  category: Group, Guild & Friends
+  author: ownedbynico
+  description: Mark dungeons as favourites and queue for them with a single button.
+- name: Guild Hall List
+  link: https://www.esoui.com/downloads/info1720-GuildHallList.html
+  category: Homestead
+  author: sirinsidiator
+  description: Shows available guild halls on the guild home screen.
+- name: Harven's Improved Skills Window
+  link: https://www.esoui.com/downloads/info489-HarvensImprovedSkillsWindow.html
+  category: Character Advancement
+  author: Harven
+  description: Various improvements to the skills window.
+- name: HarvestMap
+  link: https://www.esoui.com/downloads/info57-HarvestMap.html
+  category: Map, Coords, Compasses
+  author: Shinni
+  description: Displays resource nodes, chests, and fishing spots on the map, compass, and 3D world.
+- name: ImmersiveHorseRiding
+  link: https://www.esoui.com/downloads/info1048-ImmersiveHorseRiding.html
+  category: RolePlay
+  author: Nuojua
+  description: Ride your mount in first-person.
+- name: Improved Companion Rapport Information
+  link: https://www.esoui.com/downloads/info3103-ImprovedCompanionRapportInformation.html
+  category: Character Advancement
+  author: code65536
+  description: Shows numeric rapport level on the Comapnion Overview screen, and notes rapport changes to the chat box.
+- name: Inventory Insight
+  link: https://www.esoui.com/downloads/info731-InventoryInsight.html
+  category: Bags, Bank, Inventory
+  author: manavortex
+  description: Tracks everything in all your characters bags, bank, guild banks, craft bag, and storage chests.
+- name: JunkBuster
+  link: https://www.esoui.com/downloads/info266-JunkBuster.html
+  category: Bags, Bank, Inventory
+  author: ADH
+  description: A rule-based system for marking items as junk or destroying them.
+- name: LoreBooks
+  link: https://www.esoui.com/downloads/info288-LoreBooks.html
+  category: Map, Coords, Compasses
+  author: Kyoma
+  description: Displays map pins for Shalidor's Library and Eidetic Memory.
+- name: LorePlay Forever
+  link: https://www.esoui.com/downloads/info2523-LorePlayForever.html
+  category: Plug-Ins & Patches
+  author: Calamath
+  description: Smart emotes, idle emotes, and automatic style changes based on context.
+- name: Map Pins
+  link: https://www.esoui.com/downloads/info1881-MapPins.html
+  category: Map, Coords, Compasses
+  author: Hoft
+  description: Adds additional pins to the in-game map.
+- name: MarkPledges
+  link: https://www.esoui.com/downloads/info2261-MarkPledges.html
+  category: Miscellaneous
+  author: KLISK
+  description: Highlights dungeons in which you took the Undaunted Pledge.
+- name: Master Writ Inventory Marker (WritWorthy Extension)
+  link: https://www.esoui.com/downloads/info2887-MasterWritInventoryMarkerWritWorthyExtension.html
+  category: TradeSkill Mods
+  author: code65536
+  description: Adds a marker to master writs to indicate which can be completed.
+- name: Miat's PVP Alerts
+  link: https://www.esoui.com/downloads/info1545-MiatsPVPAlerts.html
+  category: PvP
+  author: dorrino
+  description: A plethora of useful features to display various PvP-related information in a convenient way.
+- name: Monster Set Shoulder Collector
+  link: https://www.esoui.com/downloads/info2860-MonsterSetShoulderCollector.html
+  category: Data Mods
+  author: Thepinja
+  description: Adds several chat commands to display the odds of unlocking a new shoulder piece.
+- name: pChat
+  link: https://www.esoui.com/downloads/info93-pChatChatcustomizationhelplooknotificationsoundautomationhistory.html
+  category: Chat Mods
+  author: Puddy
+  description: Overhauls the chatbox with many customisable features.
+- name: Pollox's Daily Quest Tracker
+  link: https://www.esoui.com/downloads/info2192-PolloxsDailyQuestTracker.html
+  category: Miscellaneous
+  author: Pollox
+  description: Quick and easy overview of all the daily quests you care about across all your characters.
+- name: Potion Maker (for Alchemy Crafting)
+  link: https://www.esoui.com/downloads/info405-PotionMakerforAlchemyCrafting.html
+  category: TradeSkill Mods
+  author: facit
+  description: Overhauls the alchemy interface.
+- name: PvpMeter
+  link: https://www.esoui.com/downloads/info1760-PvpMeter.html
+  category: PvP
+  author: marig63
+  description: Tracks kills, death, assists, and currency in PvP.
+- name: Quest Map
+  link: https://www.esoui.com/downloads/info1022-QuestMap.html
+  category: Map, Coords, Compasses
+  author: CaptainBlagbird
+  description: Adds pins for completed and uncompleted quest to the map.
+- name: RaidNotifier Updated
+  link: https://www.esoui.com/downloads/info1355-RaidNotifierUpdated.html
+  category: Raid Mods
+  author: Kyoma
+  description: Alerts you to various raid mechanics.
+- name: Rare Fish Tracker
+  link: https://www.esoui.com/downloads/info665-RareFishTracker.html
+  category: Info, Plug-in Bars
+  author: katkat42
+  description: Keep track of the rare fish you have caught in your pursuit of fishing achievements.
+- name: Scootworks Bank Savings
+  link: https://www.esoui.com/downloads/info1539-ScootworksBankSavings.html
+  category: Bags, Bank, Inventory
+  author: Scootworks
+  description: Stores and withdraws gold, AP, tel var, and writ vouchers from the bank automatically.
+- name: Screenshot Mode
+  link: https://www.esoui.com/downloads/info3301-ScreenshotMode.html
+  category: Graphic UI Mods
+  author: stacy5419
+  description: Keybinding to disable all UI, take a screenshot, and enable the UI.
+- name: SquishyFinder
+  link: https://www.esoui.com/downloads/info2914-SquishyFinder.html
+  category: PvP
+  author: Divnyi
+  description: Shows target current and max health around the crosshair, with colour and title depending on their health.
+- name: Synced Account Settings [Masteroshi430's branch]
+  link: https://www.esoui.com/downloads/info3418-SyncedAccountSettingsMasteroshi430sbranch.html
+  category: Utility Mods
+  author: Masteroshi430
+  description: Syncs account settings across all characters.
+- name: Tamriel Trade Centre
+  link: https://www.esoui.com/downloads/info1245-TamrielTradeCentre.html
+  category: Auction House & Vendors
+  author: cyxui
+  description: Collects and displays guild store information in an online database.
+- name: Thief Tools
+  link: https://www.esoui.com/downloads/info1721-ThiefTools.html
+  category: Info, Plug-in Bars
+  author: Shadowfen
+  description: Provides a variety of helpful tools to manage and profit from your thieving career.
+- name: uespLog
+  link: https://www.esoui.com/downloads/info1257-uespLog.html
+  category: Utility Mods
+  author: Uesp
+  description: Collects game data for UESP.
+- name: Urich's Skill Point Finder
+  link: https://www.esoui.com/downloads/info1863-UrichsSkillPointFinder.html
+  category: Character Advancement
+  author: fritzOSU03
+  description: A window showing all of the skill points you have and haven't earned throughout the entire game.
+- name: Vampire's Woe
+  link: https://www.esoui.com/downloads/info1375-VampiresWoe.html
+  category: Combat Mods
+  author: Phinix
+  description: Manually toggle between Vampire Feed and Blade of Woe.
+- name: Votan's Addon List
+  link: https://www.esoui.com/downloads/info2094-VotansAddonList.html
+  category: Utility Mods
+  author: votan
+  description: Alternative addon list design.
+- name: Votan's Advanced Settings
+  link: https://www.esoui.com/downloads/info1482-VotansAdvancedSettings.html
+  category: Utility Mods
+  author: votan
+  description: Allows the changing of additional client configuration settings that aren't handled by the default UI.
+- name: Votan's Fisherman
+  link: https://www.esoui.com/downloads/info918-VotansFisherman.html
+  category: TradeSkill Mods
+  author: votan
+  description: Track fishing locations, show bait usage, and reel in notifications.
+- name: Votan's Improved Locations
+  link: https://www.esoui.com/downloads/info1096-VotansImprovedLocations.html
+  category: Map, Coords, Compasses
+  author: votan
+  description: Improves the Locations tab of the world map window.
+- name: Votan's Improved Quests
+  link: https://www.esoui.com/downloads/info1523-VotansImprovedQuests.html
+  category: Map, Coords, Compasses
+  author: votan
+  description: Improves the Quests tab of the world map window.
+- name: Votan's Keybinder
+  link: https://www.esoui.com/downloads/info1174-VotansKeybinder.html
+  category: Miscellaneous
+  author: votan
+  description: Sync keybinds across characters.
+- name: Votan's Lore Library Search
+  link: https://www.esoui.com/downloads/info1248-VotansLoreLibrarySearch.html
+  category: Miscellaneous
+  author: votan
+  description: Adds a search button to Lore Library to search the content of known books.
+- name: WritWorthy
+  link: https://www.esoui.com/downloads/info1605-WritWorthy.html
+  category: TradeSkill Mods
+  author: ziggr
+  description: See if a master writ is worth doing, how much it would cost in material value, and automatic crafting.
+- name: Wykkyd Auto Repair
+  link: https://www.esoui.com/downloads/info744-WykkydAutoRepair.html
+  category: Bags, Bank, Inventory
+  author: calia1120
+  description: Automatically repair your gear when visiting a vendor.

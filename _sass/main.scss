@@ -175,3 +175,27 @@ body {
     padding-bottom: 1em;
     outline: var(--navigation) solid 0.15rem;
 }
+
+.modlist {
+    width: 100%;
+    border: var(--navigation) solid 0.15rem;
+    border-collapse: collapse;
+}
+
+.modlist th, .modlist td {
+    padding: 0.5rem;
+    border: var(--navigation) solid 0.15rem;
+}
+
+.modlist th {
+    background: var(--aside);
+}
+
+.order {
+    cursor: pointer;
+}
+
+.author {
+    font-size: 0.8rem;
+    font-style: italic;
+}
