@@ -1,0 +1,151 @@
+- name: Complementary Shaders v4
+  link: https://www.curseforge.com/minecraft/customization/complementary-shaders
+  category: Shaders
+  author: EminGTR
+  description: My favourite shaderpack.
+  choice: Yes
+- name: Falling Leaves
+  link: https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric
+  category: Cosmetic
+  author: RandomMcSomethin
+  description: Adds particle effects to leaf blocks.
+  choice: Yes
+- name: Litematica
+  link: https://www.curseforge.com/minecraft/mc-mods/litematica
+  category: Gameplay
+  author: masady
+  description: Create and load schematics of structures.
+  choice: Yes
+- name: Pixili
+  link: https://illystray.com/p/pixlli/
+  category: Resource Pack
+  author: illystray
+  description: My favourite resource pack. Adds PBR, but keeps the vanilla style.
+  choice: Yes
+- name: Sound Physics Remastered
+  link: https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
+  category: Cosmetic
+  author: henkelmax
+  description: Provides realistic sound attenuation, reverberation, and absorption through blocks.
+  choice: Yes
+- name: Simple Voice Chat
+  link: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+  category: Gameplay
+  author: henkelmax
+  description: Adds proximity voice chat to servers.
+  choice: Yes
+- name: Advancement Info
+  link: https://www.curseforge.com/minecraft/mc-mods/advancementinfo
+  category: UI
+  author: Giselbaer
+  description: Enlarges the advancements info UI, as well as showing which requirements you have and have not met.
+- name: AppleSkin
+  link: https://www.curseforge.com/minecraft/mc-mods/appleskin
+  category: UI
+  author: squeek502
+  description: Adds food value information to tooltips, shows saturation, and visualises the restoration of held food.
+- name: Better Mount HUD
+  link: https://www.curseforge.com/minecraft/mc-mods/better-mount-hud
+  category: UI
+  author: Lortseam_
+  description: Displays both your hunger and the health of your mount at the same time, as well as hiding the jump bar until actually jumping.
+- name: Bobby
+  link: https://www.curseforge.com/minecraft/mc-mods/bobby
+  category: Cosmetic
+  author: Johni0702
+  description: Allows for render distances greater than the server's view-distance setting.
+- name: Capes
+  link: https://www.curseforge.com/minecraft/mc-mods/capes
+  category: Cosmetic
+  author: VictorKohler
+  description: Displays custom capes from various other Minecraft mods.
+- name: Client Tweaks
+  link: https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric
+  category: Gameplay
+  author: BlayTheNinth
+  description: Adds many configurable tweaks to improve the quality of life of gameplay.
+- name: Continuity
+  link: https://www.curseforge.com/minecraft/mc-mods/continuity
+  category: Cosmetic
+  author: Pepper_Bell
+  description: Allows for resource packs to connect textures between neighbouring blocks.
+- name: Custom Entity Models
+  link: https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem
+  category: Cosmetic
+  author: dorianpb
+  description: Allows resource packs to change the models of entities.
+- name: Enhanced Block Entities
+  link: https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities
+  category: Cosmetic
+  author: FoundationGames
+  description: Improves the performance and visuals of block entities.
+- name: Entity Culling
+  link: https://www.curseforge.com/minecraft/mc-mods/entityculling
+  category: Performance
+  author: tr7zw
+  description: Skips rendering entities that are not visible.
+- name: Fabrishot
+  link: https://www.curseforge.com/minecraft/mc-mods/fabrishot
+  category: Miscellaneous
+  author: ramidzkh
+  description: Takes screenshots at a higher resolution than you play at.
+- name: FerriteCore
+  link: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
+  category: Performance
+  author: malte0811
+  description: Reduces the memory usage of the game in a few different ways.
+- name: Iris
+  link: https://www.curseforge.com/minecraft/mc-mods/irisshaders
+  category: Shaders
+  author: coderbot
+  description: An open-source shaders mod compatible with OptiFine shaderpacks.
+- name: LazyDFU
+  link: https://www.curseforge.com/minecraft/mc-mods/lazydfu
+  category: Performance
+  author: tuxed
+  description: Makes the game start up faster.
+- name: Lithium
+  link: https://www.curseforge.com/minecraft/mc-mods/lithium
+  category: Performance
+  author: jellysquid3_
+  description: General-purpose optimisation mod.
+- name: MiniHUD
+  link: https://www.curseforge.com/minecraft/mc-mods/minihud
+  category: UI
+  author: masady
+  description: A custom debug menu.
+- name: Mod Menu
+  link: https://www.curseforge.com/minecraft/mc-mods/modmenu
+  category: Miscellaneous
+  author: Prospector
+  description: A screen for viewing and customising installed mods.
+- name: Mouse Tweaks
+  link: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+  category: Gameplay
+  author: YaLTeR
+  description: Replaces and adds new dragging mechanics to the inventory.
+- name: Replay Mod
+  link: https://www.replaymod.com/
+  category: Miscellaneous
+  author: CrushedPixel
+  description: Record, relive, and share your gameplay.
+- name: Sodium
+  link: https://www.curseforge.com/minecraft/mc-mods/sodium
+  category: Performance
+  author: jellysquid3_
+  description: Improves framerates and reduces micro-stutters.
+- name: Starlight
+  link: https://www.curseforge.com/minecraft/mc-mods/starlight
+  category: Performance
+  author: Spottedstar
+  description: Rewrites the lighting engine to improve performance and fix errors.
+- name: Tweakeroo
+  link: https://www.curseforge.com/minecraft/mc-mods/tweakeroo
+  category: Gameplay
+  author: masady
+  description: Adds many small tweaks to gameplay.
+- name: Xaero's World Map
+  link: https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+  category: Gameplay
+  author: xaero96
+  description: Adds a self-writing fullscreen map.
