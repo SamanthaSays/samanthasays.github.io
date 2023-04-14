@@ -1,6 +1,3 @@
-- name: The Elder Scrolls Online
-  link: /eso
-  image: ESO-cover.webp
 - name: Skyrim VR
   link: /ssevr
   image: SSE VR-cover.webp

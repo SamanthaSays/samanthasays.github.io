@@ -9,11 +9,9 @@ section: Home
 <h2>Latest Pages</h2>
 <table id="latestPages">
     <tr>
-        <td><a href="mods/eso" title="ESO Add-ons">ESO Add-ons</a></td>
-        <td><a href="mods" title="My modlists">Mods</a></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        {% for post in site.posts limit:5 %}
+        <td onclick="location.href='{{ post.url }}'"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><p class="latestDate">{{ post.date | date_to_string }}</p></td>
+        {% endfor %}
     </tr>
 </table>
 
