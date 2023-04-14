@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Characters | Samantha Says
+title: Characters
 section: Characters
 ---
 

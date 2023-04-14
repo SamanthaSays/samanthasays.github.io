@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home | Samantha Says
+title: Home
 section: Home
 ---
 

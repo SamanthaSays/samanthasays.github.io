@@ -1,12 +1,10 @@
 ---
 layout: default
-title: ESO Mods | Samantha Says
+title: ESO Mods
 section: Mods
 ---
 
 <h1>ESO add-ons</h1>
-
-
 
 All add-ons are installed and managed through <a target="_blank" href="https://www.minion.gg">Minion 3</a>.
 

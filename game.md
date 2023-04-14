@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A secret project | Samantha Says
+title: A secret project
 section: Game
 ---
 

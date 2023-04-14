@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mods | Samantha Says
+title: Mods
 section: Mods
 ---
 

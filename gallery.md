@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gallery | Samantha Says
+title: Gallery
 section: Gallery
 ---
 

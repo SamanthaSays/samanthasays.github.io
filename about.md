@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About | Samantha Says
+title: About
 section: About
 ---
 
