@@ -9,7 +9,7 @@ section: Mods
 <div class="tablesContainer">
 {% assign sortedPosts = site.categories.mods | sort: 'title' %}
 {% for post in sortedPosts %}
-    <table id="modGallery">
+    <table id="tableGallery">
         <tr>
             <th><a href="{{ post.permalink }}"><img src="/assets/images/games/{{ post.image }}"></a></th>
         </tr><tr>
