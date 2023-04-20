@@ -174,7 +174,6 @@ body {
     padding-top: 1em;
     padding-bottom: 1em;
     outline: var(--navigation) solid 0.15rem;
-    cursor: pointer;
 }
 
 #latestPages a {
@@ -215,4 +214,21 @@ body {
 .postDate {
     font-size: 0.9rem;
     font-style: italic;
+}
+
+.character {
+    float: right;
+    width: 380px;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.character th {
+    background: var(--aside);
+}
+
+.character th, .character td {
+    padding: 0.2rem;
+    border: var(--navigation) solid 0.15rem;
 }

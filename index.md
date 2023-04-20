@@ -10,7 +10,7 @@ section: Home
 <table id="latestPages">
     <tr>
         {% for post in site.posts limit:5 %}
-        <td onclick="location.href='{{ post.url }}'"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><p class="latestDate">{{ post.date | date_to_string }}</p></td>
+        <td><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><p class="latestDate">{{ post.section }}, {{ post.date | date_to_string }}</p></td>
         {% endfor %}
     </tr>
 </table>
