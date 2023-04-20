@@ -14,7 +14,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
     {% for post in sortedPosts %}
         <table id="tableGallery">
             <tr>
-                <th><a href="{{ post.url }}"><img style="width: 297px; height: auto" src="/assets/images/characters/{{ post.image }}"></a></th>
+                <th><a href="{{ post.url }}"><img style="width: 297px; height: auto" src="/assets/images/characters/{{ post.image }}" alt="{{ post.title }}"></a></th>
             </tr><tr>
                 <td><a href="{{ post.url }}">{{ post.title }}</a></td>
             </tr><tr>
