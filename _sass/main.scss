@@ -218,7 +218,7 @@ body {
 
 .character {
     float: right;
-    width: 380px;
+    max-width: 380px;
     border-collapse: collapse;
     font-size: 0.9rem;
     text-align: center;
