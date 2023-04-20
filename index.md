@@ -2,6 +2,8 @@
 layout: default
 title: Home
 section: Home
+metaDescription: The official website of Samantha Says.
+metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 ---
 
 <h1>Samantha Says</h1>

@@ -2,6 +2,8 @@
 layout: default
 title: About
 section: About
+metaDescription: About Samantha Says and her website.
+metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 ---
 
 <h1>Hello there!</h1>

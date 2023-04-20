@@ -5,6 +5,8 @@ section: Mods
 permalink: /mods/minecraft
 image: MC-cover.webp
 game: Minecraft
+metaDescription: The Minecraft mods used by Samantha Says.
+metaImage: https://samanthasays.github.io/assets/images/games/MC-cover.webp
 ---
 
 I manage my mods and resource packs manually. It's fairly simple to do, so I never sought a reason to move to a mod manager for Minecraft.
