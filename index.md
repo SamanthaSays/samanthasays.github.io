@@ -2,7 +2,7 @@
 layout: default
 title: Home
 section: Home
-metaDescription: The official website of Samantha Says.
+metaDescription: The official website of Samantha Says. Read up on her original characters, copy their builds or fashion, view her modlists, and more!
 metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 ---
 
