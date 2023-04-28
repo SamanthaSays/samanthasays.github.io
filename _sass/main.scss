@@ -118,20 +118,20 @@ body {
     height: 100%;
 }
 
-#socials {
+#sidebarList {
     padding-left: 1rem;
     list-style-type: none;
 }
 
-#socials a {
+#sidebarList a {
     color: var(--textLink);
     text-decoration: none;
 }
-#socials a:visited {
+#sidebarList a:visited {
     color: var(--textLinkVisited);
     text-decoration: none;
 }
-#socials a:hover {
+#sidebarList a:hover {
     text-decoration: underline;
 }
 
@@ -222,6 +222,7 @@ body {
     border-collapse: collapse;
     font-size: 0.9rem;
     text-align: center;
+    margin-left: 0.5rem;
 }
 
 .character th {
@@ -231,4 +232,260 @@ body {
 .character th, .character td {
     padding: 0.2rem;
     border: var(--navigation) solid 0.15rem;
+}
+
+.builds, .fashion {
+    clear: both;
+}
+
+.buildContainer {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.buildContainer img {
+    max-height: 64px;
+    max-width: 64px;
+}
+
+.buildStats {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    max-width: 100%;
+    float: left;
+    border: var(--navigation) solid 0.2rem;
+}
+
+.buildClass {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.buildRace {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.buildFood {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.buildMundus {
+    clear: both;
+    float:left;
+    width: 50%;
+    text-align: center;
+}
+.buildCurse {
+    float:left;
+    width: 50%;
+    text-align: center;
+}
+.buildMagicka {
+    clear: both;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.buildHealth {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.buildStamina {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.buildCP {
+    width: fit-content;
+    margin: 0 auto;
+}
+.buildWarfares {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    float: left;
+    max-width: 360px;
+}
+.buildWarfare {
+    float: left;
+    width: 50%;
+    text-align: center;
+    background: #8de3ee;
+}
+.buildFitnesses {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    float: left;
+    max-width: 360px;
+}
+.buildFitness {
+    float: left;
+    width: 50%;
+    text-align: center;
+    background: #ed9b6e;
+}
+
+.buildEquipment {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    max-width: 360px;
+    float: left;
+    border: var(--navigation) solid 0.2rem;
+}
+
+.buildTitle, .buildSubtitle {
+    font-weight: bold;
+    clear: both;
+}
+
+.buildTitle {
+    font-size: 1.15rem;
+}
+
+.buildSubtitle {
+    font-size: 1.1rem;
+}
+
+.buildHelmet {
+    width: 100%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildShoulders {
+    clear: both;
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildChest {
+    float: right;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildHands {
+    clear: both;
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildWaist {
+    float: right;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildLegs {
+    clear: both;
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildFeet {
+    float: right;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildNecklace {
+    width: 100%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildRing1 {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildRing2 {
+    float: right;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildWeapon1 {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.buildWeapon2 {
+    float: right;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+}
+.actionBar {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    max-width: 360px;
+    float: left;
+    border: var(--navigation) solid 0.2rem;
+}
+.actionBarTitle {
+    font-weight: bold;
+}
+.actionBar1 {
+    padding: 0.1rem;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.actionBar2 {
+    padding: 0.1rem;
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+
+.skill, .ultimate {
+    font-weight: bold;
+}
+
+.fashionContainer {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.fashionContainer img {
+    max-height: 64px;
+    max-width: 64px;
+}
+
+.fashionOutfit, .fashionCollectibles {
+    float: left;
+    border: var(--navigation) solid 0.2rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.fashionStyle, .fashionDye {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.fashionStyle {
+    clear: both;
+}
+
+.fashionDye {
+    margin-top: 40px;
+}
+
+@media (max-width: 450px) {
+    .narrow {
+      display: block;
+    }
+  }
+
+.fashionCollectible {
+    float: left;
+    text-align: center;
 }

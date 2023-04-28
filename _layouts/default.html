@@ -33,6 +33,9 @@
             {{content}}
         </content>
         <sidebarLeft class="sidebarLeft">
+            {% if page.section == "Characters" %}
+                {% include characters.html %}
+            {% endif %}
             {% include socials.html %}
         </sidebarLeft>
         <sidebarRight class="sidebarRight">

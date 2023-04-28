@@ -1,0 +1,13 @@
+{% for item in site.data.characters-to-go limit:4 %}
+    <table id="tableGallery">
+        <tr>
+            <th><img style="width: 297px; height: auto" src="/assets/images/characters/{{ item.name }}.webp" alt="{{ item.name }}"></th>
+        </tr><tr>
+            <td>{{ item.name }}</td>
+        </tr><tr>
+            <td style="font-weight: normal">{{ item.race}} {{ item.type }} {{ item.class }}</td>
+        </tr><tr>
+            <td style="font-weight: normal">{{ item.theme }}</td>
+        </tr>
+    </table>
+{% endfor %}
