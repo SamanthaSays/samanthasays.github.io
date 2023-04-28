@@ -13,7 +13,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 {% for post in sortedPosts %}
     <table id="tableGallery">
         <tr>
-            <th><a href="{{ post.permalink }}"><img src="/assets/images/games/{{ post.image }}"></a></th>
+            <th><a href="{{ post.permalink }}"><img src="/assets/images/games/{{ post.image }}" alt="{{ post.game }}"></a></th>
         </tr><tr>
             <td><a href="/mods{{ post.link }}">{{ post.game }}</a></td>
         </tr>
