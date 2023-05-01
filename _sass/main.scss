@@ -154,11 +154,30 @@ body {
     height: 300px;
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: var(--aside); 
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--footer); 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--navigation); 
+}
+
 #latestPages {
+    display: block;
+    overflow-x: auto;
     text-align: center;
     font-size: 1.25rem;
     font-weight: bold;
-    width: 100%;
+    max-width: 100%;
     outline: var(--navigation) solid 0.15rem;
     border-radius: 0.3rem;
     padding: 0.3rem;
@@ -166,11 +185,10 @@ body {
 
 #latestPages tr {
     min-height: 5rem;
-    overflow-x: scroll;
 }
 
 #latestPages td {
-    width: 20%;
+    min-width: 180px;
     padding-top: 1em;
     padding-bottom: 1em;
     outline: var(--navigation) solid 0.15rem;

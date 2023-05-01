@@ -11,8 +11,8 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 <h2>Latest Pages</h2>
 <table id="latestPages">
     <tr>
-        {% for post in site.posts limit:5 %}
-        <td><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><p class="latestDate">{{ post.section }}, {{ post.date | date_to_string }}</p></td>
+        {% for post in site.posts limit:10 %}
+        <td><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><p class="latestDate">{{ post.tag }}, {{ post.date | date_to_string }}</p></td>
         {% endfor %}
     </tr>
 </table>
@@ -34,12 +34,3 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
         &mdash;<cite> Daggerfall User's Guide</cite>
     </figcaption>
 </figure>
-
-<script>
-    kofiWidgetOverlay.draw('samanthasays', {
-        'type': 'floating-chat',
-        'floating-chat.donateButton.text': 'Tip Jar',
-        'floating-chat.donateButton.background-color': '#F2465D',
-        'floating-chat.donateButton.text-color': '#fff'
-    });
-</script>

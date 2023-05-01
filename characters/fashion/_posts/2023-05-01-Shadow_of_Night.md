@@ -1,3 +1,16 @@
+---
+layout: post
+title: Shadow of Night
+section: Characters
+metaDescription: Lore, Builds, and Fashion of S'unrise, an original character by Samantha Says that apprears as a Magicka Nightblade Vampire in The Elder Scrolls Online.
+metaImage: https://samanthasays.github.io/assets/images/characters/S'unrise.webp
+permalink: /characters/fashion/shadow_of_night
+image: S'unrise.webp
+character: S'unrise
+theme: Vampire
+tag: Fashion
+---
+
 <div class="fashionContainer">
     <div class="fashionOutfit">
         <div class="fashionStyle">
