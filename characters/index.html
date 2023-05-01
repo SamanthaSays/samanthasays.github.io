@@ -12,6 +12,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 <div class="tablesContainer">
     {% assign sortedPosts = site.categories.characters | sort: 'priority' %}
     {% for post in sortedPosts %}
+    {% if post.path contains "characters/_posts" %}
         <table id="tableGallery">
             <tr>
                 <th><a href="{{ post.url }}"><img style="width: 297px; height: auto" src="/assets/images/characters/{{ post.image }}" alt="{{ post.title }}"></a></th>
@@ -22,6 +23,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
             </tr><tr>
                 <td style="font-weight: normal">{{ post.theme }}</td>
         </table>
+    {% endif %}
     {% endfor %}
     {% include characters-to-go.html %}
 </div>
