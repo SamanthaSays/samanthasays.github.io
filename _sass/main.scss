@@ -194,11 +194,6 @@ body {
     outline: var(--navigation) solid 0.15rem;
 }
 
-#latestPages a {
-    display: block;
-    text-decoration: none;
-}
-
 .modlist {
     width: 100%;
     border: var(--navigation) solid 0.15rem;
@@ -512,4 +507,10 @@ body {
     display: flex; 
     justify-content: center;
     font-weight: bold;
+}
+
+.gallery {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
 }
