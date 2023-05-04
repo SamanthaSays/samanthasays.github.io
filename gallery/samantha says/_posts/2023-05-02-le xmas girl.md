@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le Xmas Girl
-section: Gallery
+section: gallery
 permalink: /gallery/samantha says/le xmas girl
 image: Le Xmas Girl - Drawbauchery.webp
 metaDescription: Merry Christmas! Samantha Says staying warm by the fire. Commissioned from Drawbauchery.

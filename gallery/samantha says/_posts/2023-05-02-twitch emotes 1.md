@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twitch Emotes 1
-section: Gallery
+section: gallery
 permalink: /gallery/samantha says/twitch emotes 1
 image: Emotes - noredji.webp
 metaDescription: The first 6 Twitch emotes, commissioned from noredji.

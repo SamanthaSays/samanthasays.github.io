@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le Panda Girl
-section: Gallery
+section: gallery
 permalink: /gallery/samantha says/le panda girl
 image: Le Panda Girl - Drawbauchery.webp
 metaDescription: Samantha Says in a super cosy panda onesie! Commissioned from Drawbauchery.

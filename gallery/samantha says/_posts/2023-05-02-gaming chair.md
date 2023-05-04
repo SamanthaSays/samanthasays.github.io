@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gaming Chair
-section: Gallery
+section: gallery
 permalink: /gallery/samantha says/gaming chair
 image: Gaming Chair - Madipup.webp
 metaDescription: Samantha Says refusing to sit properly in her gaming chair. Commissioned from Madipup.
