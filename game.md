@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A secret project
-section: Game
+section: game
 ---
 
 <h1>Coming not so soon...</h1>
