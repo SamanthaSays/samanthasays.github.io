@@ -1,14 +1,14 @@
-- name: Home
+- name: home
   link: /
-- name: Mods
+- name: mods
   link: /mods
-- name: Characters
+- name: characters
   link: /characters
-- name: Gallery
+- name: gallery
   link: /gallery
-- name: Game
+- name: game
   link: /game
-- name: Merch
+- name: merch
   link: https://shrsl.com/3um55
-- name: About
+- name: about
   link: /about
