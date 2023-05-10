@@ -7,6 +7,7 @@ metaImage: https://samanthasays.github.io/assets/images/characters/S'unrise.webp
 permalink: /characters/fashion/shadow_of_night
 image: S'unrise.webp
 character: S'unrise
+characterLink: s'unrise
 theme: Vampire
 tag: Fashion
 ---
