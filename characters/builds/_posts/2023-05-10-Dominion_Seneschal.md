@@ -26,7 +26,7 @@ tag: Build
             Character
         </div>
         <div class="buildClass">
-            <p><img src="/assets/images/icons/eso/class/templar.webp"><br>
+            <p><img src="/assets/images/icons/eso/class/templar.webp" alt="Templar"><br>
             <span style="font-weight: bold">Templar</span></p>
         </div>
         <div class="buildRace">
@@ -35,68 +35,68 @@ tag: Build
             Optional</p>
         </div>
         <div class="buildFood">
-            <p><img src="/assets/images/icons/eso/food/lava foot soup-and-saltrice.webp"><br>
+            <p><img src="/assets/images/icons/eso/food/lava foot soup-and-saltrice.webp" alt="Lava Foot Soup-and-Saltrice"><br>
             <span style="font-weight: bold">Lava Foot Soup-and-Saltrice</span><br>
             Increase Stamina and Stamina Recovery</p>
         </div>
         <div class="buildMundus">
-            <p><img src="/assets/images/icons/eso/mundus/thief.webp"><br>
+            <p><img src="/assets/images/icons/eso/mundus/thief.webp" alt="The Thief"><br>
             <span style="font-weight: bold">The Thief</span><br>
             Increase Critical Strike rating</p>
         </div>
         <div class="buildCurse">
-            <p><img src="/assets/images/icons/eso/curse/mortal.webp"><br>
+            <p><img src="/assets/images/icons/eso/curse/mortal.webp" alt="Mortal"><br>
             <span style="font-weight: bold">Mortal</span></p>
         </div>
         <div class="buildMagicka">
-            <p><img src="/assets/images/icons/skyrimtag/magicka.webp"><br>
+            <p><img src="/assets/images/icons/skyrimtag/magicka.webp" alt="Magicka"><br>
             <span style="font-weight: bold">Magicka</span><br>
             0</p>
         </div>
         <div class="buildHealth">
-            <p><img src="/assets/images/icons/skyrimtag/health.webp"><br>
+            <p><img src="/assets/images/icons/skyrimtag/health.webp" alt="Health"><br>
             <span style="font-weight: bold">Health</span><br>
             0</p>
         </div>
         <div class="buildStamina">
-            <p><img src="/assets/images/icons/skyrimtag/stamina.webp"><br>
+            <p><img src="/assets/images/icons/skyrimtag/stamina.webp" alt="Stamina"><br>
             <span style="font-weight: bold">Stamina</span><br>
             64</p>
         </div>
         <div class="buildCP">
             <div class="buildWarfares">
                 <div class="buildWarfare">
-                    <p><img src="/assets/images/icons/eso/cp.webp"><br>
+                    <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
                     <span style="font-weight: bold">Fighting Finesse</span></p>
                 </div>
                 <div class="buildWarfare">
-                    <p><img src="/assets/images/icons/eso/cp.webp"><br>
+                    <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
                     <span style="font-weight: bold">Deadly Aim</span></p>
                 </div>
                 <div class="buildWarfare">
-                    <p><img src="/assets/images/icons/eso/cp.webp"><br>
+                    <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
                     <span style="font-weight: bold">Master-at-Arms</span></p>
                 </div>
                 <div class="buildWarfare">
-                    <p><img src="/assets/images/icons/eso/cp.webp"><br>
+                    <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
                     <span style="font-weight: bold">Biting Aura</span></p>
                 </div>
             </div>
             <div class="buildFitnesses">
                 <div class="buildFitness">
-                    <p><img src="/assets/images/icons/eso/cp.webp"><br>
+                    <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
                     <span style="font-weight: bold">Bloody Renewal</span></p>
                 </div>
                 <div class="buildFitness">
-                    <p><img src="/assets/images/icons/eso/cp.webp"><br>
+                    <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
                     <span style="font-weight: bold">Boundless Vitality</span></p>
                 </div>
                 <div class="buildFitness">
-                    <p><img src="/assets/images/icons/eso/cp.webp"><br>
+                    <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
                     <span style="font-weight: bold">Fortified</span></p>
                 </div>
                 <div class="buildFitness">
-                    <p><img src="/assets/images/icons/eso/cp.webp"><br>
+                    <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
                     <span style="font-weight: bold">Rejuvenation</span></p>
                 </div>
             </div>
@@ -113,49 +113,49 @@ tag: Build
             Apparel
         </div>
         <div class="buildHelmet">
-            <p><img src="/assets/images/icons/eso/armour/waking flame helmet.webp"><br>
+            <p><img src="/assets/images/icons/eso/armour/waking flame helmet.webp" alt="Dagon's Helmet"><br>
             <span style="font-weight: bold">Dagon's Helmet</span><br>
             Medium<br>
             Divines<br>
             Maximum Stamina</p>
         </div>
         <div class="buildShoulders">
-            <p><img src="/assets/images/icons/eso/armour/magma incarnate shoulder.webp"><br>
+            <p><img src="/assets/images/icons/eso/armour/magma incarnate shoulder.webp" alt="Magma Incarnate's Epaulets"><br>
             <span style="font-weight: bold">Magma Incarnate's Epaulets</span><br>
             Light<br>
             Divines<br>
             Maximum Stamina</p>
         </div>
         <div class="buildChest">
-            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion jack.webp"><br>
+            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion jack.webp" alt="Deadly Jack"><br>
             <span style="font-weight: bold">Deadly Jack</span><br>
             Medium<br>
             Divines<br>
             Maximum Stamina</p>
         </div>
         <div class="buildHands">
-            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion bracers.webp"><br>
+            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion bracers.webp" alt="Deadly Bracers"><br>
             <span style="font-weight: bold">Deadly Bracers</span><br>
             Medium<br>
             Divines<br>
             Maximum Stamina</p>
         </div>
         <div class="buildWaist">
-            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion belt.webp"><br>
+            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion belt.webp" alt="Deadly Belt"><br>
             <span style="font-weight: bold">Deadly Belt</span><br>
             Medium<br>
             Divines<br>
             Maximum Stamina</p>
         </div>
         <div class="buildLegs">
-            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion guards.webp"><br>
+            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion guards.webp" alt="Deadly Guards"><br>
             <span style="font-weight: bold">Deadly Guards</span><br>
             Medium<br>
             Divines<br>
             Maximum Stamina</p>
         </div>
         <div class="buildFeet">
-            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion boots.webp"><br>
+            <p><img src="/assets/images/icons/eso/armour/aldmeri dominion boots.webp" alt="Deadly Boots"><br>
             <span style="font-weight: bold">Deadly Boots</span><br>
             Medium<br>
             Divines<br>
@@ -165,19 +165,19 @@ tag: Build
             Accessories
         </div>
         <div class="buildNecklace">
-            <p><img src="/assets/images/icons/eso/jewellery/necklace.webp"><br>
+            <p><img src="/assets/images/icons/eso/jewellery/necklace.webp" alt="Dagon's Amulet"><br>
             <span style="font-weight: bold">Dagon's Amulet</span><br>
             Robust<br>
             Increase Weapon Damage</p>
         </div>
         <div class="buildRing1">
-            <p><img src="/assets/images/icons/eso/jewellery/ring.webp"><br>
+            <p><img src="/assets/images/icons/eso/jewellery/ring.webp" alt="Dagon's Ring"><br>
             <span style="font-weight: bold">Dagon's Ring</span><br>
             Healthy<br>
             Increase Weapon Damage</p>
         </div>
         <div class="buildRing2">
-            <p><img src="/assets/images/icons/eso/jewellery/ring of the pale order.webp"><br>
+            <p><img src="/assets/images/icons/eso/jewellery/ring of the pale order.webp" alt="Ring of the Pale Order"><br>
             <span style="font-weight: bold">Ring of the Pale Order</span><br>
             Healthy<br>
             Increase Weapon Damage</p>
@@ -191,19 +191,19 @@ tag: Build
             Weapons
         </div>
         <div class="buildWeapon1">
-            <p><img src="/assets/images/icons/eso/weapons/waking flame sword.webp"><br>
+            <p><img src="/assets/images/icons/eso/weapons/waking flame sword.webp" alt="Dagon's Sword"><br>
             <span style="font-weight: bold">Dagon's Sword</span><br>
             Sharpened<br>
             Absorb Stamina</p>
         </div>
         <div class="buildWeapon2">
-            <p><img src="/assets/images/icons/eso/weapons/maelstrom bow.webp"><br>
+            <p><img src="/assets/images/icons/eso/weapons/maelstrom bow.webp" alt="The Maelstrom's Perfected Bow"><br>
             <span style="font-weight: bold">The Maelstrom's Perfected Bow</span><br>
             Infused<br>
             Weapon Damage</p>
         </div>
         <div class="buildWeapon1">
-            <p><img src="/assets/images/icons/eso/weapons/waking flame shield.webp"><br>
+            <p><img src="/assets/images/icons/eso/weapons/waking flame shield.webp" alt="Dagon's Shield"><br>
             <span style="font-weight: bold">Dagon's Shield</span><br>
             Divines<br>
             Maximum Stamina</p>
@@ -216,27 +216,27 @@ tag: Build
                 <p>Front Bar</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/soul splitting trap.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/soul splitting trap.webp" alt="Soul Splitting Trap"><br>
                 Soul Splitting Trap</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/biting jabs.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/biting jabs.webp" alt="Biting Jabs"><br>
                 Biting Jabs</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/deep slash.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/deep slash.webp" alt="Deep Slash"><br>
                 Deep Slash</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/explosive charge.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/explosive charge.webp" alt="Explosive Charge"><br>
                 Explosive Charge</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/power of the light.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/power of the light.webp" alt="Power of the Light"><br>
                 Power of the Light</p>
             </div>
             <div class="ultimate">
-                <p><img src="/assets/images/icons/eso/skills/flawless dawnbreaker.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/flawless dawnbreaker.webp" alt="Flawless Dawnbreaker"><br>
                 Flawless Dawnbreaker</p>
             </div>
         </div>
@@ -245,27 +245,27 @@ tag: Build
                 <p>Back Bar</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/restoring focus.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/restoring focus.webp" alt="Restoring Focus"><br>
                 Restoring Focus</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/endless hail.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/endless hail.webp" alt="Endless Hail"><br>
                 Endless Hail</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/ritual of retribution.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/ritual of retribution.webp" alt="Ritual of Retribution"><br>
                 Ritual of Retribution</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/razor caltrops.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/razor caltrops.webp" alt="Razor Caltrops"><br>
                 Razor Caltrops</p>
             </div>
             <div class="skill">
-                <p><img src="/assets/images/icons/eso/skills/resolving vigor.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/resolving vigor.webp" alt="Resolving Vigor"><br>
                 Resolving Vigor</p>
             </div>
             <div class="ultimate">
-                <p><img src="/assets/images/icons/eso/skills/everlasting sweep.webp"><br>
+                <p><img src="/assets/images/icons/eso/skills/everlasting sweep.webp" alt="Everlasting Sweep"><br>
                 Everlasting Sweep</p>
             </div>
         </div>
