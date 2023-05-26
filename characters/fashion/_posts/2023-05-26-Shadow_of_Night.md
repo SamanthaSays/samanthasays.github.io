@@ -201,8 +201,8 @@ tag: Fashion
             Pet</p>
         </div>
         <div class="fashionCollectible" style="width: 33%">
-            <p><img src="/assets/images/icons/eso/collectibles/gyrfalcon gather.webp" alt="Gyrfalcon Gather"><br>
-            <span style="font-weight: bold">Gyrfalcon Gather</span><br>
+            <p><img src="/assets/images/icons/eso/collectibles/grovetender's sweep.webp" alt="Grovetender's Sweep"><br>
+            <span style="font-weight: bold">Grovetender's Sweep</span><br>
             Plant Collecting</p>
         </div>
         <div class="fashionCollectible" style="width: 33%; clear: both">
@@ -216,8 +216,8 @@ tag: Fashion
             Rune Collecting</p>
         </div>
         <div class="fashionCollectible" style="width: 33%">
-            <p><img src="/assets/images/icons/eso/collectibles/stonelore split.webp" alt="Stonelore Split"><br>
-            <span style="font-weight: bold">Stonelore Split</span><br>
+            <p><img src="/assets/images/icons/eso/collectibles/karth river cleave.webp" alt="Karth River Cleave"><br>
+            <span style="font-weight: bold">Karth River Cleave</span><br>
             Wood Cutting</p>
         </div>
     </div>
