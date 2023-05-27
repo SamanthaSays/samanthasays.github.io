@@ -8,6 +8,6 @@ metaDescription: Merry Christmas! Samantha Says staying warm by the fire. Commis
 metaImage: https://samanthasays.github.io/assets/images/gallery/samantha says/Le Xmas Girl - Drawbauchery.webp
 tag: Samantha Says
 artist: Drawbauchery
-credit: https://twitter.com/Drawbauchery
+credit: https://drawbauchery.tumblr.com/
 ---
 {% include imageGallery.html %}
