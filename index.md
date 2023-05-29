@@ -8,7 +8,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 
 <h1>Samantha Says</h1>
 
-<h2>Latest Pages</h2>
+<h2>Latest Posts</h2>
 <table id="latestPages">
     <tr>
         {% for post in site.posts limit:10 %}
