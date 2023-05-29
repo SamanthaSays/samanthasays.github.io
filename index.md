@@ -13,6 +13,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
     <tr>
         {% for post in site.posts limit:10 %}
         <td><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><p class="latestDate">{{ post.tag }}, <a style="text-transform: capitalize" href="/{{ post.section}}">{{ post.section }}</a></p><p class="latestDate">{{ post.date | date_to_string }}</p></td>
+        <td><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><p style="text-transform: capitalize" class="latestDate">{{ post.tag }}, <a style="text-transform: capitalize" href="/{{ post.section}}">{{ post.section }}</a></p><p class="latestDate">{{ post.date | date_to_string }}</p></td>
         {% endfor %}
     </tr>
 </table>
