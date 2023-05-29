@@ -8,19 +8,18 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 
 <h1>Gallery</h2>
 
-<h2>Samantha Says</h2>
-
 <div class="tablesContainer">
     {% for post in site.categories.gallery %}
-        {% if post.categories contains "samantha says" %}
-            <table id="tableGallery">
-                <tr>
-                    <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="/assets/images/gallery/samantha says/{{ post.image }}" alt="{{ post.title }}"></a></th>
-                </tr><tr>
-                    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-                </tr><tr>
-                    <td style="font-weight: normal"><a target="_blank" href="{{ post.credit }}">{{ post.artist }}</a></td>
-            </table>
-        {% endif %}
+        <table id="tableGallery">
+            <tr>
+                <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="/assets/images/gallery/{{ post.tag }}/{{ post.image }}" alt="{{ post.title }}"></a></th>
+            </tr><tr>
+                <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+            </tr>{% if post.categories contains "samantha says" %}<tr>
+                <td style="font-weight: normal"><a target="_blank" href="{{ post.link }}">{{ post.from }}</a></td>
+            </tr>{% else %}<tr>
+                <td style="font-weight: normal"><a  href="/gallery/{{ post.tag }}">{{ post.from }}</a></td>
+            </tr>{% endif %}
+        </table>
     {% endfor %}
 </div>

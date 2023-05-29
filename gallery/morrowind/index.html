@@ -1,0 +1,23 @@
+---
+layout: default
+title: Morrowind Gallery
+section: gallery
+metaDescription: A gallery of screenshots and artwork. All screenshots are taken by Samantha Says, each piece of artwork will contain links to the artist.
+metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
+---
+
+<h2>The Elder Scrolls III: Morrowind</h2>
+
+<div class="tablesContainer">
+    {% for post in site.categories.gallery %}
+        {% if post.categories contains "morrowind" %}
+            <table id="tableGallery">
+                <tr>
+                    <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="/assets/images/gallery/{{ post.tag }}/{{ post.image }}" alt="{{ post.title }}"></a></th>
+                </tr><tr>
+                    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+                </tr>
+            </table>
+        {% endif %}
+    {% endfor %}
+</div>

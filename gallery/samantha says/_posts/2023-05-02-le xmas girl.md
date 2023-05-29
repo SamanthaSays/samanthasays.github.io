@@ -6,8 +6,8 @@ permalink: /gallery/samantha says/le xmas girl
 image: Le Xmas Girl - Drawbauchery.webp
 metaDescription: Merry Christmas! Samantha Says staying warm by the fire. Commissioned from Drawbauchery.
 metaImage: https://samanthasays.github.io/assets/images/gallery/samantha says/Le Xmas Girl - Drawbauchery.webp
-tag: Samantha Says
-artist: Drawbauchery
-credit: https://drawbauchery.tumblr.com/
+tag: samantha says
+from: Drawbauchery
+link: https://drawbauchery.tumblr.com/
 ---
 {% include imageGallery.html %}
