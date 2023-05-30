@@ -514,3 +514,35 @@ body {
     display: flex;
     justify-content: center;
 }
+
+/* Page navigation background colour */
+#pageNavigation {
+    font-family: "eurostile";
+    font-weight: bold;
+    background-color: var(--navigation);
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    width: fit-content;
+  }
+  /* Link text */
+  #pageNavigation a {
+    float: left;
+    color: var(--textInverse);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  /* Link colour on hover */
+  #pageNavigation a:hover {
+    background-color: var(--background);
+    color: var(--textMain);
+  }
+  /* Colour of active page */
+  #pageNavigation #active {
+    background-color: var(--aside);
+    color: var(--textMain);
+  }
