@@ -99,11 +99,6 @@
   category: Shaders
   author: coderbot
   description: An open-source shaders mod compatible with OptiFine shaderpacks.
-- name: LazyDFU
-  link: https://www.curseforge.com/minecraft/mc-mods/lazydfu
-  category: Performance
-  author: tuxed
-  description: Makes the game start up faster.
 - name: Lithium
   link: https://www.curseforge.com/minecraft/mc-mods/lithium
   category: Performance
