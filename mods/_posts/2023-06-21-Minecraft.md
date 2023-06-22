@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minecraft Mods
-section: Mods
+section: mods
 permalink: /mods/minecraft
 image: MC-cover.webp
 game: Minecraft
