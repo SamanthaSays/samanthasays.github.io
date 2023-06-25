@@ -248,7 +248,7 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://samanthasays.github.io/characters/fashion/shadow_of_night</loc>
+  <loc>https://samanthasays.github.io/characters/fashion/shadow%20of%20night</loc>
   <lastmod>2023-06-15T05:17:52+00:00</lastmod>
   <priority>0.51</priority>
 </url>
@@ -468,7 +468,12 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://samanthasays.github.io/gallery/eso/ald isran tales</loc>
+  <loc>https://samanthasays.github.io/gallery/eso/ald%20isran%20tales</loc>
+  <lastmod>2023-06-23T13:27:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://samanthasays.github.io/gallery/eso/a%20dark%20heat</loc>
   <lastmod>2023-06-23T13:27:00+00:00</lastmod>
   <priority>0.51</priority>
 </url>
