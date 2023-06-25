@@ -546,3 +546,17 @@ body {
     background-color: var(--aside);
     color: var(--textMain);
   }
+
+  .channelPoints {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.channelPoints th {
+    background: var(--aside);
+}
+
+.channelPoints th, .channelPoints td {
+    padding: 0.2rem;
+    border: var(--navigation) solid 0.15rem;
+}
