@@ -4,7 +4,7 @@ title: Shadow of Night
 section: characters
 metaDescription: The Vampire themed fashion of S'unrise, including styles, dyes, and collectibles. 
 metaImage: https://samanthasays.github.io/assets/images/characters/S'unrise.webp
-permalink: /characters/fashion/shadow_of_night
+permalink: /characters/fashion/shadow of night
 image: S'unrise.webp
 character: S'unrise
 characterLink: s'unrise
@@ -198,7 +198,7 @@ tag: Fashion
         <div class="fashionCollectible" style="width: 33%">
             <p><img src="/assets/images/icons/eso/collectibles/pink torchbug.webp" alt="Pink Torchbug"><br>
             <span style="font-weight: bold">Pink Torchbug</span><br>
-            Pet</p>
+            Non-Combat Pet</p>
         </div>
         <div class="fashionCollectible" style="width: 33%">
             <p><img src="/assets/images/icons/eso/collectibles/grovetender's sweep.webp" alt="Grovetender's Sweep"><br>
