@@ -5,6 +5,7 @@ section: posts
 permalink: /posts/channel points
 metaDescription: All of the details of the channel points and redemption options on Samantha Says' Twitch channel.
 metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
+tag: twitch
 ---
 
 This is a complete rundown on the channel points and mini-games available on <a href="https://www.twitch.tv/samanthasays">Samantha Says'</a> Twitch channel.
