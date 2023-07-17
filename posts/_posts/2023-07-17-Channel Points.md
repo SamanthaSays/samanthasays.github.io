@@ -103,7 +103,7 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         <td>25 XP</td>
     </tr><tr>
         <td>[Daily] Have a meal</td>
-        <td>Before setting out on your adventure, don't forget to have a full meal! This will choose between 359 foods and 117 drinks for a truly unique meal.</td>
+        <td>Before setting out on your adventure, don't forget to have a full meal! This will choose between 607 foods and 361 drinks for a truly unique meal.</td>
         <td>50 Stamina</td>
         <td>50 XP</td>
     </tr><tr>
