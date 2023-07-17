@@ -117,14 +117,14 @@ tag: Build
             <span style="font-weight: bold">Dagon's Helmet</span><br>
             Medium<br>
             Divines<br>
-            Maximum Stamina</p>
+            Maximum Health</p>
         </div>
         <div class="buildShoulders">
             <p><img src="/assets/images/icons/eso/armour/magma incarnate shoulder.webp" alt="Magma Incarnate's Epaulets"><br>
             <span style="font-weight: bold">Magma Incarnate's Epaulets</span><br>
             Light<br>
             Divines<br>
-            Maximum Stamina</p>
+            Maximum Health</p>
         </div>
         <div class="buildChest">
             <p><img src="/assets/images/icons/eso/armour/aldmeri dominion jack.webp" alt="Deadly Jack"><br>
