@@ -15,7 +15,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
         <tr>
             <th><a href="{{ post.permalink }}"><img src="/assets/images/games/{{ post.image }}" alt="{{ post.game }}"></a></th>
         </tr><tr>
-            <td><a href="/mods{{ post.link }}">{{ post.game }}</a></td>
+            <td><a href="{{ post.permalink }}">{{ post.game }}</a></td>
         </tr>
     </table>
 {% endfor %}
