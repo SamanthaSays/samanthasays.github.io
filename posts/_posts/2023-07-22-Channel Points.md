@@ -103,7 +103,7 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         <td>25 XP</td>
     </tr><tr>
         <td>[Daily] Have a meal</td>
-        <td>Before setting out on your adventure, don't forget to have a full meal! This will choose between 607 foods and 361 drinks for a truly unique meal.</td>
+        <td>Before setting out on your adventure, don't forget to have a full meal! This will choose between 634 foods and 361 drinks for a truly unique meal.</td>
         <td>50 Stamina</td>
         <td>50 XP</td>
     </tr><tr>
@@ -151,7 +151,7 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         Failure: Lose your bet</td>
     </tr><tr>
         <td>[Agility] Pickpocket someone</td>
-        <td>Write another person's username to pick their pocket. People that are a higher level than you will have higher quality loot! Remember, only steal from the rich.</td>
+        <td>Write another person's username to pick their pocket for one of 8+115+157+19 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP.</td>
         <td>2000 Stamina</td>
         <td>Normal: 700 XP<br>
         Fine: 850 XP<br>
