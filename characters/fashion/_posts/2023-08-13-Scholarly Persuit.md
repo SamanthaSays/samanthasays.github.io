@@ -148,14 +148,19 @@ tag: Fashion
                 <span style="font-weight: bold">Mournhold Packrat</span><br>
             Non-Combat Pet</p>
         </div>
-        <div class="fashionCollectible" style="width: 50%; clear: both">
-            <p><img src="/assets/images/icons/eso/collectibles/grovetender's sweep.webp" alt="Grovetender's Sweep"><br>
-            <span style="font-weight: bold">Grovetender's Sweep</span><br>
+        <div class="fashionCollectible" style="width: 33%; clear: both">
+            <p><img src="/assets/images/icons/eso/collectibles/druidstone mine.webp" alt="Druidstone Mine"><br>
+            <span style="font-weight: bold">Druidstone Mine</span><br>
+            Mining</p>
+        </div>
+        <div class="fashionCollectible" style="width: 33%">
+            <p><img src="/assets/images/icons/eso/collectibles/gyrfalcon gather.webp" alt="Gyrfalcon Gather"><br>
+            <span style="font-weight: bold">Gyrfalcon Gather</span><br>
             Plant Collecting</p>
         </div>
-        <div class="fashionCollectible" style="width: 50%">
-            <p><img src="/assets/images/icons/eso/collectibles/bitter coast recall.webp" alt="Bitter Coast Recall"><br>
-            <span style="font-weight: bold">Recall of the Galen Wilds</span><br>
+        <div class="fashionCollectible" style="width: 33%">
+            <p><img src="/assets/images/icons/eso/collectibles/legionnaire's recall.webp" alt="Legionnaire's Recall"><br>
+            <span style="font-weight: bold">Legionnaire's Recall</span><br>
             Recalling</p>
         </div>
         <div class="fashionCollectible" style="width: 50%; clear: both">

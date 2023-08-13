@@ -190,32 +190,37 @@ tag: Fashion
             <span style="font-weight: bold">Brassy Assassin</span><br>
             Personality</p>
         </div>
-        <div class="fashionCollectible" style="width: 33%; clear: both">
+        <div class="fashionCollectible" style="width: 50%; clear: both">
             <p><img src="/assets/images/icons/eso/collectibles/sanguivorian howler.webp" alt="Sanguivorian Howler"><br>
             <span style="font-weight: bold">Sanguivorian Howler</span><br>
             Mount</p>
         </div>
-        <div class="fashionCollectible" style="width: 33%">
+        <div class="fashionCollectible" style="width: 50%">
             <p><img src="/assets/images/icons/eso/collectibles/pink torchbug.webp" alt="Pink Torchbug"><br>
             <span style="font-weight: bold">Pink Torchbug</span><br>
             Non-Combat Pet</p>
+        </div>
+        <div class="fashionCollectible" style="width: 33%; clear: both">
+            <p><img src="/assets/images/icons/eso/collectibles/druidstone mine.webp" alt="Druidstone Mine"><br>
+            <span style="font-weight: bold">Druidstone Mine</span><br>
+            Mining</p>
         </div>
         <div class="fashionCollectible" style="width: 33%">
             <p><img src="/assets/images/icons/eso/collectibles/grovetender's sweep.webp" alt="Grovetender's Sweep"><br>
             <span style="font-weight: bold">Grovetender's Sweep</span><br>
             Plant Collecting</p>
         </div>
-        <div class="fashionCollectible" style="width: 33%; clear: both">
-            <p><img src="/assets/images/icons/eso/collectibles/bitter coast recall.webp" alt="Bitter Coast Recall"><br>
-            <span style="font-weight: bold">Bitter Coast Recall</span><br>
+        <div class="fashionCollectible" style="width: 33%">
+            <p><img src="/assets/images/icons/eso/collectibles/legionnaire's recall.webp" alt="Legionnaire's Recall"><br>
+            <span style="font-weight: bold">Legionnaire's Recall</span><br>
             Recalling</p>
         </div>
-        <div class="fashionCollectible" style="width: 33%">
+        <div class="fashionCollectible" style="width: 50%; clear: both">
             <p><img src="/assets/images/icons/eso/collectibles/reach witch removal.webp" alt="Reach Witch Removal"><br>
             <span style="font-weight: bold">Reach Witch Removal</span><br>
             Rune Collecting</p>
         </div>
-        <div class="fashionCollectible" style="width: 33%">
+        <div class="fashionCollectible" style="width: 50%">
             <p><img src="/assets/images/icons/eso/collectibles/karth river cleave.webp" alt="Karth River Cleave"><br>
             <span style="font-weight: bold">Karth River Cleave</span><br>
             Wood Cutting</p>
