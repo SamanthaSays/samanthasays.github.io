@@ -1,0 +1,61 @@
+- name: Adjusted Teeth Colours
+  link: https://www.nexusmods.com/starfield/mods/997
+  category: Visuals
+  author: DarthParametric
+  description: Tones down the chemically bleached look of clean teeth, slightly darkens dirty teeth, removes the bright edges of blackened teeth.
+- name: Baka Achievement Enabler
+  link: https://www.nexusmods.com/starfield/mods/658
+  category: Miscellaneous
+  author: shad0wshayd3
+  description: Prevents achievements from being disabled with mods or when using the console. Also removes the warning when opening the console for the first time in a session.
+- name: BetterHUD
+  link: https://www.nexusmods.com/starfield/mods/214
+  category: User Interface
+  author: KahoMaat
+  description: Less distracting, more immersive, and simply a better HUD.
+- name: Compact Mission UI
+  link: https://www.nexusmods.com/starfield/mods/682
+  category: User Interface
+  author: Stentorious
+  description: Modifies the mission menu for more items can be seen at once.
+- name: Enemy Friendly Fire
+  link: https://www.nexusmods.com/starfield/mods/614
+  category: Gameplay
+  author: powerofthree
+  description: SFSE plugin that enables friendly fire for all NPCs.
+- name: High-Vis Scope Crosshair Replacement
+  link: https://www.nexusmods.com/starfield/mods/327
+  category: User Interface
+  author: GliOcchi
+  description: Scope reticles/crosshairs are now dual colours with red accents for higher visibility.<br>I use the HVCrosshair Replacement version.
+- name: More Subtle Scanner Sounds
+  link: https://www.nexusmods.com/starfield/mods/885
+  category: Audio
+  author: DylanJames
+  description: Replaces over 45 "scanner" and menu sounds without the high pitch frequency - using as transparent methods as possible.
+- name: Smooth Ship Reticle
+  link: https://www.nexusmods.com/starfield/mods/270
+  category: User Interface
+  author: alexbulluk
+  description: Fixes the spaceship reticle looking choppy.
+- name: Smooth UI
+  link: https://www.nexusmods.com/starfield/mods/350
+  category: User Interface
+  author: Fuzzlesz
+  description: Increases the UI files to 60 FPS, for a smoother and less jittery user interface and menus.
+- name: Starfield Script Extender
+  link: https://www.nexusmods.com/starfield/mods/106
+  category: Miscellaneous
+  author: ianpatt
+  description: A tool adding additional scripting capabilities and functionality to the game.
+- name: Starfield Upscaler
+  link: https://www.nexusmods.com/starfield/mods/111
+  category: Visuals
+  author: PureDark
+  description: Replacing the in-game FSR2 with DLSS/XeSS.
+- name: StarUI Inventory
+  link: https://www.nexusmods.com/starfield/mods/773
+  category: User Interface
+  author: m8r98a4f2
+  description: StarUI Inventory improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item category icons. Category as left sidebar. Many quality of life features!
+  
