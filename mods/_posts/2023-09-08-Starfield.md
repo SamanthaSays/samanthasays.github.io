@@ -16,6 +16,8 @@ Remember to not just blindly copy somebody else's mod list. Make sure each mod i
 
 Additionally, I use the Nvidia Game Filter to apply the Details filter, with Sharpen at 9%, and Clarity at 13%.
 
+You can purchase Starfield at <a target="_blank" href="https://greenmangaming.sjv.io/samanthasays-starfield">Green Man Gaming</a> through my affiliate link.
+
 <table class="modlist">
     <thead>
     <tr>
