@@ -18,7 +18,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 </div>
 
 <div class="tablesContainer">
-    {% for post in site.categories.gallery offset:72 limit:24 %}
+    {% for post in site.categories.gallery offset:96 limit:24 %}
         <table id="tableGallery">
             <tr>
                 <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="/assets/images/gallery/{{ post.tag }}/{{ post.image }}" alt="{{ post.title }}"></a></th>
