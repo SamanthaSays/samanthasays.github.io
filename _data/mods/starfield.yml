@@ -18,6 +18,11 @@
   category: User Interface
   author: Stentorious
   description: Modifies the mission menu for more items can be seen at once.
+- name: Crowd NPC Eye Ambient Occlusion Fix
+  link: https://www.nexusmods.com/starfield/mods/2718
+  category: Visuals
+  author: sdfsdhfhcvbc
+  description: Adds ambient occlusion to the eyes of crowd NPCs.
 - name: Enemy Friendly Fire
   link: https://www.nexusmods.com/starfield/mods/614
   category: Gameplay
