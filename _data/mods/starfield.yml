@@ -1,3 +1,8 @@
+- name: Address Library for SFSE Plugins
+  link: https://www.nexusmods.com/starfield/mods/3256
+  category: Modders Resources
+  author: meh321
+  description: Contains a database to make SFSE DLL plugins version independent easily.
 - name: Adjusted Teeth Colours
   link: https://www.nexusmods.com/starfield/mods/997
   category: Visuals
@@ -8,11 +13,16 @@
   category: Miscellaneous
   author: shad0wshayd3
   description: Prevents achievements from being disabled with mods or when using the console. Also removes the warning when opening the console for the first time in a session.
-- name: BetterHUD
+- name: BetterHUD - Location and XP
   link: https://www.nexusmods.com/starfield/mods/214
   category: User Interface
   author: KahoMaat
   description: Less distracting, more immersive, and simply a better HUD.
+- name: Compact Crew Menu UI
+  link: https://www.nexusmods.com/starfield/mods/3014
+  category: User Interface
+  author: Stentorious
+  description: Midifies the crew menu so more items can be seen at once. Increases viewable items by 50%.
 - name: Compact Mission UI
   link: https://www.nexusmods.com/starfield/mods/682
   category: User Interface
@@ -23,6 +33,11 @@
   category: Visuals
   author: sdfsdhfhcvbc
   description: Adds ambient occlusion to the eyes of crowd NPCs.
+- name: Dicord Rich Presence
+  link: https://www.nexusmods.com/starfield/mods/2545
+  category: Miscellaneous
+  author: TimmInfinite
+  description: Integrates Discord Rich Presence into Starfield.
 - name: Enemy Friendly Fire
   link: https://www.nexusmods.com/starfield/mods/614
   category: Gameplay
@@ -58,9 +73,18 @@
   category: Visuals
   author: PureDark
   description: Replacing the in-game FSR2 with DLSS/XeSS.
+- name: StarUI HUD
+  link: https://www.nexusmods.com/starfield/mods/3444
+  category: User Interface
+  author: m8r98a4f2
+  description: StarUI HUD gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
 - name: StarUI Inventory
   link: https://www.nexusmods.com/starfield/mods/773
   category: User Interface
   author: m8r98a4f2
   description: StarUI Inventory improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item category icons. Category as left sidebar. Many quality of life features!
-  
+- name: Weapon Swap Stuttering Fix
+  link: https://www.nexusmods.com/starfield/mods/2830
+  category: Gameplay
+  author: AntoniX
+  description: Fixed stuttering when changing weapons.
