@@ -11,6 +11,7 @@ characterLink: s'unrise
 class: Nightblade
 type: Magicka
 theme: Vampire
+priority: 2
 tag: Build
 ---
 
