@@ -173,6 +173,11 @@
   category: Bags, Bank, Inventory
   author: manavortex
   description: Tracks everything in all your characters bags, bank, guild banks, craft bag, and storage chests.
+- name: Jukebox - Menu Music Randomizer
+  link: https://www.esoui.com/downloads/info3403-Jukebox-MenuMusicRandomizer.html
+  category: Miscellaneous
+  author: MrPikPik
+  description: Allows you to make a playlist of menu themes you want to play and set some basic rules on when to automatically change it to another title.
 - name: JunkBuster
   link: https://www.esoui.com/downloads/info266-JunkBuster.html
   category: Bags, Bank, Inventory
