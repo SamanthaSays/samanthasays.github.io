@@ -28,11 +28,6 @@
   category: User Interface
   author: Stentorious
   description: Modifies the mission menu for more items can be seen at once.
-- name: Crowd NPC Eye Ambient Occlusion Fix
-  link: https://www.nexusmods.com/starfield/mods/2718
-  category: Visuals
-  author: sdfsdhfhcvbc
-  description: Adds ambient occlusion to the eyes of crowd NPCs.
 - name: Dicord Rich Presence
   link: https://www.nexusmods.com/starfield/mods/2545
   category: Miscellaneous
@@ -53,6 +48,11 @@
   category: Audio
   author: DylanJames
   description: Replaces over 45 "scanner" and menu sounds without the high pitch frequency - using as transparent methods as possible.
+- name: No Legendary Pickup Notification
+  link: https://www.nexusmods.com/starfield/mods/5687
+  category: User Interface
+  author: m8r98a4f2
+  description: Removes the additional rare/epic/legendary item card notification, which pops up when you pick up a rare/epic/legendary item.
 - name: Smooth Ship Reticle
   link: https://www.nexusmods.com/starfield/mods/270
   category: User Interface
@@ -68,11 +68,6 @@
   category: Miscellaneous
   author: ianpatt
   description: A tool adding additional scripting capabilities and functionality to the game.
-- name: Starfield Upscaler
-  link: https://www.nexusmods.com/starfield/mods/111
-  category: Visuals
-  author: PureDark
-  description: Replacing the in-game FSR2 with DLSS/XeSS.
 - name: StarUI HUD
   link: https://www.nexusmods.com/starfield/mods/3444
   category: User Interface
@@ -83,3 +78,18 @@
   category: User Interface
   author: m8r98a4f2
   description: StarUI Inventory improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item category icons. Category as left sidebar. Many quality of life features!
+- name: StarUI Outpost
+  link: https://www.nexusmods.com/starfield/mods/5766
+  category: User Interface
+  author: m8r98a4f2
+  description: Improves the outpost interface for PC. Add a comfortable build menu with separate lists for category, building, and variation. Changes the key bindings to be like most other interfaces. Adds an inspect label and button hints at the cursor. And many other quality of life additions.
+- name: StarUI Ship Builder
+  link: https://www.nexusmods.com/starfield/mods/6402
+  category: User Interface
+  author: m8r98a4f2
+  description: StarUI Ship Builder improves the ship builder for usage on PC. Compact style, sort-able columns, filter panel, category list, variant list, vertical upgrade list, and many more quality of life additions.
+- name: StarUI Workbench
+  link: https://www.nexusmods.com/starfield/mods/4966
+  category: User Interface
+  author: m8r98a4f2
+  description: StarUI Workbench improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, quality of life features, and more!
