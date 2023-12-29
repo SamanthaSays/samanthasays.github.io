@@ -7,6 +7,7 @@ image: Lunar Sunset.webp
 description: A screenshot of Vasco as the sun sets on an unknown moon from Starfield, taken by Samantha Says.
 metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/Lunar Sunset.webp
 tags: Starfield Screenshot
+gallery: starfield
 from: Starfield
 link: https://greenmangaming.sjv.io/samanthasays-starfield
 ---

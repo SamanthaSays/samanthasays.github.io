@@ -7,6 +7,7 @@ image: In the Wild.webp
 description: A screenshot of a temple on a planet full of wildlife from Starfield, taken by Samantha Says.
 metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/In the Wild.webp
 tags: Starfield Screenshot
+gallery: starfield
 from: Starfield
 link: https://greenmangaming.sjv.io/samanthasays-starfield
 ---

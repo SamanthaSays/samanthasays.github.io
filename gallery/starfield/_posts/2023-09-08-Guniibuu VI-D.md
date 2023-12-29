@@ -7,6 +7,7 @@ image: Guniibuu VI-D.webp
 description: A screenshot of the sun setting on Guniibuu VI-D from Starfield, taken by Samantha Says.
 metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/Guniibuu VI-D.webp
 tags: Starfield Screenshot
+gallery: starfield
 from: Starfield
 link: https://greenmangaming.sjv.io/samanthasays-starfield
 ---

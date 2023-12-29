@@ -1,4 +1,4 @@
 <div class="gallery">
-<img style="max-width: 100%" src="/assets/images/gallery/{{ page.tag }}/{{ page.image }}"  alt="{{ page.title }}">
+<img style="max-width: 100%" src="/assets/images/gallery/{{ page.gallery }}/{{ page.image }}"  alt="{{ page.title }}">
 </div>
-{% if page.tag != "minecraft" %}<p style="text-align: center">{% if page.tag != "samantha says" %}Purchase {% endif %}<a target="_blank" href="{{ page.link }}">{{ page.from }}</a></p>{% endif %}
+{% if page.gallery != "minecraft" %}<p style="text-align: center">{% if page.gallery != "samantha says" %}Purchase {% endif %}<a target="_blank" href="{{ page.link }}">{{ page.from }}</a></p>{% endif %}

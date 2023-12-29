@@ -7,6 +7,7 @@ image: Le Panda Girl - Drawbauchery.webp
 description: Samantha Says in a super cosy panda onesie! Commissioned from Drawbauchery.
 metaImage: https://samanthasays.github.io/assets/images/gallery/samantha says/Le Panda Girl - Drawbauchery.webp
 tags: SamanthaSays Post Art
+gallery: samantha says
 from: Drawbauchery
 link: https://drawbauchery.tumblr.com/
 ---

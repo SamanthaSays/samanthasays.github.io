@@ -7,6 +7,7 @@ image: Eridani VII-C.webp
 description: A screenshot of Saysbug I on Eridani VII-C from Starfield, taken by Samantha Says.
 metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/Eridani VII-C.webp
 tags: Starfield Screenshot
+gallery: starfield
 from: Starfield
 link: https://greenmangaming.sjv.io/samanthasays-starfield
 ---

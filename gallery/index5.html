@@ -21,7 +21,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
     {% for post in site.categories.gallery offset:96 limit:24 %}
         <table id="tableGallery">
             <tr>
-                <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="/assets/images/gallery/{{ post.tag }}/{{ post.image }}" alt="{{ post.title }}"></a></th>
+                <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="/assets/images/gallery/{{ post.gallery }}/{{ post.image }}" alt="{{ post.title }}"></a></th>
             </tr><tr>
                 <td><a href="{{ post.url }}">{{ post.title }}</a></td>
             </tr>{% if post.categories contains "samantha says" %}<tr>

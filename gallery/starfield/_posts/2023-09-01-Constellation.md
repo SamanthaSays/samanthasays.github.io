@@ -7,6 +7,7 @@ image: Constellation.webp
 description: A screenshot of Constellation's headquarters from Starfield, taken by Samantha Says.
 metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/Constellation.webp
 tags: Starfield Screenshot
+gallery: starfield
 from: Starfield
 link: https://greenmangaming.sjv.io/samanthasays-starfield
 ---
