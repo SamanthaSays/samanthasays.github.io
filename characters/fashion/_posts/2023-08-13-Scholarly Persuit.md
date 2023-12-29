@@ -2,14 +2,14 @@
 layout: post
 title: Scholarly Persuit
 section: characters
-metaDescription: The Scholar themed fashion of Simplicia Palenix, including styles, dyes, and collectibles. 
+description: The Scholar themed fashion of Simplicia Palenix, including styles, dyes, and collectibles. 
 metaImage: https://samanthasays.github.io/assets/images/characters/Simplicia Palenix.webp
 permalink: /characters/fashion/scholarly persuit
 image: Simplicia Palenix.webp
 character: Simplicia Palenix
 characterLink: simplicia palenix
 theme: Scholar
-tag: Fashion
+tags: Fashion Post ESO
 ---
 
 <div class="fashionContainer">

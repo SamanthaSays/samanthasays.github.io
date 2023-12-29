@@ -1,0 +1,18 @@
+plugins:
+  - jekyll-feed
+
+title: "Samantha Says"
+description: "The personal website of Samantha Says"
+author: "Samantha Says"
+
+feed:
+  posts_limit: 10
+  excerpt_only: true
+  tags: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      author: "Samantha Says"

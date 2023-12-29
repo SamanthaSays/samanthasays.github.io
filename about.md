@@ -2,7 +2,7 @@
 layout: default
 title: About
 section: about
-metaDescription: About Samantha Says and her website. 'I have no prior experience with making websites, so this is a constant learning experience for me!<br>Some parts will look under construction. Y'know, because they are.'
+description: About Samantha Says and her website. 'I have no prior experience with making websites, so this is a constant learning experience for me!<br>Some parts will look under construction. Y'know, because they are.'
 metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 ---
 

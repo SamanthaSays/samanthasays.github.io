@@ -4,9 +4,9 @@ title: Ahrolsedovah
 section: gallery
 permalink: /gallery/skyrim/ahrolsedovah
 image: Ahrolsedovah.webp
-metaDescription: A screenshot of Whiterun from The Elder Scrolls V&#58; Skyrim, taken by Samantha Says.
+description: A screenshot of Whiterun from The Elder Scrolls V&#58; Skyrim, taken by Samantha Says.
 metaImage: https://samanthasays.github.io/assets/images/gallery/skyrim/Ahrolsedovah.webp
-tag: skyrim
+tags: Skyrim Screenshot
 from: Skyrim
 link: https://greenmangaming.sjv.io/samanthasays-skyrim
 ---

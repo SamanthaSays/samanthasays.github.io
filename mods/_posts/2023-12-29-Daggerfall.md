@@ -5,9 +5,9 @@ section: mods
 permalink: /mods/daggerfall
 image: DF-cover.webp
 game: Daggerfall
-metaDescription: The Daggerfall mods used by Samantha Says. All mods are installed and managed through Vortex.
+description: The Daggerfall mods used by Samantha Says. All mods are installed and managed through Vortex.
 metaImage: https://samanthasays.github.io/assets/images/games/DF-cover.webp
-tag: Modlist
+tags: Modlist Post
 ---
 
 All mods are installed and managed through <a target="_blank" href="https://www.nexusmods.com/about/vortex">Vortex</a>.

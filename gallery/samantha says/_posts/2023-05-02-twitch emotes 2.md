@@ -4,9 +4,9 @@ title: Twitch Emotes 2
 section: gallery
 permalink: /gallery/samantha says/twitch emotes 2
 image: Emotes 2 - noredji.webp
-metaDescription: The second batch of 6 Twitch emotes, commissioned from noredji.
+description: The second batch of 6 Twitch emotes, commissioned from noredji.
 metaImage: https://samanthasays.github.io/assets/images/gallery/samantha says/Emotes 2 - noredji.webp
-tag: samantha says
+tags: SamanthaSays Twitch Post Art
 from: noredji
 link: https://www.fiverr.com/noredji
 ---

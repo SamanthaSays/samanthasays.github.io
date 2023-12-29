@@ -2,7 +2,7 @@
 layout: post
 title: Dominion Seneschal
 section: characters
-metaDescription: A soldier themed Stamina Templar build focusing on jabbing your spear from behind your shield while raining arrows across the battlefield.
+description: A soldier themed Stamina Templar build focusing on jabbing your spear from behind your shield while raining arrows across the battlefield.
 metaImage: https://samanthasays.github.io/assets/images/characters/Silaninde.webp
 permalink: /characters/builds/dominion seneschal
 image: Silaninde.webp
@@ -11,7 +11,7 @@ characterLink: silaninde
 class: Templar
 type: Stamina
 theme: Soldier
-tag: Build
+tags: Build Post ESO
 ---
 
 <p>This soldier themed build focuses on using physical combat and archery to roleplay as a proper soldier. Fire off arrows from range, before moving forward with your shield raised to attack your enemies with powerful spear thrusts. For the Queen!</p>

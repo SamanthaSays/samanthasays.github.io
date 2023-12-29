@@ -2,7 +2,7 @@
 layout: post
 title: Imperial City Stalker
 section: characters
-metaDescription: A Vampire themed Magicka Nightblade build designed for PvP, with a focus on leeching life from your enemies.
+description: A Vampire themed Magicka Nightblade build designed for PvP, with a focus on leeching life from your enemies.
 metaImage: https://samanthasays.github.io/assets/images/characters/S'unrise.webp
 permalink: /characters/builds/imperial city stalker
 image: S'unrise.webp
@@ -12,7 +12,7 @@ class: Nightblade
 type: Magicka
 theme: Vampire
 priority: 2
-tag: Build
+tags: Build Post ESO
 ---
 
 <p>This Vampire themed build focuses on sucking the life from your enemies across the battlefield, and works for Cyrodiil, Imperial City, and Battlegrounds.</p>

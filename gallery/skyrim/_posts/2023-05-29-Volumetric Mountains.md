@@ -4,9 +4,9 @@ title: Volumetric Mountains
 section: gallery
 permalink: /gallery/skyrim/volumetric mountains
 image: Volumetric Mountains.webp
-metaDescription: A screenshot of volumetric fog over Whiterun's mountains from The Elder Scrolls V&#58; Skyrim, taken by Samantha Says.
+description: A screenshot of volumetric fog over Whiterun's mountains from The Elder Scrolls V&#58; Skyrim, taken by Samantha Says.
 metaImage: https://samanthasays.github.io/assets/images/gallery/skyrim/Volumetric Mountains.webp
-tag: skyrim
+tags: Skyrim Screenshot
 from: Skyrim
 link: https://greenmangaming.sjv.io/samanthasays-skyrim
 ---
