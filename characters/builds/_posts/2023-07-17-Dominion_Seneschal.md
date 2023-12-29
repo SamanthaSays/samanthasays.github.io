@@ -30,7 +30,7 @@ tag: Build
             <span style="font-weight: bold">Templar</span></p>
         </div>
         <div class="buildRace">
-            <p><img src="/assets/images/icons/blades/race/altmer.webp"><br>
+            <p><img src="/assets/images/icons/blades/race/altmer.webp" alt="Altmer"><br>
             <span style="font-weight: bold">Altmer</span><br>
             Optional</p>
         </div>
