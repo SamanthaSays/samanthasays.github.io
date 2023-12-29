@@ -1,0 +1,6 @@
+<h3>Mods</h3>
+<ul id="sidebarList">
+{% for item in site.data.modsGames %}
+<li><a href="/mods/{{ item.link }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>

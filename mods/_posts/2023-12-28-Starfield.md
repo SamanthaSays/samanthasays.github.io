@@ -14,8 +14,6 @@ All mods are installed and managed through <a target="_blank" href="https://www.
 
 Remember to not just blindly copy somebody else's mod list. Make sure each mod is one that you really want! Because of this, my installed dependencies are not listed.
 
-Additionally, I use the Nvidia Game Filter to apply the Sharpen+ filter, with Intensity at 20%, and Texture Details at 25%.
-
 You can purchase Starfield at <a target="_blank" href="https://greenmangaming.sjv.io/samanthasays-starfield">Green Man Gaming</a> through my affiliate link.
 
 <table class="modlist">

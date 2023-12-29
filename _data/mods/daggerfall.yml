@@ -1,0 +1,404 @@
+- name: Basic Roads
+  link: https://www.nexusmods.com/daggerfallunity/mods/134
+  category: Gameplay
+  author: Hazelnut
+  description: Adds roads and dirt tracks to the world of Daggerfall.
+  choice: Yes
+- name: Climates and Calories
+  link: https://www.nexusmods.com/daggerfallunity/mods/49
+  category: Gameplay
+  author: Ralzar
+  description: Adds hunger, thirst, sleep, temperature, cooking, camping, and more.
+  choice: Yes
+- name: Convenient Quest Log
+  link: https://www.nexusmods.com/daggerfallunity/mods/189
+  category: User Interface
+  author: Macadaynu
+  description: A revamped version of the active quest log. Groups each quest message by its parent quest, and displays the length of time left to complete the quest.
+  choice: Yes
+- name: Drafty Secret Doors
+  link: https://www.nexusmods.com/daggerfallunity/mods/211
+  category: Gameplay
+  author: Kaedius
+  description: Dungeon scret doors emit a faint wind sound, making it easier to find them by listening without resorting to madly clicking on every wall.
+  choice: Yes
+- name: Dynamic Skies
+  link: https://www.nexusmods.com/daggerfallunity/mods/376
+  category: Visuals and Graphics
+  author: BadLuckBurt and carademono
+  description: Adds procedural skies with dynamic clouds, sunsets, moons, and stars.
+  choice: Yes
+- name: Low Poly Trees
+  link: https://www.nexusmods.com/daggerfallunity/mods/380
+  category: Visuals and Graphics
+  author: Kamer
+  description: Adds low poly trees to the wilderness.
+  choice: Yes
+- name: Physical Combat and Armor Overhaul
+  link: https://www.nexusmods.com/daggerfallunity/mods/76
+  category: Overhauls
+  author: Kirk O
+  description: Armour reduces damage taken instead of increasing dodge chance, weapons have reduced Hit Bonus, combat racial bonuses are buffed, Critical Strike reworked completely, and more major combat changes.
+  choice: Yes
+- name: Travel Options
+  link: https://www.nexusmods.com/daggerfallunity/mods/122
+  category: Gameplay
+  author: Hazelnut
+  description: Provides options for travelling around the Iliac Bay, allowing for either fast travel or time accelerated real travel.
+  choice: Yes
+- name: Wilderness Overhaul
+  link: https://www.nexusmods.com/daggerfallunity/mods/390
+  category: Visuals and Graphics
+  author: Daniel87 and Macadaynu
+  description: Overhauls the wilderness nature layout by introducing abundant forets, open fields, dense rainforests, and barren deserts.
+  choice: Yes
+- name: World of Daggerfall
+  link: https://www.nexusmods.com/daggerfallunity/mods/249
+  category: Locations
+  author: World of Daggerfall Team
+  description: Adds new locations and large-scale props to the world exterior. Find the landscape filled with enormous mountains, the roads with bandit settlements, and the wilds with ruins, shrines, and other points of interest.
+  choice: Yes
+- name: Aquatic Sprites
+  link: https://www.nexusmods.com/daggerfallunity/mods/276
+  category: Visuals and Graphics
+  author: Cliffworms
+  description: Adds several of the unused underwater sprites in submerged cavern dungeons.
+- name: Archaeologists
+  link: https://www.nexusmods.com/daggerfallunity/mods/14
+  category: Guilds
+  author: Hazelnut
+  description: Adds the Archaeologists Guild and makes language skills more viable.
+- name: Arena's Adventures
+  link: https://www.nexusmods.com/daggerfallunity/mods/185
+  category: Quests
+  author: Cliffworms
+  description: Adds 9 side quests from The Elder Scrolls&#58; Arena.
+- name: Daggerfall Autosave
+  link: https://www.nexusmods.com/daggerfallunity/mods/474
+  category: Gameplay
+  author: aches
+  description: Autosave functionality for Daggerfall.
+- name: Bards and Balladeers
+  link: https://www.nexusmods.com/daggerfallunity/mods/561
+  category: Guilds
+  author: Harbinger451
+  description: Allows you to play the bard and earn money performing ballads in taverns and elswhere. Also, join the Bards Guild and get involved in some epic adventures.
+- name: Beautiful Villages of Daggerfall
+  link: https://www.nexusmods.com/daggerfallunity/mods/566
+  category: Locations
+  author: carademono
+  description: Overhauls the villages of the Iliac Bay, aiming to give them a rural, vanilla-friendly character.
+- name: Betony Restored
+  link: https://www.nexusmods.com/daggerfallunity/mods/515
+  category: Locations
+  author: Cliffworms
+  description: Adds the 25 locations from Daggerfall's Betony Demo to the island of Betony.
+- name: Better Dungeon Exits
+  link: https://www.nexusmods.com/daggerfallunity/mods/287
+  category: Visuals and Graphics
+  author: ThatKidBobo
+  description: Dungeon exits now look like they lead outside.
+- name: Better Ambience
+  link: https://www.nexusmods.com/daggerfallunity/mods/139
+  category: Visuals and Graphics
+  author: Joshua Steinhauer
+  description: Adds several modular features&#58; camera shaking, better footsteps, better weather, and dungeon reverb and fog.
+- name: Birds in Daggerfall
+  link: https://www.nexusmods.com/daggerfallunity/mods/18
+  category: Creatures
+  author: Uncanny Valley
+  description: Adds flying birds in the skies of Daggerfall.
+- name: Cities Overhauled - Orsinium
+  link: https://www.nexusmods.com/daggerfallunity/mods/567
+  category: Locations
+  author: dotWayton
+  description: Replaces Orsinium, making it more lore accurate, more vertical, and more fun to explore.
+- name: Climates Travel Map
+  link: https://www.nexusmods.com/daggerfallunity/mods/382
+  category: User Interface
+  author: Sam the Salmon
+  description: Adds colours to the kingdom maps to display the different climates.
+- name: Crossbows
+  link: https://www.nexusmods.com/daggerfallunity/mods/484
+  category: Weapons
+  author: numidium3rd and realAKP
+  description: Adds crossbows.
+- name: Daggerfall Enemy Expansion
+  link: https://www.nexusmods.com/daggerfallunity/mods/372
+  category: Creatures
+  author: Kab and Kamer
+  description: Adds tens of new monsters and human enemeis for use in dungeons, wilderness encounters, and quests.
+- name: Darker Dungeons
+  link: https://www.nexusmods.com/daggerfallunity/mods/286
+  category: Gameplay
+  author: Ralzar
+  description: Dungeon lights are off unless a humanoid spawned nearby. Douse and light all light sources in dungeons. Take torches, candles, and oil.
+- name: Daggerfall Unity Quest Pack 1
+  link: https://www.nexusmods.com/daggerfallunity/mods/2
+  category: Quests
+  author: JayH2971
+  description: Offers 195 original new quests, mostly for the game's guilds.
+- name: Death Sentence
+  link: https://www.nexusmods.com/daggerfallunity/mods/467
+  category: Gameplay
+  author: Kamer
+  description: Restores execution to the court of Daggerfall. Increased prison time for certain crimes, and see random prison mates in your cell.
+- name: Decorator
+  link: https://www.nexusmods.com/daggerfallunity/mods/70
+  category: Miscellaneous
+  author: Kaedius
+  description: Place furniture, containers, lights, potion makers, spell makers, paintings, and more to decorate your player home and ship.
+- name: Detailed City Walls
+  link: https://www.nexusmods.com/daggerfallunity/mods/221
+  category: Locations
+  author: Cliffworms
+  description: Decorates the exteriors and otherwise empty interiors of the city walls. Also adds 3 quests taking place inside the city walls.
+- name: Dynamic Music
+  link: https://www.nexusmods.com/daggerfallunity/mods/425
+  category: Audio
+  author: numidium3rd
+  description: Adds combat music, fades, and custom playlists to Daggerfall.
+- name: Finding My Religion
+  link: https://www.nexusmods.com/daggerfallunity/mods/344
+  category: Guilds
+  author: Cliffworms
+  description: Overhauls Daggerfall's temples.
+- name: Fixed Desert Architecture
+  link: https://www.nexusmods.com/daggerfallunity/mods/333
+  category: Locations
+  author: Cliffworms
+  description: Replaces "High Rock style" buildings in desert cities with their flat-roof equivalents and other desert location-related changes.
+- name: Fixed Dungeon Exteriors
+  link: https://www.nexusmods.com/daggerfallunity/mods/225
+  category: Locations
+  author: Cliffworms
+  description: Changes the exterior of 1055 dungeons to fit the dungeon type and name.
+- name: Forts Overhauled - Llugwych
+  link: https://www.nexusmods.com/daggerfallunity/mods/570
+  category: Locations
+  author: dotWayton
+  description: A small exterior block replacer for Castle Llugwych, making it more than just a lone building in an empty field, adding some fortifications and minor details, plus a small village surrounding it.
+- name: Forts Overhauled - Woodborne Hall
+  link: https://www.nexusmods.com/daggerfallunity/mods/571
+  category: Locations
+  author: dotWayton
+  description: A simple exterior block replacer for Woodborne Hall, making it more lore accurate and vertical.
+- name: HUD Torch Indicator
+  link: https://www.nexusmods.com/daggerfallunity/mods/391
+  category: User Interface
+  description: Adds a HUD icon to indicate when light source items are equipped and active.
+- name: Improved Interior Lighting
+  link: https://www.nexusmods.com/daggerfallunity/mods/144
+  category: Overhauls
+  author: Shortbeard
+  description: Improves how lights look in interiors and dungeons.
+- name: theJF Quest Pack
+  link: https://www.nexusmods.com/daggerfallunity/mods/175
+  category: Quests
+  author: theJF
+  description: Some custom quests for the Fighters, Knights, Mages, Temples, Nobles, Commoners, and Merchants.
+- name: JayH's Random Little Quests
+  link: https://www.nexusmods.com/daggerfallunity/mods/204
+  category: Quests
+  author: JayH2971
+  description: A series of little unrelated events to add some variety to the Daggerfall life.
+- name: Jobs of the Thieves Guild
+  link: https://www.nexusmods.com/daggerfallunity/mods/200
+  category: Quests
+  author: Cliffworms
+  descripition: Adds 12 new quests for the Theives Guild, exploring criminal ventures other than burglary.
+- name: Kleptomania
+  link: https://www.nexusmods.com/daggerfallunity/mods/492
+  category: Gameplay
+  author: Kirk O
+  description: Allows many previously purely decorative objects and items to be interacted with or taken.
+- name: Limited Gold Shops
+  link: https://www.nexusmods.com/daggerfallunity/mods/89
+  category: Gameplay
+  author: Kirk O
+  description: All shops that can normally have items sold to them now have a limited supply of gold, determined by many factors. Shops can also be invested in.
+- name: Lively Cities
+  link: https://www.nexusmods.com/daggerfallunity/mods/239
+  category: Locations
+  author: Cliffworms
+  description: Adds various static NPCs in the settlements' streets to make them more lively.
+- name: Logical Lootpiles
+  link: https://www.nexusmods.com/daggerfallunity/mods/437
+  category: Miscellaneous
+  author: Arneb
+  description: Set lootpile billboards to reflect what is contained within.
+- name: Lootable Villagers
+  link: https://www.nexusmods.com/daggerfallunity/mods/362
+  category: Gameplay
+  author: Kamer
+  description: Creates a lootable body after a villager dies.
+- name: Lousy Lycans
+  link: https://www.nexusmods.com/daggerfallunity/mods/125
+  category: Gameplay
+  author: Ralzar
+  description: Fleshes out and rebalances the lycanthropy effects of the game, making them more roleplaying flavoured and less overpowered.
+- name: Meaner Monsters
+  link: https://www.nexusmods.com/daggerfallunity/mods/69
+  category: Gameplay
+  author: Ralzar
+  description: Changes the damage, HP, level, and armour of some monsters in the game.
+- name: Open Cages
+  link: https://www.nexusmods.com/daggerfallunity/mods/449
+  category: Gameplay
+  author: Kamer
+  description: All dungeon cages can now be opened.
+- name: Persistent Dungeons
+  link: https://forums.dfworkshop.net/viewtopic.php?t=1667
+  category: Gameplay
+  author: LypyL
+  description: Prevents dungeons resetting immediately.
+- name: Quest Offer Locaions
+  link: https://www.nexusmods.com/daggerfallunity/mods/201
+  category: User Interface
+  author: Macadaynu
+  description: Displays the location of the quest when being offered, and shows how much time it will take to get there. Can be set to prefer nearby quest offers.
+- name: Quest Text Fixes
+  link: 
+  category: Quests
+  author: Samantha Says
+  description: Fixes quest dialogue to fit the screen with the default font, and other minor bug and personal fixes.
+- name: Readied Spellcasting Hands
+  link: https://www.nexusmods.com/daggerfallunity/mods/91
+  category: Miscellaneous
+  author: jefetienne
+  description: Displays hands when ready to cast a spell.
+- name: Realistic Wagon
+  link: https://www.nexusmods.com/daggerfallunity/mods/92
+  category: Gameplay
+  author: Ralzar
+  description: Horses and wagons are physical objects to manage, name your horse, and wagon durability.
+- name: Rest Warning if Unwell
+  link: https://www.nexusmods.com/daggerfallunity/mods/292
+  category: Miscellaneous
+  author: Kirk O
+  description: Gives a warning message when opening the rest window if currently poisoned or diseased.
+- name: Roleplay and Realism
+  link: https://www.nexusmods.com/daggerfallunity/mods/16
+  category: Gameplay
+  author: Hazelnut
+  description: Gameplay enhancements supporting roleplay and realism aspects of Daggerfall.
+- name: Roleplay and Realism - Items
+  link: https://www.nexusmods.com/daggerfallunity/mods/61
+  category: Gameplay
+  author: Hazelnut and Ralzar
+  description: Contains optional modules to enhance roleplay and realism for Daggerfall's items and loot.
+- name: Rumors of the Iliac Bay
+  link: https://www.nexusmods.com/daggerfallunity/mods/199
+  category: Gameplay
+  author: Cliffworms
+  description: Adds around 130 new rumours that have a chance of showing up when asking NPCs about the recent news.
+- name: SIGIL - Wilderness Encounters
+  link: https://www.nexusmods.com/daggerfallunity/mods/224
+  category: Gameplay
+  author: azimovhaas8
+  description: A silent quest system providing numerous new random encounters and quests that can happen in the wilderness of the Iliac Bay.
+- name: Skulduggery - A Thief Overhaul
+  link: https://www.nexusmods.com/daggerfallunity/mods/217
+  category: Gameplay
+  author: Ralzar
+  description: Rebalances and improves mechanics for thief skills. Adds new thief items for sale at the Theives Guild.
+- name: Skyrim's Adventures
+  link: https://www.nexusmods.com/daggerfallunity/mods/223
+  category: Quests
+  author: Cliffworms
+  description: Adds 13 new quests based on Skyrim's radiant quests.
+- name: Soldier's Luxury
+  link: https://www.nexusmods.com/daggerfallunity/mods/234
+  category: Locations
+  author: azimovhaas8
+  description: Visual overhaul of all Knightly Orders and Fighters Guilds in Daggerfall.
+- name: Stealthy Thief Quests
+  link: https://www.nexusmods.com/daggerfallunity/mods/180
+  category: Quests
+  author: imsobadatnicknames
+  description: Makes your Stealth skill affect the outcome of certain Theives Guild quests.
+- name: Tavern Games
+  link: https://www.nexusmods.com/daggerfallunity/mods/109
+  category: Miscellaneous
+  author: imsobadatnicknames
+  description: Spawns NPCs in taverns that you can play games with.
+- name: Taverns Redone
+  link: https://www.nexusmods.com/daggerfallunity/mods/43
+  category: Locations
+  author: Uncanny
+  description: Adds more detail and visual variation to taverns in Daggerfall.
+- name: Taverns Renamed
+  link: https://www.nexusmods.com/daggerfallunity/mods/569
+  category: Locations
+  author: carademono
+  description: Renames all tavern locations to match the name of one of the tavern buildings.
+- name: Tempered Interiors
+  link: https://www.nexusmods.com/daggerfallunity/mods/392
+  category: Models and Textures
+  author: DunnyOfPenwick
+  description: Modifies building interiors to match building quality.
+- name: Temples and Templar Orders Quest Pack
+  link: https://www.nexusmods.com/daggerfallunity/mods/137
+  category: Quests
+  author: AzimovHaas8
+  description: Adds 35 quests for Temples and Knightly Orders.
+- name: Temples Cure Poison
+  link: https://www.nexusmods.com/daggerfallunity/mods/321
+  category: Miscellaneous
+  author: Kirk O
+  description: The Temple "cure disease" service now also cures poisoning.
+- name: The Penwick Papers
+  link: https://www.nexusmods.com/daggerfallunity/mods/300
+  category: Gameplay
+  author: DunnyOfPenwick
+  description: A hodgepodge of useful features, spells, and items.
+- name: Town Graveyard Dungeons
+  link: https://www.nexusmods.com/daggerfallunity/mods/368
+  category: Locations
+  author: Cecell
+  description: Converts the graveyard block in various cities to their "visitable" equivalents and adds a small generic dungeon to said blocks.
+- name: Unlevelled Spells
+  link: https://www.nexusmods.com/daggerfallunity/mods/220
+  category: Gameplay
+  author: kaboissonneault
+  description: Spells don't scale with character level, for stronger early spells and reasonable late game spells.
+- name: Unofficial Block Location and Model Fixes
+  link: https://www.nexusmods.com/daggerfallunity/mods/100
+  category: Models and Textures
+  author: XJDHDR
+  description: Fixes the numerous bugs that exist in Daggerfall's blocks, locations, and models.
+- name: Vampiric Options
+  link: https://www.nexusmods.com/daggerfallunity/mods/67
+  category: Gameplay
+  author: lonegamedev
+  description: Makes playing a vampire character arguably enjoyable, by providing vampire character portraits and options to improve Bloodlust.
+- name: Vanilla Friendly Crossbows
+  link: https://www.nexusmods.com/daggerfallunity/mods/514
+  category: Models and Textures
+  author: Sam the Salmon
+  description: Custom crossbow textures made to be closer to the style of the vanilla game's weapons.
+- name: Vanilla Quests Reranked
+  link: https://www.nexusmods.com/daggerfallunity/mods/301
+  category: Quests
+  author: JayH2971
+  description: Re-orders the vanilla quests so they're given in a much more reasonable order.
+- name: Varied Wealthy Homes
+  link: https://www.nexusmods.com/daggerfallunity/mods/507
+  category: Locations
+  author: Cliffworms
+  description: Changes the layouts of 723 Manor and Palace wealthy home locations with those previously unused for more layout variety.
+- name: Villager Reactions
+  link: https://www.nexusmods.com/daggerfallunity/mods/364
+  category: Gameplay
+  author: Kamer
+  description: Villagers and guards react to enemies, werewolves, and criminals.
+- name: Windmills of Daggerfall
+  link: https://www.nexusmods.com/daggerfallunity/mods/33
+  category: Visuals and Graphics
+  author: Kamer
+  description: Adds windmills back to the game with animated blades.
+- name: World Tooltips
+  link: https://www.nexusmods.com/daggerfallunity/mods/158
+  category: User Interface
+  author: jefetienne
+  description: First-person tooltips that display information about NPCs, buildings, doors, items, and other interactable objects.
