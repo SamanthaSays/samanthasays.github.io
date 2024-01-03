@@ -6,7 +6,7 @@ description: "The personal website of Samantha Says"
 author: "Samantha Says"
 
 feed:
-  posts_limit: 10
+  posts_limit: 20
   excerpt_only: true
   tags: true
 
