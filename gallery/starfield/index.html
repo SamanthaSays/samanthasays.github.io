@@ -13,7 +13,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
         {% if post.categories contains "starfield" %}
             <table id="tableGallery">
                 <tr>
-                    <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="/assets/images/gallery/{{ post.gallery }}/{{ post.image }}" alt="{{ post.title }}"></a></th>
+                    <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="{{ post.image }}" alt="{{ post.title }}"></a></th>
                 </tr><tr>
                     <td><a href="{{ post.url }}">{{ post.title }}</a></td>
                 </tr>

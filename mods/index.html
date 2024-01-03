@@ -3,7 +3,7 @@ layout: default
 title: Mods
 section: mods
 description: A collection of mod lists used by Samantha Says, including The Elder Scrolls series such as ESO, Skyrim, and Morrowind, as well as other games like Minecraft.
-metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
+image: /assets/images/Apples icon.png
 ---
 
 <h1>Mods</h1>
@@ -13,7 +13,7 @@ metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
 {% for post in sortedPosts %}
     <table id="tableGallery">
         <tr>
-            <th><a href="{{ post.permalink }}"><img src="/assets/images/games/{{ post.image }}" alt="{{ post.game }}"></a></th>
+            <th><a href="{{ post.permalink }}"><img src="{{ post.image }}" alt="{{ post.game }}"></a></th>
         </tr><tr>
             <td><a href="{{ post.permalink }}">{{ post.game }}</a></td>
         </tr>

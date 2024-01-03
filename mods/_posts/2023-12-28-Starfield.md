@@ -3,10 +3,9 @@ layout: post
 title: Starfield Mods
 section: mods
 permalink: /mods/starfield
-image: SF-cover.webp
+image: /assets/images/games/SF-cover.webp
 game: Starfield
 description: The Starfield mods used by Samantha Says. All mods are installed and managed through Vortex.
-metaImage: https://samanthasays.github.io/assets/images/games/SF-cover.webp
 tags: Modlist Post
 ---
 

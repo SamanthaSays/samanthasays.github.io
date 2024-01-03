@@ -4,7 +4,7 @@ title: Channel Points
 section: posts
 permalink: /posts/channel points
 description: All of the details of the channel points and redemption options on Samantha Says' Twitch channel.
-metaImage: https://samanthasays.github.io/assets/images/Apples icon.png
+image: /assets/images/Apples icon.png
 tags: Twitch Post
 ---
 

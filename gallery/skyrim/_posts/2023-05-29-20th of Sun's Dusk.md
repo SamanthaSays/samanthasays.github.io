@@ -3,9 +3,8 @@ layout: post
 title: 20th of Sun's Dusk
 section: gallery
 permalink: /gallery/skyrim/20th of sun's dusk
-image: 20th of Sun's Dusk.webp
+image: /assets/images/gallery/skyrim/20th of Sun's Dusk.webp
 description: A screenshot of the Shrine of Molag Bal from The Elder Scrolls V&#58; Skyrim, taken by Samantha Says.
-metaImage: https://samanthasays.github.io/assets/images/gallery/skyrim/20th of Sun's Dusk.webp
 tags: Skyrim Screenshot
 gallery: skyrim
 from: Skyrim

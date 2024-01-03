@@ -3,7 +3,7 @@ layout: default
 title: Fashion
 section: characters
 description: A collection of fashion of the original characters by Samantha Says. Most appear across The Elder Scrolls series, like ESO, Skyrim, and Morrowind.
-metaImage: https://samanthasays.github.io/assets/images/characters/S'unrise.webp
+image: /assets/images/characters/S'unrise.webp
 ---
 
 <h1>Fashion</h1>
@@ -13,7 +13,7 @@ metaImage: https://samanthasays.github.io/assets/images/characters/S'unrise.webp
     {% for post in site.categories.fashion %}
         <table id="tableGallery">
             <tr>
-                <th><a href="{{ post.url }}"><img style="width: 297px; height: auto" src="/assets/images/characters/{{ post.image }}" alt="{{ post.title }}"></a></th>
+                <th><a href="{{ post.url }}"><img style="width: 297px; height: auto" src="{{ post.image }}" alt="{{ post.title }}"></a></th>
             </tr><tr>
                 <td><a href="{{ post.url }}">{{ post.title }}</a></td>
             </tr><tr>

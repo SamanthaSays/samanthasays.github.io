@@ -2,10 +2,9 @@
 layout: post
 title: Shadow of Night
 section: characters
-description: The Vampire themed fashion of S'unrise, including styles, dyes, and collectibles. 
-metaImage: https://samanthasays.github.io/assets/images/characters/S'unrise.webp
+description: The Vampire themed fashion of S'unrise, including styles, dyes, and collectibles.
 permalink: /characters/fashion/shadow of night
-image: S'unrise.webp
+image: /assets/images/characters/S'unrise.webp
 character: S'unrise
 characterLink: s'unrise
 theme: Vampire

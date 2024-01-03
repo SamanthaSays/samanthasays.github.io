@@ -3,9 +3,8 @@ layout: post
 title: Dominion Seneschal
 section: characters
 description: A soldier themed Stamina Templar build focusing on jabbing your spear from behind your shield while raining arrows across the battlefield.
-metaImage: https://samanthasays.github.io/assets/images/characters/Silaninde.webp
 permalink: /characters/builds/dominion seneschal
-image: Silaninde.webp
+image: /assets/images/characters/Silaninde.webp
 character: Silaninde
 characterLink: silaninde
 class: Templar

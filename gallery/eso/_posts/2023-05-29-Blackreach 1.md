@@ -3,9 +3,8 @@ layout: post
 title: Blackreach 1
 section: gallery
 permalink: /gallery/eso/blackreach 1
-image: Blackreach 1.webp
+image: /assets/images/gallery/eso/Blackreach 1.webp
 description: A screenshot of Blackreach from The Elder Scrolls Online, taken by Samantha Says.
-metaImage: https://samanthasays.github.io/assets/images/gallery/eso/Blackreach 1.webp
 tags: ESO Screenshot
 gallery: eso
 from: The Elder Scrolls Online

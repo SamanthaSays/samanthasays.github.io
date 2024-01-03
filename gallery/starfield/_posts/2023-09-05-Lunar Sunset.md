@@ -3,9 +3,8 @@ layout: post
 title: Lunar Sunset
 section: gallery
 permalink: /gallery/starfield/lunar sunset
-image: Lunar Sunset.webp
+image: /assets/images/gallery/starfield/Lunar Sunset.webp
 description: A screenshot of Vasco as the sun sets on an unknown moon from Starfield, taken by Samantha Says.
-metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/Lunar Sunset.webp
 tags: Starfield Screenshot
 gallery: starfield
 from: Starfield

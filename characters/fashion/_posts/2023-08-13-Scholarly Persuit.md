@@ -3,9 +3,8 @@ layout: post
 title: Scholarly Persuit
 section: characters
 description: The Scholar themed fashion of Simplicia Palenix, including styles, dyes, and collectibles. 
-metaImage: https://samanthasays.github.io/assets/images/characters/Simplicia Palenix.webp
 permalink: /characters/fashion/scholarly persuit
-image: Simplicia Palenix.webp
+image: /assets/images/characters/Simplicia Palenix.webp
 character: Simplicia Palenix
 characterLink: simplicia palenix
 theme: Scholar

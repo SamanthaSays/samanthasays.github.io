@@ -3,9 +3,8 @@ layout: default
 title: Silaninde
 section: characters
 description: Lore, Builds, and Fashion of Silaninde, an original character by Samantha Says that apprears as a Stamina Templar in The Elder Scrolls Online.
-metaImage: https://samanthasays.github.io/assets/images/characters/Silaninde.webp
 permalink: /characters/silaninde
-image: Silaninde.webp
+image: /assets/images/characters/Silaninde.webp
 priority: 2
 race: Altmer
 class: Templar

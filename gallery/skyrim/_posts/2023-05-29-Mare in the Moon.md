@@ -3,9 +3,8 @@ layout: post
 title: Mare in the Moon
 section: gallery
 permalink: /gallery/skyrim/mare in the moon
-image: Mare in the Moon.webp
+image: /assets/images/gallery/skyrim/Mare in the Moon.webp
 description: A screenshot of the Mare in the Moon above Whiterun from The Elder Scrolls V&#58; Skyrim, taken by Samantha Says.
-metaImage: https://samanthasays.github.io/assets/images/gallery/skyrim/Mare in the Moon.webp
 tags: Skyrim Screenshot
 gallery: skyrim
 from: Skyrim

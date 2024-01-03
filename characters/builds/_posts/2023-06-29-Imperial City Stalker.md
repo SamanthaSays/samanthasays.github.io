@@ -3,9 +3,8 @@ layout: post
 title: Imperial City Stalker
 section: characters
 description: A Vampire themed Magicka Nightblade build designed for PvP, with a focus on leeching life from your enemies.
-metaImage: https://samanthasays.github.io/assets/images/characters/S'unrise.webp
 permalink: /characters/builds/imperial city stalker
-image: S'unrise.webp
+image: /assets/images/characters/S'unrise.webp
 character: S'unrise
 characterLink: s'unrise
 class: Nightblade

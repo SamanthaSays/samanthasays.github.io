@@ -3,9 +3,8 @@ layout: post
 title: Constellation
 section: gallery
 permalink: /gallery/starfield/constellation
-image: Constellation.webp
+image: /assets/images/gallery/starfield/Constellation.webp
 description: A screenshot of Constellation's headquarters from Starfield, taken by Samantha Says.
-metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/Constellation.webp
 tags: Starfield Screenshot
 gallery: starfield
 from: Starfield

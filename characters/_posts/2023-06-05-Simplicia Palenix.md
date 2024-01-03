@@ -3,9 +3,8 @@ layout: default
 title: Simplicia Palenix
 section: characters
 description: Lore, Builds, and Fashion of Simplicia Palenix, an original character by Samantha Says that apprears as a Magicka Arcanist in The Elder Scrolls Online.
-metaImage: https://samanthasays.github.io/assets/images/characters/Simplicia Palenix.webp
 permalink: /characters/simplicia palenix
-image: Simplicia Palenix.webp
+image: /assets/images/characters/Simplicia Palenix.webp
 priority: 3
 race: Imperial
 class: Arcanist

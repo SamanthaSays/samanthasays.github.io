@@ -3,10 +3,9 @@ layout: post
 title: Minecraft Mods
 section: mods
 permalink: /mods/minecraft
-image: MC-cover.webp
+image: /assets/images/games/MC-cover.webp
 game: Minecraft
 description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually. My top 6 are marked with a heart.
-metaImage: https://samanthasays.github.io/assets/images/games/MC-cover.webp
 tags: Modlist Post
 ---
 

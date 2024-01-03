@@ -3,9 +3,8 @@ layout: post
 title: Life Leecher
 section: gallery
 permalink: /gallery/starfield/life leecher
-image: Life Leecher.webp
+image: /assets/images/gallery/starfield/Life Leecher.webp
 description: A screenshot of a Terrormorph statue from Starfield, taken by Samantha Says.
-metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/Life Leecher.webp
 tags: Starfield Screenshot
 gallery: starfield
 from: Starfield

@@ -3,9 +3,8 @@ layout: post
 title: Room with a View 2
 section: gallery
 permalink: /gallery/starfield/room with a view 2
-image: Room with a View 2.webp
+image: /assets/images/gallery/starfield/Room with a View 2.webp
 description: A screenshot of a New Atlantis apartment from Starfield, taken by Samantha Says.
-metaImage: https://samanthasays.github.io/assets/images/gallery/starfield/Room with a View 2.webp
 tags: Starfield Screenshot
 gallery: starfield
 from: Starfield
