@@ -22,5 +22,4 @@ social:
 
 feed:
   posts_limit: 20
-  excerpt_only: true
   tags: true
