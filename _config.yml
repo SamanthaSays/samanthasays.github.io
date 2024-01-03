@@ -24,10 +24,3 @@ feed:
   posts_limit: 20
   excerpt_only: true
   tags: true
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      excerpt: {{ page.description }}
