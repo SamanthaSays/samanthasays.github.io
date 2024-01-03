@@ -2,26 +2,18 @@
 <html lang="en">
     <head>
         <meta name="viewport" charset="utf-8" content="width=device-width, initial-scale=1.0">
-        <title>{{ page.title }} | Samantha Says</title>
-        <meta name="description" content="{{ page.description }}">
-        <meta property="og:title" content="{{ page.title }} | Samantha Says">
-        <meta property="og:type" content="website">
-        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-        <meta property="og:description" content="{{ page.description }}">
-        <meta property="og:image" content="{{ page.metaImage }}">
-        <meta name="site_name" content="Samantha Says">
-        <meta property="og:locale" content="en_GB">
+        {% feed_meta %}
+        <!--Workaround for jekyll-seo-tag using wrong content type-->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@SamanthaSaysTV">
+        <!--Not covered by jekyll-seo-tag-->
+        <meta property="og:image" content="{{ page.metaImage }}"> 
+        {% seo %}
         <meta name="ahrefs-site-verification" content="ce9c7d11b13f520898873f3bb97008ace0dc2ca686c51e2ae80f71cb027e03ca">
-        <link rel = "icon" href = "/assets/images/Apples icon.png" type = "image/x-icon">
+        <link rel="icon" href="/assets/images/Apples icon.png" type="image/x-icon">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/styles.css">
         <script src="/assets/js/theme.js"></script>
         <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6719583402470545"
-        crossorigin="anonymous"></script>
-        <meta name="google-site-verification" content="S0qEL3MgZEMkPuMCDk1veH1JPgWzBQiw259Min7CoOQ" />    
         <script async src="https://fundingchoicesmessages.google.com/i/pub-6719583402470545?ers=1" nonce="AS8FnZMyJU1yzUY133rsQw"></script><script nonce="AS8FnZMyJU1yzUY133rsQw">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
         <script>(function(){'use strict';function aa(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}var ba="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
             function ea(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var fa=ea(this);function ha(a,b){if(b)a:{var c=fa;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&ba(c,a,{configurable:!0,writable:!0,value:b})}}
