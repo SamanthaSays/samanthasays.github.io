@@ -8,7 +8,7 @@ image: /assets/images/characters/Simplicia Palenix.webp
 character: Simplicia Palenix
 characterLink: simplicia palenix
 theme: Scholar
-tags: Fashion Post ESO
+tag: ESO Fashion
 ---
 
 <div class="fashionContainer">

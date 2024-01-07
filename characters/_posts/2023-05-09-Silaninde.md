@@ -10,7 +10,7 @@ race: Altmer
 class: Templar
 type: Stamina
 theme: Soldier
-tags: Character Post ESO
+tag: ESO Character
 ---
 
 <table class="character">

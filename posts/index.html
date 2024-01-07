@@ -8,6 +8,33 @@ image: /assets/images/Apples icon.png
 
 <h1>Posts</h2>
 
-{% for post in site.categories.posts %}
-<a href="{{ post.url }}">{{ post.title }}</a>
+<div id="pageNavigation">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">{{ paginator.previous_page }}</a>
+    {% endif %}
+    <a id="active">{{ paginator.page }}</a>
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">{{ paginator.next_page }}</a>
+    {% endif %}
+</div>
+
+{% for post in paginator.posts %}
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1><h3>{{ post.tag }}</h3>
+    <p class="author">
+        {{ post.date | date_to_string}}
+    </p>
+    <div>
+        <p>{{ post.description }}</p>
+    </div>
+    <div class="postDivider"></div>
 {% endfor %}
+
+<div id="pageNavigation">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">{{ paginator.previous_page }}</a>
+    {% endif %}
+    <a id="active">{{ paginator.page }}</a>
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">{{ paginator.next_page }}</a>
+    {% endif %}
+</div>

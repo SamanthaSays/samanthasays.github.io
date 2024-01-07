@@ -8,7 +8,7 @@ image: /assets/images/characters/S'unrise.webp
 character: S'unrise
 characterLink: s'unrise
 theme: Vampire
-tags: Fashion Post ESO
+tag: ESO Fashion
 ---
 
 <div class="fashionContainer">

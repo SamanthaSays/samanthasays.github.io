@@ -10,7 +10,7 @@ race: Imperial
 class: Arcanist
 type: Magicka
 theme: Apocrypha
-tags: Character Post ESO
+tag: ESO Character
 ---
 
 <table class="character">

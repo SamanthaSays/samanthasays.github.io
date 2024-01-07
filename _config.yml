@@ -24,5 +24,7 @@ social:
 feed:
   posts_limit: 20
   excerpt_only: true
-  tags: true
   disable_in_development: true
+
+paginate: 10
+paginate_path: "/posts/:num/"

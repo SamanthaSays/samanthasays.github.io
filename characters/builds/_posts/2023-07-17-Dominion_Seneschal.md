@@ -10,7 +10,7 @@ characterLink: silaninde
 class: Templar
 type: Stamina
 theme: Soldier
-tags: Build Post ESO
+tag: ESO Build
 ---
 
 <p>This soldier themed build focuses on using physical combat and archery to roleplay as a proper soldier. Fire off arrows from range, before moving forward with your shield raised to attack your enemies with powerful spear thrusts. For the Queen!</p>

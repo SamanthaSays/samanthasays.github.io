@@ -1,5 +1,7 @@
 - name: home
   link: /
+- name: posts
+  link: /posts
 - name: mods
   link: /mods
 - name: characters

@@ -11,7 +11,7 @@ class: Nightblade
 type: Magicka
 theme: Vampire
 priority: 2
-tags: Build Post ESO
+tag: ESO Build
 ---
 
 <p>This Vampire themed build focuses on sucking the life from your enemies across the battlefield, and works for Cyrodiil, Imperial City, and Battlegrounds.</p>

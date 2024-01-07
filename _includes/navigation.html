@@ -2,8 +2,6 @@
     {% for item in site.data.navigation %}
     {% if item.name == page.section %}
     <a class="active" style="text-transform: capitalize" href="{{ item.link }}">{{ item.name }}</a>
-    {% elsif item.name == "merch" %}
-    <a target="_blank" style="text-transform: capitalize" href="{{ item.link }}">{{ item.name }}</a>
     {% else %}
     <a style="text-transform: capitalize" href="{{ item.link }}">{{ item.name }}</a>
     {% endif %}
