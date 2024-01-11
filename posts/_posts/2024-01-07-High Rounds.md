@@ -22,6 +22,7 @@ Later on, when I began streaming to Twitch, I was a much better player, able to 
         <th>Map</th>
         <th>Game</th>
         <th>Highest Round</th>
+        <th>Date</th>
         <th>Notes</th>
     </tr>
     </thead>
@@ -29,48 +30,56 @@ Later on, when I began streaming to Twitch, I was a much better player, able to 
         <td>Nacht der Untoten</td>
         <td>World at War</td>
         <td>256</td>
+        <td>6 September, 2015</td>
         <td>This was the 10th highest in the world at the time!</td>
     </tr>
     <tr>
         <td>Ascension</td>
         <td>Black Ops</td>
         <td>100</td>
+        <td>2011</td>
         <td></td>
     </tr>
     <tr>
         <td>Die Rise</td>
         <td>Black Ops II</td>
         <td>90</td>
+        <td>2013</td>
         <td></td>
     </tr>
     <tr>
         <td>Shadows of Evil</td>
         <td>Black Ops III</td>
         <td>101</td>
+        <td>24 June, 2016</td>
         <td></td>
     </tr>
     <tr>
         <td>Nacht der Untoten</td>
         <td>Black Ops III</td>
         <td>58</td>
+        <td>2017</td>
         <td>Classic Gobblegums only</td>
     </tr>
     <tr>
         <td>Die Maschine</td>
         <td>Black Ops Cold War</td>
         <td>93</td>
+        <td>November, 2020</td>
         <td>M79 only</td>
     </tr>
     <tr>
         <td>Firebase Z</td>
         <td>Black Ops Cold War</td>
         <td>101</td>
+        <td>February, 2021</td>
         <td>Exfil, LC10 only</td>
     </tr>
     <tr>
         <td>Mauer der Toten</td>
         <td>Black Ops Cold War</td>
         <td>131</td>
+        <td>July, 2021</td>
         <td></td>
     </tr>
 </table>
