@@ -39,6 +39,11 @@
   category: UI
   author: Giselbaer
   description: Enlarges the advancements info UI, as well as showing which requirements you have and have not met.
+- name: Ambient Environment
+  link: https://www.curseforge.com/minecraft/mc-mods/ambient-environment
+  category: Cosmetic
+  author: Jaredlll08
+  description: Adds ambient colour noise to the biome colours of the game, helping the world seem more varied and alive.
 - name: AppleSkin
   link: https://www.curseforge.com/minecraft/mc-mods/appleskin
   category: UI
@@ -119,6 +124,11 @@
   category: Gameplay
   author: YaLTeR
   description: Replaces and adds new dragging mechanics to the inventory.
+- name: Partical Rain
+  link: https://www.curseforge.com/minecraft/mc-mods/particle-rain
+  category: Cosmetic
+  author: PigCart
+  description: Replaces the default rain with some particle effects, and adds sandstorms to deserts and mesas.
 - name: Replay Mod
   link: https://www.replaymod.com/
   category: Miscellaneous
