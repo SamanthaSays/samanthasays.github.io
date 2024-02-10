@@ -27,7 +27,7 @@ image: /assets/images/Apples icon.png
             </tr>{% if post.categories contains "samantha says" %}<tr>
                 <td style="font-weight: normal"><a target="_blank" href="{{ post.link }}">{{ post.from }}</a></td>
             </tr>{% else %}<tr>
-                <td style="font-weight: normal"><a  href="/gallery/{{ post.tag }}">{{ post.from }}</a></td>
+                <td style="font-weight: normal"><a  href="/gallery/{{ post.gallery }}">{{ post.from }}</a></td>
             </tr>{% endif %}
         </table>
     {% endfor %}
