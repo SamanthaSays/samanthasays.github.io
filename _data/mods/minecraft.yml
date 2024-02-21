@@ -139,11 +139,6 @@
   category: Performance
   author: jellysquid3_
   description: Improves framerates and reduces micro-stutters.
-- name: Starlight
-  link: https://www.curseforge.com/minecraft/mc-mods/starlight
-  category: Performance
-  author: Spottedstar
-  description: Rewrites the lighting engine to improve performance and fix errors.
 - name: Tweakeroo
   link: https://www.curseforge.com/minecraft/mc-mods/tweakeroo
   category: Gameplay
