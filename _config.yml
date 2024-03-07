@@ -13,11 +13,10 @@ locale: en_GB
 twitter:
   username: SamanthaSaysTV
   card: summary_large_image
-google_site_verification: S0qEL3MgZEMkPuMCDk1veH1JPgWzBQiw259Min7CoOQ
 social:
   name: Samantha Says
   links:
-    - https://samanthasays.github.io
+    - https://samanthasays.net
     - https://twitch.tv/SamanthaSays
     - https://twitter.com/SamanthaSaysTV
 
