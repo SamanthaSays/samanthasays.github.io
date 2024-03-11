@@ -192,8 +192,8 @@ tag: ESO Build
             Weapons
         </div>
         <div class="buildWeapon1">
-            <p><img src="/assets/images/icons/eso/weapons/dunmer staff.webp" alt="The Master's Perfected Inferno Staff"><br>
-            <span style="font-weight: bold">The Master's Perfected Inferno Staff</span><br>
+            <p><img src="/assets/images/icons/eso/weapons/dunmer staff.webp" alt="The Master's Perfected Lightning Staff"><br>
+            <span style="font-weight: bold">The Master's Perfected Lightning Staff</span><br>
             Sharpened<br>
             Shock Damage</p>
         </div>
@@ -267,7 +267,7 @@ tag: ESO Build
     </div>
 </div>
 
-<p style="clear: both">When a fight could be imminent, keep Merciless Resolve, Dark Cloak and Siphoning Attacks up, as well as placing your Shadow Image in a sneaky spot in case you need to escape. When a fight begins, use Reaper's Mark on your target and use Flame Clench every 4 attacks to increase your Spell Damage by 600, and fire Assassin's Will whenever it's ready. Otherwise, spam Swallow Soul.</p>
+<p style="clear: both">When a fight could be imminent, keep Dark Cloak up, as well as placing your Shadow Image in a sneaky spot in case you need to escape. When a fight begins, use Reaper's Mark on your target and use Flame Clench every 4 attacks to increase your Spell Damage by 600, and fire Assassin's Will whenever it's ready. Otherwise, spam Swallow Soul.</p>
 <p>During the fight, remember to keep your enemies on their toes by teleporting from max range with Shadow Image and using Elusive Mist.</p>
 <p>If you need a moment to recover in the middle of a fight, teleport to your Shadow Image, use Elusive Mist to gain Major Expedition, and use Healthy Offering followed by Rapid Regeneration to regain some health.</p>
 
@@ -275,4 +275,4 @@ tag: ESO Build
 <p><a target="_blank" href="https://en.uesp.net/wiki/Online:Balorgh_(set)">Balorgh</a> is un Undaunted set dropped from March of Sacriices and Urgarlag Chief-bane. With how quickly we gain our two ultimates, whether we're on offence or defence, Balorgh will give a damage increase fairly consistently.<br>
 <a target="_blank" href="https://en.uesp.net/wiki/Online:Clever_Alchemist">Clever Alchemist</a> can be crafted at No Shira Workshop on the south east of Hew's Bane. Just make sure to swap to your back bar before using a potion to gain a sizable damage increase.<br>
 <a target="_blank" href="https://en.uesp.net/wiki/Online:Robes_of_Transmutation">Robes of Transmutation</a> is a PvP set, bought with Alliance Points from Elite Gear Vendors, or earned through Rewards of the Worthy. Since our spammable skill heals us, this set's Critical Resistance bonus will always be active.<br>
-<a target="_blank" href="https://en.uesp.net/wiki/Online:Perfected_Destructive_Impact">The Master's Perfected Inferno Staff</a> is dropped in Dragonstar Arena. It provides a convenient damage boost along with our close-range stun.</p>
+<a target="_blank" href="https://en.uesp.net/wiki/Online:Perfected_Destructive_Impact">The Master's Perfected Lightning Staff</a> is dropped in Dragonstar Arena. It provides a convenient damage boost along with our close-range stun.</p>
