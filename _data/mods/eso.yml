@@ -133,11 +133,6 @@
   category: Auction House & Vendors
   author: Solinur
   description: Collects and displays price data for the ESO-Hub.com Trading Hub.
-- name: ESO Treasure Box
-  link: https://www.esoui.com/downloads/info3178-ESOTreasureBox.html
-  category: Bags, Bank, Inventory
-  author: Phinix
-  description: Adds a window to track, sort, and browse through all the treasures in Tamriel.
 - name: Favorite Dungeon Rotation
   link: https://www.esoui.com/downloads/info2643-FavoriteDungeonRotation.html
   category: Group, Guild & Friends
