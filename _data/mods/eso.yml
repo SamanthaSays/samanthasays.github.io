@@ -267,7 +267,7 @@
   link: https://www.esoui.com/downloads/info3418-SyncedAccountSettingsMasteroshi430sbranch.html
   category: Utility Mods
   author: Masteroshi430
-  description: Syncs account settings across all characters.
+  description: Syncs account settings and keybinds across all characters.
 - name: uespLog
   link: https://www.esoui.com/downloads/info1257-uespLog.html
   category: Utility Mods
@@ -308,11 +308,6 @@
   category: Map, Coords, Compasses
   author: votan
   description: Improves the Quests tab of the world map window.
-- name: Votan's Keybinder
-  link: https://www.esoui.com/downloads/info1174-VotansKeybinder.html
-  category: Miscellaneous
-  author: votan
-  description: Sync keybinds across characters.
 - name: Votan's Lore Library Search
   link: https://www.esoui.com/downloads/info1248-VotansLoreLibrarySearch.html
   category: Miscellaneous
