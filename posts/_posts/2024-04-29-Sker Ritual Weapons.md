@@ -4,7 +4,7 @@ title: Sker Ritual Weapons
 section: posts
 permalink: /posts/sker ritual weapons
 description: The weapon statistics from Sker Ritual, a Call of Duty Zombies-like game by Wales Interactive.
-image: /assets/images/Sker Ritual-banner.webp
+image: /assets/images/games/Sker Ritual-banner.webp
 tag: Sker Ritual
 updated:
 ---
