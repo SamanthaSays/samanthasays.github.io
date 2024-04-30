@@ -264,6 +264,14 @@ body {
     color: white;
 }
 
+.changelog {
+    background-color: var(--aside);
+    max-width: fit-content;
+    padding: 0.25rem;
+    border: 1px solid var(--navigation);
+    cursor: pointer;
+}
+
 .order {
     cursor: pointer;
 }
