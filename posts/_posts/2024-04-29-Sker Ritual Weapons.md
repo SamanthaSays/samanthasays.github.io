@@ -6,16 +6,24 @@ permalink: /posts/sker ritual weapons
 description: The weapon statistics from Sker Ritual, a Call of Duty Zombies-like game by Wales Interactive.
 image: /assets/images/games/Sker Ritual-banner.webp
 tag: Sker Ritual
-updated:
+updated: 2024-04-30
 ---
+
+<p class="changelog" onclick="changelog()">Changelog</p>
+
+<dl id="changelog" style="display: none">
+    <dt>30 Apr 2024</dt>
+        <dd>- Added Shattering Edge.</dd>
+        <dd>- Added Howler.</dd>
+        <dd>- Corrected Joseph Heavy Automatic T4 values.</dd>
+        <dd>- Corrected Baseball Bat and Pioneer's Axe T1 base damage.</dd>
+</dl>
 
 This is a rough tier list of the total possible damage that the weapons of Sker Ritual can deal without acquiring more ammo. Keep in mind that these calculations are against a single target at close range, so weapons with splash damage (like the God Killer) or penetration (like the Thunderbolt) can potentially deal more damage than what is displayed here.
 
 Shotguns, like the RS10 and The Plague, fire 6 pellets. For the purposes of this table, it will be assumed that all 6 pellets hit.
 
 Melee weapons are intentionally kept at the bottom of the table when sorting by total damage, since their total potential damage is infinite.
-
-This list is currently a work in progress.
 
 <div class="tableContainer">
     <table class="skerWeapons">
@@ -48,4 +56,5 @@ This list is currently a work in progress.
     </table>
 </div>
 
+<script src="/assets/js/changelog.js"></script>
 <script src="/assets/js/skerWeapons.js"></script>

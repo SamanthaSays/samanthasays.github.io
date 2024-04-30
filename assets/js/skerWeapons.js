@@ -43,6 +43,14 @@ const response = {
             "totalHeadshot": 109044,
         },
         {
+            "weapon": "Howler",
+            "ammo": 40,
+            "damageBase": 667,
+            "damageHeadshot": 2543,
+            "totalBase": 26680,
+            "totalHeadshot": 101720,
+        },
+        {
             "weapon": "Hunting Rifle",
             "ammo": 100,
             "damageBase": 250,
@@ -130,6 +138,14 @@ const response = {
             "totalBase": "0 (&infin;)",
             "totalHeadshot": "0 (&infin;)",
         },
+        {
+            "weapon": "Shattering Edge",
+            "ammo": 0,
+            "damageBase": 330,
+            "damageHeadshot": 1258,
+            "totalBase": "0 (&infin;)",
+            "totalHeadshot": "0 (&infin;)",
+        },
     ],
     "skerWeaponsT1": [
         {
@@ -171,6 +187,14 @@ const response = {
             "damageHeadshot": 8388,
             "totalBase": 70400,
             "totalHeadshot": 268416,
+        },
+        {
+            "weapon": "Howler",
+            "ammo": 50,
+            "damageBase": 1334,
+            "damageHeadshot": 5086,
+            "totalBase": 66700,
+            "totalHeadshot": 254300,
         },
         {
             "weapon": "Hunting Rifle",
@@ -247,7 +271,7 @@ const response = {
         {
             "weapon": "Baseball Bat",
             "ammo": 0,
-            "damageBase": 600,
+            "damageBase": 660,
             "damageHeadshot": 2516,
             "totalBase": "0 (&infin;)",
             "totalHeadshot": "0 (&infin;)",
@@ -255,7 +279,15 @@ const response = {
         {
             "weapon": "Pioneer's Axe",
             "ammo": 0,
-            "damageBase": 600,
+            "damageBase": 660,
+            "damageHeadshot": 2516,
+            "totalBase": "0 (&infin;)",
+            "totalHeadshot": "0 (&infin;)",
+        },
+        {
+            "weapon": "Shattering Edge",
+            "ammo": 0,
+            "damageBase": 660,
             "damageHeadshot": 2516,
             "totalBase": "0 (&infin;)",
             "totalHeadshot": "0 (&infin;)",
@@ -301,6 +333,14 @@ const response = {
             "damageHeadshot": 16775,
             "totalBase": 171600,
             "totalHeadshot": 654225,
+        },
+        {
+            "weapon": "Howler",
+            "ammo": 60,
+            "damageBase": 2668,
+            "damageHeadshot": 10172,
+            "totalBase": 160080,
+            "totalHeadshot": 610320,
         },
         {
             "weapon": "Hunting Rifle",
@@ -390,6 +430,14 @@ const response = {
             "totalBase": "0 (&infin;)",
             "totalHeadshot": "0 (&infin;)",
         },
+        {
+            "weapon": "Shattering Edge",
+            "ammo": 0,
+            "damageBase": 1320,
+            "damageHeadshot": 5032,
+            "totalBase": "0 (&infin;)",
+            "totalHeadshot": "0 (&infin;)",
+        },
     ],
     "skerWeaponsT3": [
         {
@@ -431,6 +479,14 @@ const response = {
             "damageHeadshot": 33550,
             "totalBase": 404800,
             "totalHeadshot": 1543300,
+        },
+        {
+            "weapon": "Howler",
+            "ammo": 70,
+            "damageBase": 5336,
+            "damageHeadshot": 20344,
+            "totalBase": 373520,
+            "totalHeadshot": 1424080,
         },
         {
             "weapon": "Hunting Rifle",
@@ -520,6 +576,14 @@ const response = {
             "totalBase": "0 (&infin;)",
             "totalHeadshot": "0 (&infin;)",
         },
+        {
+            "weapon": "Shattering Edge",
+            "ammo": 0,
+            "damageBase": 2640,
+            "damageHeadshot": 10065,
+            "totalBase": "0 (&infin;)",
+            "totalHeadshot": "0 (&infin;)",
+        },
     ],
     "skerWeaponsT4": [
         {
@@ -563,6 +627,14 @@ const response = {
             "totalHeadshot": 3489200,
         },
         {
+            "weapon": "Howler",
+            "ammo": 80,
+            "damageBase": 10672,
+            "damageHeadshot": 40687,
+            "totalBase": 853760,
+            "totalHeadshot": 3254960,
+        },
+        {
             "weapon": "Hunting Rifle",
             "ammo": 200,
             "damageBase": 4000,
@@ -571,20 +643,20 @@ const response = {
             "totalHeadshot": 3050000,
         },
         {
+            "weapon": "Joseph Heavy Automatic",
+            "ammo": 582,
+            "damageBase": 1200,
+            "damageHeadshot": 4575,
+            "totalBase": 698400,
+            "totalHeadshot": 2662650,
+        },
+        {
             "weapon": "MP18A",
             "ammo": 800,
             "damageBase": 768,
             "damageHeadshot": 2928,
             "totalBase": 614400,
             "totalHeadshot": 2342400,
-        },
-        {
-            "weapon": "Joseph Heavy Automatic",
-            "ammo": 582,
-            "damageBase": 1200,
-            "damageHeadshot": 4575,
-            "totalBase": 610800,
-            "totalHeadshot": 2328675,
         },
         {
             "weapon": "Crossbow",
@@ -650,6 +722,14 @@ const response = {
             "totalBase": "0 (&infin;)",
             "totalHeadshot": "0 (&infin;)",
         },
+        {
+            "weapon": "Shattering Edge",
+            "ammo": 0,
+            "damageBase": 5280,
+            "damageHeadshot": 20130,
+            "totalBase": "0 (&infin;)",
+            "totalHeadshot": "0 (&infin;)",
+        },
     ],
     "skerWeaponsT5": [
         {
@@ -691,6 +771,14 @@ const response = {
             "damageHeadshot": 134200,
             "totalBase": 2041600,
             "totalHeadshot": 7783600,
+        },
+        {
+            "weapon": "Howler",
+            "ammo": 90,
+            "damageBase": 21344,
+            "damageHeadshot": 81374,
+            "totalBase": 1920960,
+            "totalHeadshot": 7323660,
         },
         {
             "weapon": "Hunting Rifle",
@@ -767,16 +855,24 @@ const response = {
         {
             "weapon": "Baseball Bat",
             "ammo": 0,
-            "damageBase": "10560",
-            "damageHeadshot": "40,260",
+            "damageBase": 10560,
+            "damageHeadshot": 40260,
             "totalBase": "0 (&infin;)",
             "totalHeadshot": "0 (&infin;)",
         },
         {
             "weapon": "Pioneer's Axe",
             "ammo": 0,
-            "damageBase": "10560",
-            "damageHeadshot": "40,260",
+            "damageBase": 10560,
+            "damageHeadshot": 40260,
+            "totalBase": "0 (&infin;)",
+            "totalHeadshot": "0 (&infin;)",
+        },
+        {
+            "weapon": "Shattering Edge",
+            "ammo": 0,
+            "damageBase": 10560,
+            "damageHeadshot": 40260,
             "totalBase": "0 (&infin;)",
             "totalHeadshot": "0 (&infin;)",
         },
