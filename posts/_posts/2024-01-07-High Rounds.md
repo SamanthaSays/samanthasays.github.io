@@ -6,6 +6,7 @@ permalink: /posts/high rounds
 description: The high rounds leaderboard of Samantha Says, across all Treyarch Call of Duty titles.
 image: /assets/images/Apples icon.png
 tag: COD Zombies
+updated: 30 Apr 2024
 ---
 
 Here's the table with my highest rounds across the games. Only confirmed high rounds are listed, so unfortunately many of my early scores are lost to time.
@@ -81,5 +82,26 @@ Later on, when I began streaming to Twitch, I was a much better player, able to 
         <td>131</td>
         <td>July, 2021</td>
         <td></td>
+    </tr>
+</table>
+
+<h3>Sker Ritual</h3>
+
+<table class="modlist">
+    <thead>
+    <tr>
+        <th>Map</th>
+        <th>Game</th>
+        <th>Highest Round</th>
+        <th>Date</th>
+        <th>Notes</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Cursed Lands of Lavernock</td>
+        <td>Sker Ritual</td>
+        <td>201</td>
+        <td>30 April, 2024</td>
+        <td>Normal difficulty, flawless.<br>It didn't feel as engaging as CoD high rounds, so I stopped. Hopefully a higher difficulty will be more fun!</td>
     </tr>
 </table>
