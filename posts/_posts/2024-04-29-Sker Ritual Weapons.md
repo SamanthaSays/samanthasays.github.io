@@ -56,5 +56,4 @@ Melee weapons are intentionally kept at the bottom of the table when sorting by 
     </table>
 </div>
 
-<script src="/assets/js/changelog.js"></script>
 <script src="/assets/js/skerWeapons.js"></script>
