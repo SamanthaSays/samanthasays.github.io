@@ -9,13 +9,12 @@ image: /assets/images/Apples icon.png
 <h1>Mods</h1>
 
 <div class="tablesContainer">
-{% assign sortedPosts = site.categories.mods | sort: 'title' %}
-{% for post in sortedPosts %}
+{% for mod in site.mods %}
     <table id="tableGallery">
         <tr>
-            <th><a href="{{ post.permalink }}"><img src="{{ post.image }}" alt="{{ post.game }}"></a></th>
+            <th><a href="{{ mod.url }}"><img src="{{ mod.image }}" alt="{{ mod.game }}"></a></th>
         </tr><tr>
-            <td><a href="{{ post.permalink }}">{{ post.game }}</a></td>
+            <td><a href="{{ mod.url }}">{{ mod.game }}</a></td>
         </tr>
     </table>
 {% endfor %}

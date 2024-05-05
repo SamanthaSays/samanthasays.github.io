@@ -15,10 +15,10 @@ twitter:
   card: summary_large_image
 social:
   name: Samantha Says
-  links:
-    - https://samanthasays.net
-    - https://twitch.tv/SamanthaSays
-    - https://twitter.com/SamanthaSaysTV
+links:
+  - https://samanthasays.net
+  - https://twitch.tv/SamanthaSays
+  - https://twitter.com/SamanthaSaysTV
 
 feed:
   posts_limit: 20
@@ -27,3 +27,11 @@ feed:
 
 paginate: 10
 paginate_path: "/posts/:num/"
+
+collections:
+  mods:
+    output: true
+    permalink: mods/:path
+  characters:
+    output: true
+    permalink: characters/:path
