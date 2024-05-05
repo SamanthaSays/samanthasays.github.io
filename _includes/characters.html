@@ -1,10 +1,5 @@
 <h3>Characters</h3>
 <ul id="sidebarList">
-<li><a href="/characters/lore">Lore</a></li>
-<li><a href="/characters/builds">Builds</a></li>
-<li><a href="/characters/fashion">Fashion</a></li>
-</ul>
-<ul id="sidebarList">
 {% for item in site.data.characters %}
 <li><a href="/characters/{{ item.link }}">{{ item.name }}</a></li>
 {% endfor %}
