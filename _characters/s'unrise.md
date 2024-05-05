@@ -10,7 +10,7 @@ class: Nightblade
 type: Magicka
 theme: Vampire
 tag: ESO Character
-updated: 2023-04-28
+updated: 2023-05-05
 ---
 
 <table class="character">
@@ -42,6 +42,12 @@ updated: 2023-04-28
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>05 May 2024</dt>
+        <dd>- Changed Boundless Vitality to Celerity for Scion.</dd>
+        <dd>- Changed Inferno Staff to Axes for Scion.</dd>
+        <dd>- Changed Druidstone Mine to Meteor Mining for Shadow of Night.</dd>
+        <dd>- Changed Inferno Staff to Axes for Shadow of Night.</dd>
+        <dd>- Changed Karth River Cleave to Armiger Axing for Shadow of Night.</dd>
     <dt>11 Mar 2024</dt>
         <dd>- Changed Scion rotation guide for Update 41.</dd>
     <dt>4 Oct 2023</dt>
@@ -161,7 +167,7 @@ In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampir
                 </div>
                 <div class="buildFitness">
                     <p><img src="/assets/images/icons/eso/cp.webp" alt="Champion Points"><br>
-                    <span style="font-weight: bold">Boundless Vitality</span></p>
+                    <span style="font-weight: bold">Celerity</span></p>
                 </div>
             </div>
         </div>
@@ -254,9 +260,9 @@ In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampir
             Weapons
         </div>
         <div class="buildWeapon1">
-            <p><img src="/assets/images/icons/eso/weapons/bosmer staff.webp" alt="Gourmand's Lightning Staff"><br>
-            <span style="font-weight: bold">Gourmand's Lightning Staff</span><br>
-            Precise<br>
+            <p><img src="/assets/images/icons/eso/weapons/firesong axe.webp" alt="Gourmand's Axe"><br>
+            <span style="font-weight: bold">Gourmand's Axe</span><br>
+            Nirnhoned<br>
             Prismatic Onslaught</p>
         </div>
         <div class="buildWeapon2">
@@ -264,6 +270,12 @@ In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampir
             <span style="font-weight: bold">The Maelstrom's Perfected Inferno Staff</span><br>
             Infused<br>
             Weapon Damage</p>
+        </div>
+        <div class="buildWeapon1">
+            <p><img src="/assets/images/icons/eso/weapons/firesong axe.webp" alt="Gourmand's Axe"><br>
+            <span style="font-weight: bold">Gourmand's Axe</span><br>
+            Precise<br>
+            Poison Damage</p>
         </div>
         <div class="buildSubtitle">
             Skills
@@ -711,8 +723,24 @@ In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampir
             Night<span class="narrow"></span>shade Purple</p>
         </div>
         <div class="fashionStyle">
-            <p><img src="/assets/images/icons/eso/weapons/nerien'eth staff.webp" alt="Nerien'eth Staff"><br>
-            Nerien'eth Staff</p>
+            <p><img src="/assets/images/icons/eso/weapons/lady thorn sword.webp" alt="Lady Thorn Sword"><br>
+            Lady Thorn Sword</p>
+        </div>
+        <div class="fashionDye">
+            <p><img style="background-color: #533d1c" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+            Ayleid Gold</p>
+        </div>
+        <div class="fashionDye">
+            <p><img style="background-color: #231f1d" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+            Cold<span class="narrow"></span>harbour Ash Black</p>
+        </div>
+        <div class="fashionDye">
+            <p><img style="background-color: #441544" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+            Night<span class="narrow"></span>shade Purple</p>
+        </div>
+        <div class="fashionStyle">
+            <p><img src="/assets/images/icons/eso/weapons/nerien'eth dagger.webp" alt="Nerien'eth Dagger"><br>
+            Nerien'eth Dagger</p>
         </div>
         <div class="fashionDye">
             <p><img style="background-color: #533d1c" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
@@ -787,8 +815,8 @@ In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampir
             Non-Combat Pet</p>
         </div>
         <div class="fashionCollectible" style="width: 33%; clear: both">
-            <p><img src="/assets/images/icons/eso/collectibles/druidstone mine.webp" alt="Druidstone Mine"><br>
-            <span style="font-weight: bold">Druidstone Mine</span><br>
+            <p><img src="/assets/images/icons/eso/collectibles/meteor mining.webp" alt="Meteor Mining"><br>
+            <span style="font-weight: bold">Meteor Mining</span><br>
             Mining</p>
         </div>
         <div class="fashionCollectible" style="width: 33%">
@@ -807,8 +835,8 @@ In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampir
             Rune Collecting</p>
         </div>
         <div class="fashionCollectible" style="width: 50%">
-            <p><img src="/assets/images/icons/eso/collectibles/karth river cleave.webp" alt="Karth River Cleave"><br>
-            <span style="font-weight: bold">Karth River Cleave</span><br>
+            <p><img src="/assets/images/icons/eso/collectibles/armiger axing.webp" alt="Armiger Axing"><br>
+            <span style="font-weight: bold">Armiger Axing</span><br>
             Wood Cutting</p>
         </div>
     </div>
