@@ -4,6 +4,7 @@ title: Discord
 section: discord
 description: The Discord server of Samantha Says.
 image: /assets/images/Apples icon.png
+permalink: /discord
 ---
 
 <meta http-equiv="refresh" content="0; URL=https://discord.gg/0gcBYQ0ac8Vq4le6">
