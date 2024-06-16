@@ -4,7 +4,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-url: https://samanthasays.github.io
+url: https://samanthasays.net
 title: Samantha Says
 tagline: The personal website of Samantha Says
 description: The personal website of Samantha Says, featuring her writings, characters, mod lists, screenshots, artwork, and more.
@@ -21,7 +21,7 @@ links:
   - https://twitter.com/SamanthaSaysTV
 
 feed:
-  posts_limit: 20
+  posts_limit: 10
   excerpt_only: true
   disable_in_development: true
 
