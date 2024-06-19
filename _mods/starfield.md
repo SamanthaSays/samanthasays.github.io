@@ -62,6 +62,8 @@ All mods are installed and managed through <a target="_blank" href="https://www.
 
 Remember to not just blindly copy somebody else's mod list. Make sure each mod is one that you really want! Because of this, my installed dependencies are not listed.
 
+I also have all of the Creations released by Bethesda Game Studios. These are: Ancient Mariner Module, Blackout Drumbeat Skin, Constellation Plushie Set, Observatory, Starborn Gravis Suit, and Trackers Alliance: The Vulture.
+
 You can purchase Starfield at <a target="_blank" href="https://greenmangaming.sjv.io/samanthasays-starfield">Green Man Gaming</a> through my affiliate link.
 
 <table class="modlist">
