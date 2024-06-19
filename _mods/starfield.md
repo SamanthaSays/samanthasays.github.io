@@ -6,7 +6,7 @@ image: /assets/images/games/SF-cover.webp
 game: Starfield
 description: The Starfield mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 2023-12-28
+updated: 2024-06-19
 ---
 
 <h1>{{ page.title }}</h1>
