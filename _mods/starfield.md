@@ -15,6 +15,28 @@ updated: 2023-12-28
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>19 Jun 2024</dt>
+        <dd>- Added Auto Door Closer.</dd>
+        <dd>- Added British English.</dd>
+        <dd>- Added Corpse Collision.</dd>
+        <dd>- Added Craftable Weapon Skins.</dd>
+        <dd>- Added Creation Loot.</dd>
+        <dd>- Added Doctor Crew.</dd>
+        <dd>- Added Dynamic Inventory Models.</dd>
+        <dd>- Added Full Auto Burst Semi.</dd>
+        <dd>- Added Laser Sight Dot Enabled.</dd>
+        <dd>- Added Longer Names v2.</dd>
+        <dd>- Added Med Pack Weight Fix.</dd>
+        <dd>- Added Mildly Massive.</dd>
+        <dd>- Added Quick Lowered Weapons - First Person.</dd>
+        <dd>- Added Roleplay Walk.</dd>
+        <dd>- Added Show Me Those Chunks.</dd>
+        <dd>- Added Show Power Name on HUD.</dd>
+        <dd>- Added Smooth Interface.</dd>
+        <dd>- Added Starfield Community Patch.</dd>
+        <dd>- Added Vend Unto Floor.</dd>
+        <dd>- Removed Smooth Ship Reticle.</dd>
+        <dd>- Removed StarUI HUD due to lack of updates.</dd>
     <dt>21 Nov 2023</dt>
         <dd>- Added No Legendary Pickup Notification.</dd>
         <dd>- Added StarUI Outpost.</dd>

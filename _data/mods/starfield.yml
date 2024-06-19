@@ -8,6 +8,11 @@
   category: Visuals
   author: DarthParametric
   description: Tones down the chemically bleached look of clean teeth, slightly darkens dirty teeth, removes the bright edges of blackened teeth.
+- name: Auto Door Closer
+  link: https://www.nexusmods.com/starfield/mods/8242
+  category: Gameplay
+  author: CrEaToXx
+  description: Automatically closes doors that actors have previously opened.
 - name: Baka Achievement Enabler
   link: https://www.nexusmods.com/starfield/mods/658
   category: Miscellaneous
@@ -18,6 +23,11 @@
   category: User Interface
   author: KahoMaat
   description: Less distracting, more immersive, and simply a better HUD.
+- name: British English
+  link: https://www.nexusmods.com/starfield/mods/2011
+  category: User Interface
+  author: Samantha Says
+  description: Changes many American English words into British English.
 - name: Compact Crew Menu UI
   link: https://www.nexusmods.com/starfield/mods/3014
   category: User Interface
@@ -28,21 +38,71 @@
   category: User Interface
   author: Stentorious
   description: Modifies the mission menu for more items can be seen at once.
+- name: Corpse Collision
+  link: https://www.nexusmods.com/starfield/mods/9939
+  category: Gameplay
+  author: Samantha Says
+  description: Enables collision between the player and dead bodies and robots.
+- name: Craftable Weapon Skins
+  link: https://www.nexusmods.com/starfield/mods/5726
+  category: Weapons
+  author: frogs345
+  description: Enables the ability to craft all weapon skins, including normally unobtainable ones, and fixes a number of issues with skins.
+- name: Creation Loot
+  link: https://www.nexusmods.com/starfield/mods/9940
+  category: Gameplay
+  author: Samantha Says
+  description: Distributes the new BGS Creation items through the game's leveled lists.
 - name: Dicord Rich Presence
   link: https://www.nexusmods.com/starfield/mods/2545
   category: Miscellaneous
   author: TimmInfinite
   description: Integrates Discord Rich Presence into Starfield.
+- name: Doctor Crew
+  link: https://www.nexusmods.com/starfield/mods/9941
+  category: Gameplay
+  author: Samantha Says
+  description: Recruitable doctors will offer their services to you.
+- name: Dynamic Inventory Models
+  link: https://www.nexusmods.com/starfield/mods/8875
+  category: Gameplay
+  author: LarannKiar
+  description: Dynamically changes the inventory menu actor model to the target NPC when you trade with them.
 - name: Enemy Friendly Fire
   link: https://www.nexusmods.com/starfield/mods/614
   category: Gameplay
   author: powerofthree
   description: SFSE plugin that enables friendly fire for all NPCs.
+- name: Full Auto Burst Semi
+  link: https://www.nexusmods.com/starfield/mods/9942
+  category: Weapons
+  author: Samantha Says
+  description: Rebalances the damage modifications of Receiver mods.
 - name: High-Vis Scope Crosshair Replacement
   link: https://www.nexusmods.com/starfield/mods/327
   category: User Interface
   author: GliOcchi
   description: Scope reticles/crosshairs are now dual colours with red accents for higher visibility.<br>I use the HVCrosshair Replacement version.
+- name: Laser Sight Dot Enabled
+  link: https://www.nexusmods.com/starfield/mods/9643
+  category: Visuals
+  author: nack9
+  description: Enables dot visuals for laser sights.
+- name: Longer Names v2
+  link: https://www.nexusmods.com/starfield/mods/5046
+  category: Miscellaneous
+  author: igromanru
+  description: Increases the maximum name length allowed for Outposts, Ships, and Items.
+- name: Med Pack Weight Fix
+  link: https://www.nexusmods.com/starfield/mods/9696
+  category: Gameplay
+  author: Samantha Says
+  description: Fixes Med Packs having no weight. Med Packs weigh 0.1 as intended.
+- name: Mildly Massive
+  link: https://www.nexusmods.com/starfield/mods/1997
+  category: Gameplay
+  author: Samantha Says
+  description: Adds a bit of weight to previously weightless items.
 - name: More Subtle Scanner Sounds
   link: https://www.nexusmods.com/starfield/mods/885
   category: Audio
@@ -53,26 +113,41 @@
   category: User Interface
   author: m8r98a4f2
   description: Removes the additional rare/epic/legendary item card notification, which pops up when you pick up a rare/epic/legendary item.
-- name: Smooth Ship Reticle
-  link: https://www.nexusmods.com/starfield/mods/270
+- name: Quick Lowered Weapons - First Person
+  link: https://www.nexusmods.com/starfield/mods/6338
+  category: Gameplay
+  author: LarannKiar
+  description: Puts your equipped weapon into "lowered" state when not in combat.
+- name: Roleplay Walk
+  link: https://www.nexusmods.com/starfield/mods/1996
+  category: Gameplay
+  author: Samantha Says
+  description: Increases your walking speed.
+- name: Show Me Those Chunks
+  link: https://www.nexusmods.com/starfield/mods/7922
+  category: Items
+  author: TheSparkOfLife
+  description: Gives packaged Chunks see-through packaging.
+- name: Show Power Name on HUD
+  link: https://www.nexusmods.com/starfield/mods/8150
   category: User Interface
-  author: alexbulluk
-  description: Fixes the spaceship reticle looking choppy.
-- name: Smooth UI
-  link: https://www.nexusmods.com/starfield/mods/350
+  author: FSNovask
+  description: Shows the equipped power name on the HUD above the health bar.
+- name: Smooth Interface
+  link: https://www.nexusmods.com/starfield/mods/506
   category: User Interface
-  author: Fuzzlesz
-  description: Increases the UI files to 60 FPS, for a smoother and less jittery user interface and menus.
+  author: Moddy
+  description: Increases the framerate of the UI to 60fps.
+- name: Starfield Community Patch
+  link: https://www.nexusmods.com/starfield/mods/1
+  category: Gameplay
+  author: Starfield Modding Community
+  description: Fixes bugs, errors, and inconsistencies in Starfield.
 - name: Starfield Script Extender
   link: https://www.nexusmods.com/starfield/mods/106
   category: Miscellaneous
   author: ianpatt
   description: A tool adding additional scripting capabilities and functionality to the game.
-- name: StarUI HUD
-  link: https://www.nexusmods.com/starfield/mods/3444
-  category: User Interface
-  author: m8r98a4f2
-  description: StarUI HUD gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
 - name: StarUI Inventory
   link: https://www.nexusmods.com/starfield/mods/773
   category: User Interface
@@ -93,3 +168,8 @@
   category: User Interface
   author: m8r98a4f2
   description: StarUI Workbench improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, quality of life features, and more!
+- name: Vend Unto Floor
+  link: https://www.nexusmods.com/starfield/mods/8191
+  category: Gameplay
+  author: TheSparkOfLife
+  description: Items from vending machines will drop from the chute, into the world.
