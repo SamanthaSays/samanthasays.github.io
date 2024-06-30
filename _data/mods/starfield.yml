@@ -138,6 +138,11 @@
   category: User Interface
   author: Moddy
   description: Increases the framerate of the UI to 60fps.
+- name: Starbuffed
+  link: https://nexusmods.com/starfield/mods/10288
+  category: Gameplay
+  author: Samantha Says
+  description: Increases the armour rating of Starborn Spacesuits. Starborn Guardian ships have triple the storage, triple the shielded storage, increased crew capacity to 8, and a native Dual-Frequency Scan Jammer for a 30% increase to scan evasion chance.
 - name: Starfield Community Patch
   link: https://www.nexusmods.com/starfield/mods/1
   category: Gameplay

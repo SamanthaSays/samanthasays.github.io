@@ -15,6 +15,8 @@ updated: 2024-06-19
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>30 Jun 2024</dt>
+        <dd>- Added Starbuffed.</dd>
     <dt>19 Jun 2024</dt>
         <dd>- Added Auto Door Closer.</dd>
         <dd>- Added British English.</dd>
