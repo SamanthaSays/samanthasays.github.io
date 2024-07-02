@@ -94,11 +94,11 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
     <tr>
         <th>Action</th>
         <th>Description</th>
-        <th>Stamina Cost</th>
+        <th>&nbsp;Stamina&nbsp;Cost&nbsp;</th>
         <th>XP Earned</th>
     </tr><tr>
         <td>[Daily] Well rested</td>
-        <td>Wake up from a good night's sleep and receive a blessing from a Divine.</td>
+        <td>Wake up from a good night's sleep and receive a blessing from one of 187 deities.</td>
         <td>10 Stamina</td>
         <td>25 XP</td>
     </tr><tr>
@@ -108,12 +108,17 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         <td>50 XP</td>
     </tr><tr>
         <td>[Daily] Daily quest</td>
-        <td>Perform a simple quest for the locals.</td>
+        <td>Perform one of 18 simple quests for the locals.</td>
         <td>80 Stamina</td>
         <td>100 XP</td>
     </tr><tr>
+        <td>[RPG] Stay hydrated!</td>
+        <td>Remember to drink your potions! Drink one of 85 potions and remind us all to stay hydrated.</td>
+        <td>100 Stamina</td>
+        <td>40 XP</td>
+    </tr><tr>
         <td>[Strength] Slay a monster</td>
-        <td>Adventure across Tamriel to slay a monster for XP with a high chance of success! If you do fail, your weapon will break and you will need to repair it before you can earn more XP through this mini-game.</td>
+        <td>Adventure across Tamriel to slay one of 115 monsters for XP with a high chance of success! If you do fail, your weapon will break and you will need to repair it before you can earn more XP through this mini-game.</td>
         <td>150 Stamina</td>
         <td>Success: 90 XP<br>
         Failure: 0 XP, +1 turn</td>
@@ -143,12 +148,14 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         <td>Success: 500 XP<br>
         Failure: -500 XP</td>
     </tr><tr>
-        <td>[Luck] Pick a side</td>
-        <td>This is a community challenge of pure luck! Pick from one of the two sides with a 50% chance of victory.</td>
-        <td>1000 Stamina
-        (Refunded on redeem)</td>
-        <td>Success: A split of the winnings<br>
-        Failure: Lose your bet</td>
+        <td>[Luck] Go fishing</td>
+        <td>Relax by the water and see what you can catch! There are 490 unique fish to catch, of varying rarities. There's even a small chance you'll fish up some treasure for massive XP, but also a small chance that you'll get nothing.</td>
+        <td>1000 Stamina</td>
+        <td>Common: 450 XP<br>
+        Uncommon: 500 XP
+        Rare: 650 XP
+        Epic: 1050 XP
+        Failure: 0 XP</td>
     </tr><tr>
         <td>[Agility] Pickpocket someone</td>
         <td>Write another person's username to pick their pocket for one of 8+115+157+19 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP.</td>
