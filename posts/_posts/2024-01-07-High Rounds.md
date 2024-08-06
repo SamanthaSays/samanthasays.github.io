@@ -11,7 +11,7 @@ updated: 30 Apr 2024
 
 Here's the table with my highest rounds across the games. Only confirmed high rounds are listed, so unfortunately many of my early scores are lost to time.
 
-I was very late to getting into modern (at the time) gaming as a kid. By the time I got my first console, which coincided with the release of Call of Duty: Black Ops, all of my friends had already been playing Call of Duty for a couple of years. It took me about a week of to discover that the maps had doors that could be opened, which finally helped me to reach round 10. My friends and I would spend our time after school playing Kino der Toten having a blast and messing around. When we reached round 30 for the first time, that was a huge milestone for us! I became hooked on zombies, to the point where my Xbox profile's bio was just a list of my high scores.
+I was very late to getting into modern (at the time) gaming as a kid. By the time I got my first console, which coincided with the release of Call of Duty: Black Ops, all of my friends had already been playing Call of Duty for a couple of years. It took me about a week of playing to discover that the maps had doors that could be opened, which finally helped me to reach round 10. My friends and I would spend our time after school playing Kino der Toten having a blast and messing around. When we reached round 30 for the first time, that was a huge milestone for us! I became hooked on zombies, to the point where my Xbox profile's bio was just a list of my high scores.
 
 Later on, when I began streaming to Twitch, I was a much better player, able to take on high rounds and speedruns. Admittedly, speedruns were rather neglected by the community at the time, but hey I'll take a world record no matter what. Hopefully in the future I can find time to take on more high round attempts to properly flesh out this page!
 
@@ -85,7 +85,7 @@ Later on, when I began streaming to Twitch, I was a much better player, able to 
     </tr>
 </table>
 
-<h3>Sker Ritual</h3>
+<h3>Other Games</h3>
 
 <table class="modlist">
     <thead>
@@ -104,4 +104,10 @@ Later on, when I began streaming to Twitch, I was a much better player, able to 
         <td>30 April, 2024</td>
         <td>Normal difficulty, flawless.<br>It didn't feel as engaging as CoD high rounds, so I stopped. Hopefully a higher difficulty will be more fun!</td>
     </tr>
+    <tr>
+        <td>Infinite Archive</td>
+        <td>The Elder Scrolls Online</td>
+        <td>5-2-1</td>
+        <td>06 August, 2024</td>
+        <td>Solo, no companion, Nightblade.</td>
 </table>
