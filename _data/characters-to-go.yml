@@ -12,7 +12,7 @@
   race: Goblin
   class: Sorcerer
   type: Magicka
-  theme: Shock Magic
+  theme: Summoner
 - name: Sorcha Rotvine
   race: Reachfolk
   class: Necromancer
@@ -27,7 +27,7 @@
   race: Argonian
   class: Dragonknight
   type: Magicka
-  theme: Fire Magic
+  theme: Flame Magic
 - name: Synette Laurent
   race: Breton
   class: Templar
@@ -42,22 +42,17 @@
   race: Orsimer
   class: Necromancer
   type: Stamina
-  theme: Disease Magic
+  theme: Disease
 - name: Sehlayeh
   race: Redguard
   class: Sorcerer
   type: Stamina
-  theme: Mercenary
+  theme: Pirate
 - name: Senna Octavia
   race: Imperial
   class: Warden
   type: Magicka
   theme: Bard
-- name: Simplicia Palenix
-  race: Imperial
-  class: Arcanist
-  type: Magicka
-  theme: Scholar
 - name: Sorosi Verano
   race: Dunmer
   class: Dragonknight
@@ -67,9 +62,4 @@
   race: Maormer
   class: Sorcerer
   type: Magicka
-  theme: Stormcaller
-- name: Stuck-In-Tutorial
-  race: Argonian
-  class: Nightblade
-  type: Stamina
-  theme: Cannot leave Balfiera
+  theme: Stormcalling
