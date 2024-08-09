@@ -16,7 +16,6 @@ I was very late to getting into modern (at the time) gaming as a kid. By the tim
 Later on, when I began streaming to Twitch, I was a much better player, able to take on high rounds and speedruns. Admittedly, speedruns were rather neglected by the community at the time, but hey I'll take a world record no matter what. Hopefully in the future I can find time to take on more high round attempts to properly flesh out this page!
 
 <h2>High Rounds</h2>
-
 <table class="modlist">
     <thead>
     <tr>
@@ -86,7 +85,6 @@ Later on, when I began streaming to Twitch, I was a much better player, able to 
 </table>
 
 <h3>Other Games</h3>
-
 <table class="modlist">
     <thead>
     <tr>
