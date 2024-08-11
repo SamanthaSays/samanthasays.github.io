@@ -32,6 +32,9 @@ collections:
   mods:
     output: true
     permalink: mods/:path
-  characters:
+  charactersESO:
     output: true
-    permalink: characters/:path
+    permalink: characters/eso/:path
+  charactersMW:
+    output: true
+    permalink: characters/morrowind/:path

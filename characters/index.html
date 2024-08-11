@@ -5,15 +5,14 @@ section: characters
 description: A collection of Lore, Builds, and Fashion of original characters by Samantha Says. Most appear across The Elder Scrolls series, like ESO, Skyrim, and Morrowind.
 image: /assets/images/Apples icon.png
 ---
-
 <h1>Characters</h1>
 
-<h2>The Elder Scrolls Online</h2>
+<h2 id="eso">The Elder Scrolls Online</h2>
 
 <!--<span id="esoLBF"><a href="/characters/lore">Lore</a>&nbsp;•&nbsp;<a href="/characters/builds">Builds</a>&nbsp;•&nbsp;<a href="/characters/fashion">Fashion</a></span>-->
 
 <div class="tablesContainer">
-    {% assign sortedPosts = site.characters | sort: 'priority' %}
+    {% assign sortedPosts = site.charactersESO | sort: 'priority' %}
     {% for character in sortedPosts %}
         <table id="tableGallery">
             <tr>
@@ -28,3 +27,7 @@ image: /assets/images/Apples icon.png
     {% endfor %}
     {% include characters-to-go.html %}
 </div>
+
+<h2 id="morrowind">The Elder Scrolls III: Morrowind</h2>
+
+Coming soon!
