@@ -1,6 +1,12 @@
 <h3>Characters</h3>
 <ul id="sidebarList">
+{% if page.title != "Characters" %}
 {% for item in site.data.characters %}
 <li><a href="/characters#{{ item.link }}">{{ item.name }}</a></li>
 {% endfor %}
+{% else %}
+{% for item in site.data.characters %}
+<li><a href="#{{ item.link }}">{{ item.name }}</a></li>
+{% endfor %}
+{% endif %}
 </ul>
