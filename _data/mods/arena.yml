@@ -1,0 +1,30 @@
+- name: Better Lighting
+  link: https://www.nexusmods.com/tesarena/mods/33
+  category: Visuals and Graphics
+  author: AVGVSTA
+  description: Improves lighting and shadows.
+- name: No Magicka No Problem
+  link: https://www.nexusmods.com/tesarena/mods/20
+  category: Gameplay
+  author: AVGVSTA
+  description: Rebalances the cost of potions and magic items to make magic more accessible to non-mages.
+- name: Sound Patch
+  link: https://www.nexusmods.com/tesarena/mods/15
+  category: Audio
+  author: Corsafire1
+  description: Removes the ear-breaking cracking noise from the audio files.
+- name: Speech - No Hiss
+  link: https://www.nexusmods.com/tesarena/mods/37
+  category: Audio
+  author: Bevier
+  description: Removes the hiss from the .SPEECH sound files.
+- name: TES Arena Re-Remapped 3.0
+  link: https://www.nexusmods.com/tesarena/mods/1
+  category: Miscellaneous
+  author: ArtInPinkerton
+  description: Custom DOSBox controls file enabling full modern-style controls while retaining the ability to type text as needed.
+- name: TES Arena Title Screen Fix
+  link: https://www.nexusmods.com/tesarena/mods/17
+  category: Visuals and Graphics
+  author: Anatoly Miroshkin
+  description: Fixes the missing fragments of the frame of the title screen.

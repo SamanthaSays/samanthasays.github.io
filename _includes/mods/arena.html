@@ -1,0 +1,7 @@
+{% for item in site.data.mods/arena %}
+<tr>
+    <td><a target="_blank" href="{{ item.link }}">{{ item.name }}</a><br><p class="author">{{ item.author }}</p></td>
+    <td>{{ item.category }}</td>
+    <td>{{ item.description }}</td>
+</tr>
+{% endfor %}
