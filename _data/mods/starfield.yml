@@ -8,6 +8,16 @@
   category: Visuals
   author: DarthParametric
   description: Tones down the chemically bleached look of clean teeth, slightly darkens dirty teeth, removes the bright edges of blackened teeth.
+- name: Allied Desert Camo Skin Pack
+  link: https://creations.bethesda.net/en/starfield/details/128b6982-590d-47eb-b8cd-b20917b2de13/Allied_Desert_Camo_Skin_Pack
+  category: Skins
+  author: Bethesda Game Studios
+  description: Stand out in the city and hide out in the desert with the Desert Camo Pack from Allied Arms.
+- name: Ancient Mariner Module
+  link: https://creations.bethesda.net/en/starfield/details/07fe73ab-6edb-471d-8769-7bff25ffeb95/Ancient_Mariner_Module
+  category: Crafting
+  author: Bethesda Game Studios
+  description: Become the captain of your own Ancient Mariner with 22 new decor items for Outposts, Ships, and Housing.
 - name: Auto Door Closer
   link: https://www.nexusmods.com/starfield/mods/8242
   category: Gameplay
@@ -23,11 +33,41 @@
   category: User Interface
   author: KahoMaat
   description: Less distracting, more immersive, and simply a better HUD.
+- name: Blackout Drumbeat Skin
+  link: https://creations.bethesda.net/en/starfield/details/31ccf130-4852-417b-842a-9d82672028e4/Blackout_Drumbeat_Skin
+  category: Skins
+  author: Bethesda Game Studios
+  description: Customise your Drumbeat with a new look!
+- name: Blackout Equinox Skin
+  link: https://creations.bethesda.net/en/starfield/details/c5bbdd20-29a6-4508-9dea-24e864dc255b/Blackout_Equinox_Skin
+  category: Skins
+  author: Bethesda Game Studios
+  description: Customise your Equinox with a new look!
+- name: Blackout Shotty Skin
+  link: https://creations.bethesda.net/en/starfield/details/2880d357-3084-447d-a712-c9317eac56d1/Blackout_Shotty_Skin
+  category: Skins
+  author: Bethesda Game Studios
+  description: Customise your Shotty with a new look!
+- name: Breathe Easy
+  link: https://www.nexusmods.com/starfield/mods/10318
+  category: Gameplay
+  author: Samantha Says
+  description: Adds clothing outfits to Crimson Fleet, Spacers, UC Marines, UC Vanguard, and Va'ruun Zealots for them to wear instead of their spacesuits in breathable atmospheres.
 - name: British English
   link: https://www.nexusmods.com/starfield/mods/2011
   category: User Interface
   author: Samantha Says
   description: Changes many American English words into British English.
+- name: CharGenMenu
+  link: https://www.nexusmods.com/starfield/mods/6850
+  category: User Interface
+  author: Expired6978
+  description: Modifies the vanilla CharGenMenu to show numbers, compacts vertical space to show more sliders, and allows you to save and load presets.
+- name: CombaTech Digital Camo Skin Pack
+  link: https://creations.bethesda.net/en/starfield/details/6cb482a0-9fb6-48f5-ad69-c4c40d830bd5/CombaTech_Digital_Camo_Skin_Pack
+  category: Skins
+  author: Bethesda Game Studios
+  description: Looking good has never been so hard to see. This Digital Camo Pack by CombaTech is expertly designed to make sure you're only spotted... when it's too late.
 - name: Compact Crew Menu UI
   link: https://www.nexusmods.com/starfield/mods/3014
   category: User Interface
@@ -38,6 +78,11 @@
   category: User Interface
   author: Stentorious
   description: Modifies the mission menu for more items can be seen at once.
+- name: Constellation Plushie Set
+  link: https://creations.bethesda.net/en/starfield/details/bdf19afb-2be7-43ad-b023-9c310e3602d9/Constellation_Plushie_Set
+  category: Crafting
+  author: Bethesda Game Studios
+  description: Introducing the Constellation Cuddle Crew! Craft 5 adorable plushies of your favourite members to proudly display in your Outposts, Homes, and Ships.
 - name: Corpse Collision
   link: https://www.nexusmods.com/starfield/mods/9939
   category: Gameplay
@@ -82,12 +127,22 @@
   link: https://www.nexusmods.com/starfield/mods/327
   category: User Interface
   author: GliOcchi
-  description: Scope reticles/crosshairs are now dual colours with red accents for higher visibility.<br>I use the HVCrosshair Replacement version.
+  description: Scope reticles/crosshairs are now dual colours with red accents for higher visibility.<br><br>I use the HVCrosshair Replacement version.
+- name: Landing Animation Reloaded
+  link: https://www.nexusmods.com/starfield/mods/7569
+  category: Animations
+  author: 7StarC
+  description: Always plays the landing animation when landing on a planet.
 - name: Laser Sight Dot Enabled
   link: https://www.nexusmods.com/starfield/mods/9643
   category: Visuals
   author: nack9
   description: Enables dot visuals for laser sights.
+- name: Legendary Aspirational Weapons
+  link: https://www.nexusmods.com/starfield/mods/10771
+  category: Weapons
+  author: Samantha Says
+  description: Improves Stache's aspiration weapons to legendary quality.
 - name: Longer Names v2
   link: https://www.nexusmods.com/starfield/mods/5046
   category: Miscellaneous
@@ -113,6 +168,11 @@
   category: User Interface
   author: m8r98a4f2
   description: Removes the additional rare/epic/legendary item card notification, which pops up when you pick up a rare/epic/legendary item.
+- name: Observatory
+  link: https://creations.bethesda.net/en/starfield/details/e8ff65fc-7c13-44b3-b8a5-27df6b28007d/Observatory
+  category: Settlements
+  author: Bethesda Game Studios
+  description: Search for the stars with this new Observatory!
 - name: Quick Lowered Weapons - First Person
   link: https://www.nexusmods.com/starfield/mods/6338
   category: Gameplay
@@ -138,6 +198,11 @@
   category: User Interface
   author: Moddy
   description: Increases the framerate of the UI to 60fps.
+- name: Starborn Gravis Suit
+  link: https://creations.bethesda.net/en/starfield/details/beefc7ae-59f4-4934-b2a5-d04e5264f029/Starborn_Gravis_Suit
+  category: Spacesuits
+  author: Bethesda Game Studios
+  description: Explore the mysteries of the universe in the mysterious Starborn Gravis Suit! Your future self will thank you.
 - name: Starbuffed
   link: https://nexusmods.com/starfield/mods/10288
   category: Gameplay
@@ -145,9 +210,14 @@
   description: Increases the armour rating of Starborn Spacesuits. Starborn Guardian ships have triple the storage, triple the shielded storage, increased crew capacity to 8, and a native Dual-Frequency Scan Jammer for a 30% increase to scan evasion chance.
 - name: Starfield Community Patch
   link: https://www.nexusmods.com/starfield/mods/1
-  category: Gameplay
+  category: Bug Fixes
   author: Starfield Modding Community
   description: Fixes bugs, errors, and inconsistencies in Starfield.
+- name: Starfield Engine Fixes
+  link: https://www.nexusmods.com/starfield/mods/10457
+  category: Bug Fixes
+  author: LarannKiar
+  description: A collection of fixes for the game engine.<br><br>I have set&#58;<br>bDisableBackgroundConsoleCallLogging=1<br>bHighModIndexWarningMainMenu=1
 - name: Starfield Script Extender
   link: https://www.nexusmods.com/starfield/mods/106
   category: Miscellaneous
@@ -173,8 +243,18 @@
   category: User Interface
   author: m8r98a4f2
   description: StarUI Workbench improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, quality of life features, and more!
+- name: Trackers Alliance&#58; The Vulture
+  link: https://creations.bethesda.net/en/starfield/details/4bf1a31f-46d5-47bf-a5e6-d0f9e2496d0c/Trackers_Alliance__The_Vulture
+  category: Quests
+  author: Bethesda Game Studios
+  description: A veteran of the colony war is wanted for high treason against the Freestar Government. Take on a treacherous Trackers Alliance contract to hunt down one of the deadliest snipers in Freestar space. Includes a new Trackers Alliance bounty, the Arboron Novastrike Sniper, and two additional outfits.
 - name: Vend Unto Floor
   link: https://www.nexusmods.com/starfield/mods/8191
   category: Gameplay
   author: TheSparkOfLife
   description: Items from vending machines will drop from the chute, into the world.
+- name: Water-Cooled Miners' Outfit
+  link: https://creations.bethesda.net/en/starfield/details/f84790ea-caeb-4a73-9d06-d4db254dc37d/Water_Cooled_Miners__39__Outfit
+  category: Clothing
+  author: Bethesda Game Studios
+  description: Rugged and stylish, these clothes are built for days in the mine and out on the town.

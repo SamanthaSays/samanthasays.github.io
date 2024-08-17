@@ -6,7 +6,7 @@ image: /assets/images/games/SF-cover.webp
 game: Starfield
 description: The Starfield mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 2024-06-19
+updated: 2024-08-17
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,23 @@ updated: 2024-06-19
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>17 Aug 2024</dt>
+        <dd>- Added Allied Desert Camo Skin Pack.</dd>
+        <dd>- Added Ancient Mariner Module.</dd>
+        <dd>- Added Blackout Drumbeat Skin.</dd>
+        <dd>- Added Blackout Equinox Skin.</dd>
+        <dd>- Added Blackout Shotty Skin.</dd>
+        <dd>- Added Breathe Easy.</dd>
+        <dd>- Added CharGenMenu.</dd>
+        <dd>- Added CombaTech Digital Camo Skin Pack.</dd>
+        <dd>- Added Constellation Plushie Set.</dd>
+        <dd>- Added Landing Animation Reloaded.</dd>
+        <dd>- Added Legendary Aspirational Weapons.</dd>
+        <dd>- Added Observatory.</dd>
+        <dd>- Added Starborn Gravis Suit.</dd>
+        <dd>- Added Starfield Engine Fixes.</dd>
+        <dd>- Added Trackers Alliance: The Vulture.</dd>
+        <dd>- Added Water-Cooled Miners' Outfit.</dd>
     <dt>30 Jun 2024</dt>
         <dd>- Added Starbuffed.</dd>
     <dt>19 Jun 2024</dt>
@@ -64,7 +81,7 @@ All mods are installed and managed through <a target="_blank" href="https://www.
 
 Remember to not just blindly copy somebody else's mod list. Make sure each mod is one that you really want! Because of this, my installed dependencies are not listed.
 
-I also have all of the Creations released by Bethesda Game Studios. These are: Ancient Mariner Module, Blackout Drumbeat Skin, Constellation Plushie Set, Observatory, Starborn Gravis Suit, and Trackers Alliance: The Vulture.
+I also have all of the Creations released by Bethesda Game Studios, which are listed below.
 
 You can purchase Starfield at <a target="_blank" href="https://greenmangaming.sjv.io/samanthasays-starfield">Green Man Gaming</a> through my affiliate link.
 
