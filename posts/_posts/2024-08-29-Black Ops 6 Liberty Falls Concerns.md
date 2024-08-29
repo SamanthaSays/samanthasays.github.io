@@ -10,7 +10,7 @@ updated:
 ---
 
 
-A lot of footage from Call of Duty: Black Ops 6 released yesterday, including our first proper look at zombies in the form of the smaller Liberty Fals map. I've been looking forward to Black Ops 6, especially since it's the longest time between Black Ops games, but seeing the footage I do have some concerns that I hope will end up not being too detrimental.
+A lot of footage from Call of Duty: Black Ops 6 released yesterday, including our first proper look at zombies in the form of the smaller Liberty Falls map. I've been looking forward to Black Ops 6, especially since it's the longest time between Black Ops games, but seeing the footage I do have some concerns that I hope will end up not being too detrimental.
 
 I've split this post up into gameplay and visual critiques, because honestly a lot of the initial criticisms were on the general aesthetics of the map. While good art direction can really elevate how it feels to play a game, even a game with bad visuals can still be fun to play.
 
@@ -26,7 +26,7 @@ Der Wunderfizz returns with two "out of stock" buttons, and the menu has room fo
 
 Two maps on launch is good and it honestly should have been the default for Cold War, which was the first game to launch with only a single map since World at War in 2008. I appreciate its small size, especially with how much they're talking up the scale of Terminus. It makes for a nice gameplay dynamic, where Kino Der Toten was the "main" map while Five was the bonus, slightly more claustrophic and difficult map. TranZit and Nuketown are probably the most similar to the Black Ops 6 launch, where the first map is large scale and the second one is much simpler and easy to learn. That being said, Liberty Falls has a lot of open space. I'm quite worried that it will be a very easy map, especially with the new omni-movement.
 
-I've been concerned since its announcement about how omni-movement will affect the difficulty in zombies. Movement was a valuable currency in the earlier games, which as been lost over time. Up to Black Ops 2, you had to choose between sprinting fast or reloading your weapon. Being able to reload while sprinting made the gameplay easier, while also making things like Speed Cola and fast mag attachments less important. Now you'll also be able to sprint backwards. On paper, it sounds like it can make kiting zombies incredibly trivial and make the gameplay even easier than it already has become.</div>
+I've been concerned since its announcement about how omni-movement will affect the difficulty in zombies. Movement was a valuable currency in the earlier games, which has been lost over time. Up to Black Ops 2, you had to choose between sprinting fast or reloading your weapon. Being able to reload while sprinting made the gameplay easier, while also making things like Speed Cola and fast mag attachments less important. Now you'll also be able to sprint backwards. On paper, it sounds like it can make kiting zombies incredibly trivial and make the gameplay even easier than it already has become.
 
 <img class="postImage" src="/assets/images/posts/BO6-Liberty Falls-Promo 1.webp" alt="Liberty Falls">
 <h2>The Visuals</h2>
