@@ -631,3 +631,12 @@ body {
 .postDivider {
     border-top: 3px solid var(--navigation);
   }
+
+.postImage {
+    float: right; 
+    max-width: 50%; 
+    height: auto;
+    padding-left: 0.5rem; 
+    padding-top: 0.5rem; 
+    padding-bottom: 0.5rem; 
+}
