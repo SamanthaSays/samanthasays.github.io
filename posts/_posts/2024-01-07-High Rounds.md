@@ -107,8 +107,8 @@ Later on, when I began streaming to Twitch, I was a much better player, able to 
     <tr>
         <td>Infinite Archive</td>
         <td>The Elder Scrolls Online</td>
-        <td>5-2-1</td>
-        <td>06 August, 2024</td>
+        <td>5-5-1</td>
+        <td>17 September, 2024</td>
         <td>Solo, no companion, Nightblade.</td>
     </tr>
 </table>
