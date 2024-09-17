@@ -3,10 +3,10 @@ layout: post
 title: High Rounds
 section: posts
 permalink: /posts/high rounds
-description: The high rounds leaderboard of Samantha Says, across all Treyarch Call of Duty titles.
+description: The high rounds leaderboard of Samantha Says, across all Treyarch Call of Duty titles and other games.
 image: /assets/images/Apples icon.png
 tag: COD Zombies
-updated: 06 Aug 2024
+updated: 17 Sep 2024
 ---
 
 Here's the table with my highest rounds across the games. Only confirmed high rounds are listed, so unfortunately many of my early scores are lost to time.
