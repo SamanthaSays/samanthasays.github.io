@@ -67,12 +67,12 @@ updated: 2023-05-05
 <ul style="font-weight: bold">
     <li>Builds</li>
     <ul>
-        <li><a href="#Scion">Scion</a></li>
-        <li><a href="#Imperial City Stalker">Imperial City Stalker</a></li>
+        <li><a href="#scion">Scion</a></li>
+        <li><a href="#imperial city stalker">Imperial City Stalker</a></li>
     </ul>
     <li>Fashion</li>
     <ul>
-        <li><a href="#Shadow of Night">Shadow of Night</a></li>
+        <li><a href="#shadow of night">Shadow of Night</a></li>
     </ul>
 </ul>
 
@@ -85,7 +85,7 @@ S'unrise is the main character of The Elder Scrolls, filling the role of the her
 In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampire themed skills and items.
 
 <h2 class="builds" id="builds">Builds</h2>
-<h3 id="Scion">Scion</h3>
+<h3 id="scion">Scion</h3>
 <p>This Vampire themed build focuses on sucking the life from your enemies, slashing with your feral claws, and making the most out of the gift of Noxiphilic Sanguivoria.</p>
 <p>I'd say that Nightblades are the best class to pair with Vampirism, at least thematically, thanks to their Siphoning skill line offering more ways to drain your foes. When I first began ESO in late 2016, I wanted S'unrise to be a Stamina focused Vampire. Over time, Vampirism was reworked to be much more beneficial to Magicka users, so I had to rework her into a Magicka character. That truly was a blessing, because the Scion build I've ended up with has been consistently strong. It's powerful enough for use in Dungeons, Flawless Arenas, and Trials.</p>
 <p>The Scion is a build that focuses on dealing critical damage, while sustaining your health through multiple sources. Thanks to Blood for Blood being your spammable, Magicka management is practically non-existant!</p>
@@ -351,7 +351,7 @@ In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampir
 <a target="_blank" href="https://en.uesp.net/wiki/Online:Back-Alley_Gourmand">Back-Alley Gourmand</a> is an overland set that drops in Galen. Given that The Scion will always have a food buff active, this set is effectively just a more powerful Order's Wrath.<br>
 <a target="_blank" href="https://en.uesp.net/wiki/Online:Shapeshifter%27s_Chain">Shapeshifter's Chain</a> is a Mythic necklace, obtained through the Antiquities system. While not a massive boon for Vampires, it was a very thematic fit. Alternatively, you can swap this out for the Ring of the Pale Order for solo content.<br>
 <a target="_blank" href="https://en.uesp.net/wiki/Online:Valkyn_Skoria_(set)">Valkyn Skoria</a> is only used for the Offensive Penetration boost, which is statistically the most beneficial for The Scion out of all Monster Set 1 item bonuses.</p>
-<h3 id="Imperial City Stalker">Imperial City Stalker</h3>
+<h3 id="imperial city stalker">Imperial City Stalker</h3>
 <div class="buildContainer">
     <p>This Vampire themed build focuses on sucking the life from your enemies across the battlefield, and works for Cyrodiil, Imperial City, and Battlegrounds.</p>
     <p>It took me way too long for PvP to finally "click" for me. My first PvP build utilised the Scion transformation ultimate and just stacking as much Maximum Magicka as I could. More recently, I've found this build to be a little bit more impactful, with many opportunities to turn the tide of a fight.</p>
@@ -610,7 +610,7 @@ In The Elder Scrolls Online, she appears as a Magicka Nightblade and uses Vampir
 <a target="_blank" href="https://en.uesp.net/wiki/Online:Perfected_Destructive_Impact">The Master's Perfected Lightning Staff</a> is dropped in Dragonstar Arena. It provides a convenient damage boost along with our close-range stun.</p>
 
 <h2 class="fashion" id="fashion">Fashion</h2>
-<h3 id="Shadow of Night">Shadow of Night</h3>
+<h3 id="shadow of night">Shadow of Night</h3>
 <div class="fashionContainer">
     <div class="fashionOutfit">
         <div class="fashionStyle">

@@ -41,6 +41,9 @@ tag: ESO Character
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>20 Sep 2024</dt>
+        <dd>-Changed Aldmeri Pauldrons to Aldmeri Eagle Knight Pauldrons.</dd>
+        <dd>-Changed Aldmeri Sword to Welkynar Sword.</dd>
     <dt>23 Aug 2023</dt>
         <dd>- Added Druidstone Mine to Uniform.</dd>
         <dd>- Changed Reach Witch Removal to Ashen Runegathering for Uniform.</dd>
@@ -56,11 +59,11 @@ tag: ESO Character
 <ul style="font-weight: bold">
     <li>Builds</li>
     <ul>
-        <li><a href="#Dominion Seneschal">Dominion Seneschal</a></li>
+        <li><a href="#dominion seneschal">Dominion Seneschal</a></li>
     </ul>
     <li>Fashion</li>
     <ul>
-        <li><a href="#Uniform">Uniform</a></li>
+        <li><a href="#uniform">Uniform</a></li>
     </ul>
 </ul>
 
@@ -71,7 +74,7 @@ When Princess Ayrenn Arana Aldmeri of Alinor returned to formally claim her Quee
 In The Elder Scrolls Online, she appears as a Stamina Templar and uses a combination of sword, shield, and archery.
 
 <h2 class="builds" id="builds">Builds</h2>
-<h3 id="Dominion Seneschal">Dominion Seneschal</h3>
+<h3 id="dominion seneschal">Dominion Seneschal</h3>
 <div class="buildContainer">
     <p>This soldier themed build focuses on using physical combat and archery to roleplay as a proper soldier. Fire off arrows from range, before moving forward with your shield raised to attack your enemies with powerful spear thrusts. For the Queen!</p>
     <p>The original conception for this build was entirely for roleplaying the theme of being a soldier. When I first created the build, it had a two-handed greatsword on the backbar to gain Major Brutality for that juicy 20% damage boost, but I really didn't like the idea of a soldier stowing their sword and shield to pull out a heavy two-handed weapon. The second version of this build used the Dreugh King Slayer set for its constant Major Brutality effect, but this wasn't ideal. Inspired by Roman armies, it seemed fitting to have my shield bearing, spear jabbing soldier to use a bow on the back bar. Thankfully, the Biting Jabs skill, this build's main spammable, was buffed to grant Major Brutality for 10 seconds on use! Finally, I could ditch Dreugh King Slayer and pick some item sets that really complemented this build for maximum damage. I also experimented with using Malacath's Band of Brutality for a time, but found critical damage to just be more powerful for PvE.</p>
@@ -339,7 +342,7 @@ In The Elder Scrolls Online, she appears as a Stamina Templar and uses a combina
 </div>
 
 <h2 class="fashion" id="fashion">Fashion</h2>
-<h3 id="Uniform">Uniform</h3>
+<h3 id="uniform">Uniform</h3>
 <div class="fashionContainer">
     <div class="fashionContainer">
         <div class="fashionOutfit">
@@ -360,20 +363,18 @@ In The Elder Scrolls Online, she appears as a Stamina Templar and uses a combina
                 Thalmor Black</p>
             </div>
             <div class="fashionStyle">
-                <p><img src="/assets/images/icons/eso/armour/aldmeri dominion pauldrons.webp" alt="Aldmeri Dominion Pauldrons"><br>
-                Aldmeri Pauldrons</p>
-            </div>
-            <div class="fashionDye">
-                <p><img style="background-color: #533d1c" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
-                Ayleid Gold</p>
+                <p><img src="/assets/images/icons/eso/armour/aldmeri dominion pauldrons.webp" alt="Aldmeri Eagle Knight Pauldrons"><br>
+                Aldmeri Eagle Knight Pauldrons</p>
             </div>
             <div class="fashionDye">
                 <p><img style="background-color: #2b2b2b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
                 Thalmor Black</p>
             </div>
             <div class="fashionDye">
-                <p><img style="background-color: #2b2b2b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
-                Thalmor Black</p>
+                <p></p>
+            </div>
+            <div class="fashionDye">
+                <p></p>
             </div>
             <div class="fashionStyle">
                 <p><img src="/assets/images/icons/eso/armour/aldmeri dominion jerkin.webp" alt="Aldmeri Dominion Jerkin"><br>
@@ -453,16 +454,16 @@ In The Elder Scrolls Online, she appears as a Stamina Templar and uses a combina
                 Ayleid Gold</p>
             </div>
             <div class="fashionStyle">
-                <p><img src="/assets/images/icons/eso/weapons/aldmeri dominion sword.webp" alt="Aldmeri Dominion Sword"><br>
-                Aldmeri Sword</p>
-            </div>
-            <div class="fashionDye">
-                <p><img style="background-color: #533d1c" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
-                Ayleid Gold</p>
+                <p><img src="/assets/images/icons/eso/weapons/welkynar sword.webp" alt="Welkynar Sword"><br>
+                Welkynar Sword</p>
             </div>
             <div class="fashionDye">
                 <p><img style="background-color: #2b2b2b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
                 Thalmor Black</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #533d1c" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Ayleid Gold</p>
             </div>
             <div class="fashionDye">
                 <p><img style="background-color: #34724d" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>

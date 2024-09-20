@@ -49,11 +49,11 @@ tag: ESO Character
 <ul style="font-weight: bold">
     <li>Builds</li>
     <ul>
-        <li><a href="#Coming Soon">Coming Soon</a></li>
+        <li><a href="#coming soon">Coming Soon</a></li>
     </ul>
     <li>Fashion</li>
     <ul>
-        <li><a href="#Scholarly Persuit">Scholarly Persuit</a></li>
+        <li><a href="#scholarly persuit">Scholarly Persuit</a></li>
     </ul>
 </ul>
 
@@ -64,13 +64,13 @@ Very quickly into her adventures, she received a letter from Leramil the Wise, c
 In The Elder Scrolls Online, she appears as a Magicka Arcanist and uses Apocrypha themed skills and items.
 
 <h2 class="builds" id="builds">Builds</h2>
-<h3 id="Coming Soon">Coming Soon</h3>
+<h3 id="coming soon">Coming Soon</h3>
 <div class="buildContainer">
 
 </div>
 
 <h2 class="fashion" id="fashion">Fashion</h2>
-<h3 id="Scholarly Persuit">Scholarly Persuit</h3>
+<h3 id="scholarly persuit">Scholarly Persuit</h3>
 <div class="fashionContainer">
     <div class="fashionContainer">
         <div class="fashionOutfit">
