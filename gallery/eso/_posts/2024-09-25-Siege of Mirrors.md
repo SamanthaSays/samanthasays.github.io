@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Death's Wind
+title: Siege of Mirrors
 section: gallery
 hidden: true
-permalink: /gallery/eso/death's wind
-image: /assets/images/gallery/eso/Death's Wind.webp
+permalink: /gallery/eso/siege of mirrors
+image: /assets/images/gallery/eso/Siege of Mirrors.webp
 description: "A screenshot of Feldagard Keep in West Weald from The Elder Scrolls Online, taken by Samantha Says."
 tag: Screenshot
 gallery: eso
