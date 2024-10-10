@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Death's Wind
+title: Patch of Defence
 section: gallery
 hidden: true
-permalink: /gallery/eso/death's wind
-image: /assets/images/gallery/eso/Death's Wind.webp
+permalink: /gallery/eso/path of defence
+image: /assets/images/gallery/eso/Path of Defence.webp
 description: "A screenshot of Ithelia during The Many Paths from The Elder Scrolls Online, taken by Samantha Says."
 tag: Screenshot
 gallery: eso
