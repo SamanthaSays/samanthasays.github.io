@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patch of Defence
+title: Path of Defence
 section: gallery
 hidden: true
 permalink: /gallery/eso/path of defence
