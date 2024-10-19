@@ -6,6 +6,7 @@ permalink: /posts/channel points
 description: All of the details of the channel points and redemption options on Samantha Says' Twitch channel.
 image: /assets/images/Apples icon.png
 tag: Twitch Channel
+updated: 19 Oct 2024
 ---
 
 This is a complete rundown on the channel points and mini-games available on <a href="https://www.twitch.tv/samanthasays">Samantha Says'</a> Twitch channel.
@@ -158,7 +159,7 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         Failure: 0 XP</td>
     </tr><tr>
         <td>[Agility] Pickpocket someone</td>
-        <td>Write another person's username to pick their pocket for one of 8+115+157+19 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP.</td>
+        <td>Write another person's username to pick their pocket for one of 5,971 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP. There are 232 Normal, 2,113 Fine, 2,498 Superior, and 128 Epic treasures to find!</td>
         <td>2000 Stamina</td>
         <td>Normal: 700 XP<br>
         Fine: 850 XP<br>
