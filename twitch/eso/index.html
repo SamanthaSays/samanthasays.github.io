@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Twitch VODs: The Elder Scrolls Online"
+section: gallery
+permalink: /gallery/twitch/eso
+description: A gallery of past Twitch streams of The Elder Scrolls Online by Samantha Says.
+image: /assets/images/Apples icon.png
+---
+
+<h2>The Elder Scrolls Online VODs</h2>
+
+<div class="tablesContainer">
+    {% for post in site.categories.twitch %}
+        {% if post.categories contains "eso" %}
+            <table id="tableGallery">
+                <tr>
+                    <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="{{ post.image }}" alt="{{ post.title }}"></a></th>
+                </tr><tr>
+                    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+                </tr>
+            </table>
+        {% endif %}
+    {% endfor %}
+</div>

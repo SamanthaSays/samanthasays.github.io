@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Twitch VODs
+title: "Twitch VODs: Call of Duty zombies"
 section: gallery
-description: A gallery of videos, screenshots, and artwork. All screenshots are taken by Samantha Says, each piece of artwork will contain links to the artist.
+permalink: /gallery/twitch/zombies
+description: A gallery of past Twitch streams of Call of Duty zombies by Samantha Says.
 image: /assets/images/Apples icon.png
 ---
 
-<h2>Twitch VODs</h2>
+<h2>Call of Duty VODs</h2>
 
 <div class="tablesContainer">
-    {% for post in site.categories.gallery %}
-        {% if post.categories contains "twitch" %}
+    {% for post in site.categories.twitch %}
+        {% if post.categories contains "zombies" %}
             <table id="tableGallery">
                 <tr>
                     <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="{{ post.image }}" alt="{{ post.title }}"></a></th>
