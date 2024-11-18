@@ -644,7 +644,8 @@ body {
 .links {
     position: relative;
     width: 50%;
-    background: var(--aside);
+    background: var(--navigation);
+    color: var(--textInverse);
     text-align: center;
     margin: auto;
     margin-top: 1rem;
@@ -654,6 +655,11 @@ body {
     font-family: "eurostile";
     font-size: 1.2rem;
     font-weight: bold;
+}
+
+.links:hover {
+    background: var(--aside);
+    color: var(--textMain);
 }
 
 .linksLink {
