@@ -6,7 +6,7 @@ permalink: /posts/channel points
 description: All of the details of the channel points and redemption options on Samantha Says' Twitch channel.
 image: /assets/images/Apples icon.png
 tag: Twitch Channel
-updated: 19 Oct 2024
+updated: 08 Dec 2024
 ---
 
 This is a complete rundown on the channel points and mini-games available on <a href="https://www.twitch.tv/samanthasays">Samantha Says'</a> Twitch channel.
@@ -98,18 +98,13 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         <th>&nbsp;Stamina&nbsp;Cost&nbsp;</th>
         <th>XP Earned</th>
     </tr><tr>
-        <td>[Daily] Well rested</td>
-        <td>Wake up from a good night's sleep and receive a blessing from one of 187 deities.</td>
+        <td>[First] Receive a blessing</td>
+        <td>The first adventurer of the day is always blessed by one of 187 Aedra, Daedra, or Saints.</td>
         <td>10 Stamina</td>
         <td>25 XP</td>
     </tr><tr>
         <td>[Daily] Have a meal</td>
         <td>Before setting out on your adventure, don't forget to have a full meal! This will choose between 634 foods and 361 drinks for a truly unique meal.</td>
-        <td>50 Stamina</td>
-        <td>50 XP</td>
-    </tr><tr>
-        <td>[Daily] Daily quest</td>
-        <td>Perform one of 18 simple quests for the locals.</td>
         <td>80 Stamina</td>
         <td>100 XP</td>
     </tr><tr>
