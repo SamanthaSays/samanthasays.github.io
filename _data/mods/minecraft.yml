@@ -1,19 +1,25 @@
-- name: Complementary Shaders v4
-  link: https://www.curseforge.com/minecraft/customization/complementary-shaders
+- name: Complementary Shaders - Reimagined
+  link: https://modrinth.com/shader/complementary-reimagined
   category: Shaders
   author: EminGTR
   description: My favourite shaderpack.
   choice: Yes
-- name: Falling Leaves
-  link: https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric
+- name: Distant Horizons
+  link: https://modrinth.com/mod/distanthorizons
   category: Cosmetic
-  author: RandomMcSomethin
+  author: jeseibel
+  description: Adds simplified LODs to extend Minecraft's render distance.
+  choice: Yes
+- name: Falling Leaves
+  link: https://modrinth.com/mod/fallingleaves
+  category: Cosmetic
+  author: randommcsomethin
   description: Adds particle effects to leaf blocks.
   choice: Yes
 - name: Litematica
-  link: https://www.curseforge.com/minecraft/mc-mods/litematica
+  link: https://modrinth.com/mod/litematica
   category: Gameplay
-  author: masady
+  author: masa
   description: Create and load schematics of structures.
   choice: Yes
 - name: Pixlli
@@ -23,129 +29,118 @@
   description: My favourite resource pack. Adds PBR, but keeps the vanilla style.
   choice: Yes
 - name: Sound Physics Remastered
-  link: https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
+  link: https://modrinth.com/mod/sound-physics-remastered
   category: Cosmetic
   author: henkelmax
   description: Provides realistic sound attenuation, reverberation, and absorption through blocks.
   choice: Yes
-- name: Simple Voice Chat
-  link: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
-  category: Gameplay
-  author: henkelmax
-  description: Adds proximity voice chat to servers.
-  choice: Yes
-- name: Advancement Info
-  link: https://www.curseforge.com/minecraft/mc-mods/advancementinfo
-  category: UI
-  author: Giselbaer
-  description: Enlarges the advancements info UI, as well as showing which requirements you have and have not met.
 - name: Ambient Environment
-  link: https://www.curseforge.com/minecraft/mc-mods/ambient-environment
+  link: https://modrinth.com/mod/ambient-environment
   category: Cosmetic
-  author: Jaredlll08
+  author: jaredlll08
   description: Adds ambient colour noise to the biome colours of the game, helping the world seem more varied and alive.
 - name: AppleSkin
-  link: https://www.curseforge.com/minecraft/mc-mods/appleskin
+  link: https://modrinth.com/mod/appleskin
   category: UI
   author: squeek502
   description: Adds food value information to tooltips, shows saturation, and visualises the restoration of held food.
 - name: Better Mount HUD
-  link: https://www.curseforge.com/minecraft/mc-mods/better-mount-hud
+  link: https://modrinth.com/mod/better-mount-hud
   category: UI
-  author: Lortseam_
+  author: Lortseam
   description: Displays both your hunger and the health of your mount at the same time, as well as hiding the jump bar until actually jumping.
-- name: Bobby
-  link: https://www.curseforge.com/minecraft/mc-mods/bobby
+- name: Cave Dust
+  link: https://modrinth.com/mod/cave-dust
   category: Cosmetic
-  author: Johni0702
-  description: Allows for render distances greater than the server's view-distance setting.
-- name: Capes
-  link: https://www.curseforge.com/minecraft/mc-mods/capes
-  category: Cosmetic
-  author: VictorKohler
-  description: Displays custom capes from various other Minecraft mods.
+  author: LizIsTired
+  description: Adds the white ash particle from Basalt Deltas to the underground to simulate dust.
 - name: Client Tweaks
-  link: https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric
+  link: https://modrinth.com/mod/client-tweaks
   category: Gameplay
   author: BlayTheNinth
   description: Adds many configurable tweaks to improve the quality of life of gameplay.
-- name: Continuity
-  link: https://www.curseforge.com/minecraft/mc-mods/continuity
-  category: Cosmetic
-  author: Pepper_Bell
-  description: Allows for resource packs to connect textures between neighbouring blocks.
-- name: Custom Entity Models
-  link: https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem
-  category: Cosmetic
-  author: dorianpb
-  description: Allows resource packs to change the models of entities.
 - name: Enhanced Block Entities
-  link: https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities
+  link: https://modrinth.com/mod/ebe
   category: Cosmetic
   author: FoundationGames
   description: Improves the performance and visuals of block entities.
 - name: Entity Culling
-  link: https://www.curseforge.com/minecraft/mc-mods/entityculling
+  link: https://modrinth.com/mod/entityculling
   category: Performance
   author: tr7zw
   description: Skips rendering entities that are not visible.
 - name: Fabrishot
-  link: https://www.curseforge.com/minecraft/mc-mods/fabrishot
+  link: https://modrinth.com/mod/fabrishot
   category: Miscellaneous
   author: ramidzkh
   description: Takes screenshots at a higher resolution than you play at.
 - name: FerriteCore
-  link: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
+  link: https://modrinth.com/mod/ferrite-core
   category: Performance
   author: malte0811
   description: Reduces the memory usage of the game in a few different ways.
-- name: Iris
-  link: https://www.curseforge.com/minecraft/mc-mods/irisshaders
+- name: Iris Shaders
+  link: https://modrinth.com/mod/iris
   category: Shaders
   author: coderbot
   description: An open-source shaders mod compatible with OptiFine shaderpacks.
 - name: Lithium
-  link: https://www.curseforge.com/minecraft/mc-mods/lithium
+  link: https://modrinth.com/mod/lithium
   category: Performance
-  author: jellysquid3_
+  author: jellysquid3
   description: General-purpose optimisation mod.
 - name: MiniHUD
-  link: https://www.curseforge.com/minecraft/mc-mods/minihud
+  link: https://modrinth.com/mod/minihud
   category: UI
-  author: masady
+  author: masa
   description: A custom debug menu.
 - name: Mod Menu
-  link: https://www.curseforge.com/minecraft/mc-mods/modmenu
+  link: https://modrinth.com/mod/modmenu
   category: Miscellaneous
   author: Prospector
   description: A screen for viewing and customising installed mods.
 - name: Mouse Tweaks
-  link: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+  link: https://modrinth.com/mod/mouse-tweaks
   category: Gameplay
   author: YaLTeR
   description: Replaces and adds new dragging mechanics to the inventory.
+- name: Noisium
+  link: https://modrinth.com/mod/noisium
+  category: Performance
+  author: Steveplays
+  description: Optimises worldgen performance.
+- name: OrthoCamera
+  link: https://modrinth.com/mod/orthocamera
+  category: Miscellaneous
+  author: DimasKama
+  description: Adds a toggleable and configurable orthographic view mode.
 - name: Partical Rain
-  link: https://www.curseforge.com/minecraft/mc-mods/particle-rain
+  link: https://modrinth.com/mod/particle-rain
   category: Cosmetic
   author: PigCart
   description: Replaces the default rain with some particle effects, and adds sandstorms to deserts and mesas.
 - name: Replay Mod
-  link: https://www.replaymod.com/
+  link: https://www.replaymod.com
   category: Miscellaneous
   author: CrushedPixel
   description: Record, relive, and share your gameplay.
+- name: Simple Voice Chat
+  link: https://modrinth.com/plugin/simple-voice-chat
+  category: Gameplay
+  author: henkelmax
+  description: Adds proximity voice chat to servers.
 - name: Sodium
-  link: https://www.curseforge.com/minecraft/mc-mods/sodium
+  link: https://modrinth.com/mod/sodium
   category: Performance
-  author: jellysquid3_
+  author: jellysquid3
   description: Improves framerates and reduces micro-stutters.
 - name: Tweakeroo
-  link: https://www.curseforge.com/minecraft/mc-mods/tweakeroo
+  link: https://modrinth.com/mod/tweakeroo
   category: Gameplay
-  author: masady
+  author: masa
   description: Adds many small tweaks to gameplay.
 - name: Xaero's World Map
-  link: https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+  link: https://modrinth.com/mod/xaeros-world-map
   category: Gameplay
-  author: xaero96
+  author: thexaero
   description: Adds a self-writing fullscreen map.

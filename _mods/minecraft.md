@@ -15,6 +15,17 @@ updated: 2024-02-21
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>23 Dec 2024</dt>
+        <dd>- Updated CurseForge links to Modrinth.</dd>
+        <dd>- Added Cave Dust.</dd>
+        <dd>- Added Distant Horizons.</dd>
+        <dd>- Added Noisium.</dd>
+        <dd>- Added OrthoCamera.</dd>
+        <dd>- Removed Advancement Info.</dd>
+        <dd>- Removed Bobby.</dd>
+        <dd>- Removed Capes.</dd>
+        <dd>- Removed Continuity.</dd>
+        <dd>- Removed Custom Entity Models.</dd>
     <dt>21 Feb 2024</dt>
         <dd>- Removed Starlight.</dd>
     <dt>21 Jan 2024</dt>
@@ -28,7 +39,7 @@ updated: 2024-02-21
 
 I manage my mods and resource packs manually. It's fairly simple to do, so I never sought a reason to move to a mod manager for Minecraft.
 
-Remember to not just blindly copy somebody else's mod list. Make sure each mod is one that you really want! Because of this, my installed dependencies are not listed.
+Remember to not just blindly copy somebody else's mod list. Make sure each mod is one that you really want! Because of this, my installed dependencies are not listed. Ensure all mods are updated for the Minecraft version you are using.
 
 Mods marked with a ♥ heart are my top 6 favourites.
 
