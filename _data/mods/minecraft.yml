@@ -124,6 +124,11 @@
   category: Miscellaneous
   author: CrushedPixel
   description: Record, relive, and share your gameplay.
+- name: Simple Durability
+  link: https://modrinth.com/mod/xdgrlnw_simple_durability
+  category: UI
+  author: xdgrinw
+  description: Adds item durability to tooltips without having to enable advanced item tooltips.
 - name: Simple Voice Chat
   link: https://modrinth.com/plugin/simple-voice-chat
   category: Gameplay
