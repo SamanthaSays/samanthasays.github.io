@@ -4,7 +4,10 @@
         <meta name="viewport" charset="utf-8" content="width=device-width, initial-scale=1.0">
         {% feed_meta %}
         {% seo %}
-        <link rel="icon" href="/assets/images/Apples icon.png" type="image/x-icon">
+        {% if page.section == "gallery" %}
+        <meta name="twitter:card" content="summary_large_image">
+        {% endif %}
+        <link rel="icon" href="/assets/images/Website Icon.png" type="image/x-icon">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/styles.css">
         <script src="/assets/js/theme.js"></script>

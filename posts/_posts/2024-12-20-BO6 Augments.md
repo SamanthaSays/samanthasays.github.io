@@ -4,7 +4,7 @@ title: My Augments - Black Ops 6
 section: posts
 permalink: /posts/bo6_augments
 description: All of the Major and Minor Augments that Samantha Says uses in Call of Duty&#58; Black Ops 6 Zombies
-image: /assets/images/Apples icon.png
+image: /assets/images/Website Icon.png
 tag: Black Ops 6
 updated:
 ---

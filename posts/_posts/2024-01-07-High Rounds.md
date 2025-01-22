@@ -4,7 +4,7 @@ title: High Rounds
 section: posts
 permalink: /posts/high rounds
 description: The high rounds leaderboard of Samantha Says, across all Treyarch Call of Duty titles and other games.
-image: /assets/images/Apples icon.png
+image: /assets/images/Website Icon.png
 tag: COD Zombies
 updated: 17 Sep 2024
 ---

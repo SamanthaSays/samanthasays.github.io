@@ -12,13 +12,13 @@ author: SamanthaSaysTV
 locale: en_GB
 twitter:
   username: SamanthaSaysTV
-  card: summary_large_image
+  card: summary
 social:
   name: Samantha Says
 links:
   - https://samanthasays.net
-  - https://twitch.tv/SamanthaSays
-  - https://twitter.com/SamanthaSaysTV
+  - https://shop.samanthasays.net
+  - https://twitch.samanthasays.net
 
 feed:
   posts_limit: 10

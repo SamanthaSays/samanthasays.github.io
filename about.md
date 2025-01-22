@@ -3,7 +3,7 @@ layout: default
 title: About
 section: about
 description: Everything you need to know about Samantha Says and her website.
-image: /assets/images/Apples icon.png
+image: /assets/images/Website Icon.png
 ---
 
 <h1>Samantha Says</h1>
