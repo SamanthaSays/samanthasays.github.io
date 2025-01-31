@@ -6,7 +6,7 @@ image: /assets/images/games/MC-cover.webp
 game: Minecraft
 description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually. My top 6 are marked with a heart.
 tag: Modlist
-updated: 2025-01-09
+updated: 2025-01-31
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,11 @@ updated: 2025-01-09
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>31 January 2025</dt>
+        <dd>- Added Chat Heads.</dd>
+        <dd>- Added Immediately Fast.</dd>
+        <dd>- Added More Culling.</dd>
+        <dd>- Removed Entity Culling.</dd>
     <dt>09 January 2025</dt>
         <dd>- Added Simple Durability.</dd>
     <dt>23 Dec 2024</dt>

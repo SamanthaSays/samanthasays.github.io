@@ -54,6 +54,11 @@
   category: Cosmetic
   author: LizIsTired
   description: Adds the white ash particle from Basalt Deltas to the underground to simulate dust.
+- name: Chat Heads
+  link: https://modrinth.com/mod/chat-heads
+  category: UI
+  author: dzwdz
+  description: Adds player heads next to chat messages.
 - name: Client Tweaks
   link: https://modrinth.com/mod/client-tweaks
   category: Gameplay
@@ -64,11 +69,6 @@
   category: Cosmetic
   author: FoundationGames
   description: Improves the performance and visuals of block entities.
-- name: Entity Culling
-  link: https://modrinth.com/mod/entityculling
-  category: Performance
-  author: tr7zw
-  description: Skips rendering entities that are not visible.
 - name: Fabrishot
   link: https://modrinth.com/mod/fabrishot
   category: Miscellaneous
@@ -79,6 +79,11 @@
   category: Performance
   author: malte0811
   description: Reduces the memory usage of the game in a few different ways.
+- name: Immediately Fast
+  link: https://modrinth.com/mod/immediatelyfast
+  category: Performance
+  author: RaphiMC
+  description: Optimises immediate mode rendering by batches draw calls.
 - name: Iris Shaders
   link: https://modrinth.com/mod/iris
   category: Shaders
@@ -99,6 +104,11 @@
   category: Miscellaneous
   author: Prospector
   description: A screen for viewing and customising installed mods.
+- name: More Culling
+  link: https://modrinth.com/mod/moreculling
+  category: Performance
+  author: FX
+  description: Changes how multiple types of culling are handled to improve performance.
 - name: Mouse Tweaks
   link: https://modrinth.com/mod/mouse-tweaks
   category: Gameplay
