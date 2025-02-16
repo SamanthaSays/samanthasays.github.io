@@ -38,6 +38,9 @@ tag: ESO Character
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>16 Feb 2025</dt>
+        <dd>- Added new Tomebound Fashion.</dd>
+        <dd>- Updated Scholarly Persuit customised actions.</dd>
     <dt>13 Aug 2023</dt>
         <dd>- Added Druidstone Mine to Scholarly Persuit.</dd>
         <dd>- Changed Grovetender's Sweep to Gyrfalcon Gather for Scholarly Persuit.</dd>
@@ -53,6 +56,7 @@ tag: ESO Character
     </ul>
     <li>Fashion</li>
     <ul>
+        <li><a href="#tomebound">Tomebound</a></li>
         <li><a href="#scholarly persuit">Scholarly Persuit</a></li>
     </ul>
 </ul>
@@ -70,7 +74,191 @@ In The Elder Scrolls Online, she appears as a Magicka Arcanist and uses Apocryph
 </div>
 
 <h2 class="fashion" id="fashion">Fashion</h2>
-<h3 id="scholarly persuit">Scholarly Persuit</h3>
+<h3 id="tomebound">Tomebound</h3>
+<div class="fashionContainer">
+    <div class="fashionContainer">
+        <div class="fashionOutfit">
+            <div class="fashionStyle">
+                <p><img src="/assets/images/icons/eso/armour/reawakened hierophant hat.webp" alt="Reawakened Hierophant Hat"><br>
+                Reawakened Hierophant Hat</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #59590F" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Arc Master Moss</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #554454" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Indomitable Violet</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #99774b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Hlaalu Gold</p>
+            </div>
+            <div class="fashionStyle">
+                <p><img src="/assets/images/icons/eso/armour/reawakened hierophant epaulets.webp" alt="Reawakened Hierophant Epaulets"><br>
+                Reawakened Hierophant Epaulets</p>
+            </div>
+            <div class="fashionDye">
+                <p></p>
+            </div>
+            <div class="fashionDye">
+                <p></p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #99774b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Hlaalu Gold</p>
+            </div>
+            <div class="fashionStyle">
+                <p><img src="/assets/images/icons/eso/armour/scribes of mora jerkin.webp" alt="Scribes of Mora Jerkin"><br>
+                Scribes of Mora Jerkin</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #59590F" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Arc Master Moss</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #554454" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Indomitable Violet</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #99774b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Hlaalu Gold</p>
+            </div>
+            <div class="fashionStyle">
+                <p><img src="/assets/images/icons/eso/armour/scribes of mora gloves.webp" alt="Scribes of Mora Gloves"><br>
+                Scribes of Mora Gloves</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #59590F" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Arc Master Moss</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #554454" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Indomitable Violet</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #99774b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Hlaalu Gold</p>
+            </div>
+            <div class="fashionStyle">
+                <p><img src="/assets/images/icons/eso/armour/jester's seeker suit sash.webp" alt="Jester's Seeker Suit Sash"><br>
+                Jester's Seeker Suit Sash</p>
+            </div>
+            <div class="fashionDye">
+                <p></p>
+            </div>
+            <div class="fashionDye">
+                <p></p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #99774b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Hlaalu Gold</p>
+            </div>
+            <div class="fashionStyle">
+                <p><img src="/assets/images/icons/eso/armour/crested viper greaves.webp" alt="Crested Viper Greaves"><br>
+                Crested Viper Greaves</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #59590F" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Arc Master Moss</p>
+            </div>
+            <div class="fashionDye">
+                <p></p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #554454" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Indomitable Violet</p>
+            </div>
+            <div class="fashionStyle">
+                <p><img src="/assets/images/icons/eso/armour/apocrypha expedition boots.webp" alt="Apocrypha Expedition Boots"><br>
+                Apocrypha Expedition Boots</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #554454" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Indomitable Violet</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #59590F" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Arc Master Moss</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #99774b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Hlaalu Gold</p>
+            </div>
+            <div class="fashionStyle">
+                <p><img src="/assets/images/icons/eso/weapons/troll king staff.webp" alt="Troll King Staff"><br>
+               Troll King Staff</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #59590F" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Arc Master Moss</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #99774b" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Hlaalu Gold</p>
+            </div>
+            <div class="fashionDye">
+                <p><img style="background-color: #554454" src="/assets/images/icons/eso/dye.webp" alt="Dye"><br>
+                Indomitable Violet</p>
+            </div>
+        </div>
+    </div>
+    <div class="fashionContainer">
+        <div class="fashionCollectibles">
+            <div class="fashionCollectible" style="width: 50%">
+                <p><img src="/assets/images/icons/eso/collectibles/the tousled bard.webp" alt="The Tousled Bard"><br>
+                <span style="font-weight: bold">The Tousled Bard</span><br>
+                Hair Style</p>
+            </div>
+            <div class="fashionCollectible" style="width: 50%">
+                <p><img src="/assets/images/icons/eso/collectibles/knower's eye hairpin.webp" alt="Knower's Eye Hairpin"><br>
+                <span style="font-weight: bold">Knower's Eye Hairpin</span><br>
+                Major Adornment</p>
+            </div>
+            <div class="fashionCollectible" style="width: 100%; clear: both">
+                <p><img src="/assets/images/icons/eso/collectibles/scholar.webp" alt="Scholar"><br>
+                <span style="font-weight: bold">Scholar</span><br>
+                Personality</p>
+            </div>
+            <div class="fashionCollectible" style="width: 50%; clear: both">
+                <p><img src="/assets/images/icons/eso/collectibles/maligraphic mount.webp" alt="Maligraphic Mount"><br>
+                <span style="font-weight: bold">Maligraphic Mount</span><br>
+                Mount</p>
+            </div>
+            <div class="fashionCollectible" style="width: 50%">
+                <p><img src="/assets/images/icons/eso/collectibles/abyssal tomeshell.webp" alt="Abyssal Tomeshell"><br>
+                    <span style="font-weight: bold">Abyssal Tomeshell</span><br>
+                Non-Combat Pet</p>
+            </div>
+            <div class="fashionCollectible" style="width: 33%; clear: both">
+                <p><img src="/assets/images/icons/eso/collectibles/bound pickaxe strike.webp" alt="Bound Pickaxe Strike"><br>
+                <span style="font-weight: bold">Bound Pickaxe Strike</span><br>
+                Mining</p>
+            </div>
+            <div class="fashionCollectible" style="width: 33%">
+                <p><img src="/assets/images/icons/eso/collectibles/grovetender's sweep.webp" alt="Grovetender's Sweep"><br>
+                <span style="font-weight: bold">Grovetender's Sweep</span><br>
+                Plant Collecting</p>
+            </div>
+            <div class="fashionCollectible" style="width: 33%">
+                <p><img src="/assets/images/icons/eso/collectibles/accursed recall.webp" alt="Accursed Recall"><br>
+                <span style="font-weight: bold">Accursed Recall</span><br>
+                Recalling</p>
+            </div>
+            <div class="fashionCollectible" style="width: 50%; clear: both">
+                <p><img src="/assets/images/icons/eso/collectibles/reach witch removal.webp" alt="Reach Witch Removal"><br>
+                <span style="font-weight: bold">Reach Witch Removal</span><br>
+                Rune Collecting</p>
+            </div>
+            <div class="fashionCollectible" style="width: 50%">
+                <p><img src="/assets/images/icons/eso/collectibles/dwarven sphere chop.webp" alt="Dwarven Sphere Chop"><br>
+                <span style="font-weight: bold">Dwarven Sphere Chop</span><br>
+                Wood Cutting</p>
+            </div>
+        </div>
+    </div>
+</div>
+<h3 style="clear: both" id="scholarly persuit">Scholarly Persuit</h3>
 <div class="fashionContainer">
     <div class="fashionContainer">
         <div class="fashionOutfit">
@@ -208,18 +396,18 @@ In The Elder Scrolls Online, she appears as a Magicka Arcanist and uses Apocryph
                 Non-Combat Pet</p>
             </div>
             <div class="fashionCollectible" style="width: 33%; clear: both">
-                <p><img src="/assets/images/icons/eso/collectibles/druidstone mine.webp" alt="Druidstone Mine"><br>
-                <span style="font-weight: bold">Druidstone Mine</span><br>
+                <p><img src="/assets/images/icons/eso/collectibles/bound pickaxe strike.webp" alt="Bound Pickaxe Strike"><br>
+                <span style="font-weight: bold">Bound Pickaxe Strike</span><br>
                 Mining</p>
             </div>
             <div class="fashionCollectible" style="width: 33%">
-                <p><img src="/assets/images/icons/eso/collectibles/gyrfalcon gather.webp" alt="Gyrfalcon Gather"><br>
-                <span style="font-weight: bold">Gyrfalcon Gather</span><br>
+                <p><img src="/assets/images/icons/eso/collectibles/grovetender's sweep.webp" alt="Grovetender's Sweep"><br>
+                <span style="font-weight: bold">Grovetender's Sweep</span><br>
                 Plant Collecting</p>
             </div>
             <div class="fashionCollectible" style="width: 33%">
-                <p><img src="/assets/images/icons/eso/collectibles/legionnaire's recall.webp" alt="Legionnaire's Recall"><br>
-                <span style="font-weight: bold">Legionnaire's Recall</span><br>
+                <p><img src="/assets/images/icons/eso/collectibles/accursed recall.webp" alt="Accursed Recall"><br>
+                <span style="font-weight: bold">Accursed Recall</span><br>
                 Recalling</p>
             </div>
             <div class="fashionCollectible" style="width: 50%; clear: both">
@@ -228,8 +416,8 @@ In The Elder Scrolls Online, she appears as a Magicka Arcanist and uses Apocryph
                 Rune Collecting</p>
             </div>
             <div class="fashionCollectible" style="width: 50%">
-                <p><img src="/assets/images/icons/eso/collectibles/stonelore split.webp" alt="Stonelore Split"><br>
-                <span style="font-weight: bold">Stonelore Split</span><br>
+                <p><img src="/assets/images/icons/eso/collectibles/dwarven sphere chop.webp" alt="Dwarven Sphere Chop"><br>
+                <span style="font-weight: bold">Dwarven Sphere Chop</span><br>
                 Wood Cutting</p>
             </div>
         </div>
