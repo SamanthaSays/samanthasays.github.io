@@ -215,6 +215,16 @@ In The Elder Scrolls Online, she appears as a Magicka Arcanist and uses Apocryph
                 <span style="font-weight: bold">Knower's Eye Hairpin</span><br>
                 Major Adornment</p>
             </div>
+            <div class="fashionCollectible" style="width: 50%; clear: both">
+                <p><img src="/assets/images/icons/eso/collectibles/apocrypha corrupted eye.webp" alt="Apocrypha Corrupted Eye"><br>
+                <span style="font-weight: bold">Apocrypha Corrupted Eye</span><br>
+                Head Marking</p>
+            </div>
+            <div class="fashionCollectible" style="width: 50%;">
+                <p><img src="/assets/images/icons/eso/collectibles/dark emphasis eyelashes.webp" alt="Dark Emphasis Eyelashes"><br>
+                <span style="font-weight: bold">Dark Emphasis Eyelashes</span><br>
+                Facial Hair</p>
+            </div>
             <div class="fashionCollectible" style="width: 100%; clear: both">
                 <p><img src="/assets/images/icons/eso/collectibles/scholar.webp" alt="Scholar"><br>
                 <span style="font-weight: bold">Scholar</span><br>
