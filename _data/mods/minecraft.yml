@@ -6,13 +6,13 @@
   choice: Yes
 - name: Distant Horizons
   link: https://modrinth.com/mod/distanthorizons
-  category: Cosmetic
+  category: Visuals
   author: jeseibel
   description: Adds simplified LODs to extend Minecraft's render distance.
   choice: Yes
 - name: Falling Leaves
   link: https://modrinth.com/mod/fallingleaves
-  category: Cosmetic
+  category: Visuals
   author: randommcsomethin
   description: Adds particle effects to leaf blocks.
   choice: Yes
@@ -30,13 +30,18 @@
   choice: Yes
 - name: Sound Physics Remastered
   link: https://modrinth.com/mod/sound-physics-remastered
-  category: Cosmetic
+  category: Audio
   author: henkelmax
   description: Provides realistic sound attenuation, reverberation, and absorption through blocks.
   choice: Yes
+- name: 3D Skin Layers
+  link: https://modrinth.com/mod/3dskinlayers
+  category: Visuals
+  author: tr7zw
+  description: Replaces the flat second layer of player skins with a 3D modeled version.
 - name: Ambient Environment
   link: https://modrinth.com/mod/ambient-environment
-  category: Cosmetic
+  category: Visuals
   author: jaredlll08
   description: Adds ambient colour noise to the biome colours of the game, helping the world seem more varied and alive.
 - name: AppleSkin
@@ -51,7 +56,7 @@
   description: Displays both your hunger and the health of your mount at the same time, as well as hiding the jump bar until actually jumping.
 - name: Cave Dust
   link: https://modrinth.com/mod/cave-dust
-  category: Cosmetic
+  category: Visuals
   author: LizIsTired
   description: Adds the white ash particle from Basalt Deltas to the underground to simulate dust.
 - name: Chat Heads
@@ -66,7 +71,7 @@
   description: Adds many configurable tweaks to improve the quality of life of gameplay.
 - name: Enhanced Block Entities
   link: https://modrinth.com/mod/ebe
-  category: Cosmetic
+  category: Visuals
   author: FoundationGames
   description: Improves the performance and visuals of block entities.
 - name: Fabrishot
@@ -114,11 +119,21 @@
   category: Gameplay
   author: YaLTeR
   description: Replaces and adds new dragging mechanics to the inventory.
+- name: Music Delay Reducer
+  link: https://modrinth.com/mod/music-delay-reducer
+  category: Audio
+  author: Kyronis
+  description: Lets Minecraft's music play more often.
 - name: Noisium
   link: https://modrinth.com/mod/noisium
   category: Performance
   author: Steveplays
   description: Optimises worldgen performance.
+- name: Not Enough Animations
+  link: https://modrinth.com/mod/not-enough-animations
+  category: Visuals
+  author: tr7zw
+  description: Adds and modifies third-person animations to be better representative of how they should look.
 - name: OrthoCamera
   link: https://modrinth.com/mod/orthocamera
   category: Miscellaneous
@@ -126,7 +141,7 @@
   description: Adds a toggleable and configurable orthographic view mode.
 - name: Partical Rain
   link: https://modrinth.com/mod/particle-rain
-  category: Cosmetic
+  category: Visuals
   author: PigCart
   description: Replaces the default rain with some particle effects, and adds sandstorms to deserts and mesas.
 - name: Replay Mod

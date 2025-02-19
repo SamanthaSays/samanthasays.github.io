@@ -15,6 +15,11 @@ updated: 2025-01-31
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>19 February 2025</dt>
+        <dd>- Added 3D Skin Layers.</dd>
+        <dd>- Added Music Delay Reducer.</dd>
+        <dd>- Added Not Enough Animations.</dd>
+        <dd>- Split Cosmetic category into Audio and Visual.</dd>
     <dt>31 January 2025</dt>
         <dd>- Added Chat Heads.</dd>
         <dd>- Added Immediately Fast.</dd>
