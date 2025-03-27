@@ -13,7 +13,9 @@ If you want to give some anonymous feedback, no matter how personal, I'd love to
 
 To receive a response, you can instead <a href="https://contact.samanthasays.net" title="Contact form" target="_blank">contact me</a>.
 
-<form target="_blank" action="https://formsubmit.co/3712689c8302d97f66903b11e649b828" method="POST">
+<form action="https://formsubmit.co/3712689c8302d97f66903b11e649b828" method="POST">
     <textarea class="form-input form-paragraph" placeholder="Your feedback" name="feedback" rows="10" required></textarea>
     <button class="form-button" type="submit">Submit feedback</button>
+    <input type="hidden" name="_next" value="https://samanthasays.net/received">
+    <input type="hidden" name="_template" value="box">
 </form>

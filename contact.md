@@ -11,7 +11,7 @@ Send me an email about anything through this form! If you don't want to include 
 
 You can also message me on <a href="http://twitter.samanthasays.net" title="Samantha Says' Twitter" target="_blank">Twitter</a> or through Discord (samanthasays).
 
-<form target="_blank" action="https://formsubmit.co/3712689c8302d97f66903b11e649b828" method="POST">
+<form action="https://formsubmit.co/3712689c8302d97f66903b11e649b828" method="POST">
     <div class="form-row">
         <div class="form-col">
             <p>Name:</p>
@@ -24,4 +24,6 @@ You can also message me on <a href="http://twitter.samanthasays.net" title="Sama
     </div>
     <textarea class="form-input form-paragraph" placeholder="Your message" name="feedback" rows="10" required></textarea>
     <button class="form-button" type="submit">Submit message</button>
+    <input type="hidden" name="_next" value="https://samanthasays.net/received">
+    <input type="hidden" name="_template" value="box">
 </form>
