@@ -1,7 +1,7 @@
 {% for item in site.data.links %}
     <div class="links">
         {{ item.name }}
-        <a href="{{ item.link }}" title="{{ item.name }}" target="_blank">
+        <a href="{{ item.link }}" title="{{ item.name }}" {% if item.tab != false %} target="_blank" {% endif %}>
             <span class="linksLink">
             </span>
         </a>

@@ -16,3 +16,9 @@
   link: http://twitter.samanthasays.net
 - name: Steam
   link: https://steam.samanthasays.net
+- name: Contact
+  link: https://contact.samanthasays.net
+  tab: false
+- name: Anonymous Feedback
+  link: https://feedback.samanthasays.net
+  tab: false

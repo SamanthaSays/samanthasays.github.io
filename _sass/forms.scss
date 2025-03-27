@@ -1,0 +1,58 @@
+.form-input {
+    font-family: "univers";
+    font-size: 1rem;
+    padding: .375rem .75rem;
+}
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.form-col {
+    padding-left: 5px;
+    padding-right: 5px;
+    flex-grow: 1;
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+
+.form-col p {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+.form-detail {
+    width: 100%;
+}
+
+.form-paragraph {
+    width: 100%;
+    resize: vertical;
+    min-height: 2.1rem;
+}
+
+.form-button {
+    width: 50%;
+    background: var(--navigation);
+    color: var(--textInverse);
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 1rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    cursor: pointer;
+    font-family: "eurostile";
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: none;
+}
+
+.form-button:hover {
+    background: var(--aside);
+    color: var(--textMain);
+}
