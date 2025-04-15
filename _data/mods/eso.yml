@@ -1,9 +1,3 @@
-- name: Accurate World Map
-  link: https://www.esoui.com/downloads/info3377-AccurateWorldMap.html
-  category: Map, Coords, Compasses
-  author: Thal-j
-  description: Totally recreates ESO's world map. It remasters it in 8k as well as fixes various lore issues, improving the map's overall quality.
-  choice: Yes
 - name: Character Knowledge (Motif, Recipe and Furnishing Plan Tracker)
   link: https://www.esoui.com/downloads/info2938-CharacterKnowledgeMotifRecipeandFurnishingPlanTracker.html
   category: Character Advancement
@@ -16,7 +10,7 @@
   author: sirinsidiator
   description: Right click a zone in the location tab of the map screen to automatically search for a player to jump to.
   choice: Yes
-- name: Event Collectibles
+- name: Collectibles Tracker
   link: https://www.esoui.com/downloads/info2588-EventCollectibles.html
   category: Data Mods
   author: code65536
@@ -103,6 +97,11 @@
   category: TradeSkill Mods
   author: Rhyono
   description: Tracks known traits, custom enchanting and provisioning UI, and more.
+- name: Crystal Fragments Proc
+  link: https://www.esoui.com/downloads/info2441-CrystalFragmentsProc.html
+  category: Combat Mods
+  author: Supplier
+  description: Adds an alert icon when Crystal Fragments proc has been triggered.
 - name: Discord Status
   link: https://www.esoui.com/downloads/info2054-DiscordStatus.html
   category: Miscellaneous
@@ -113,11 +112,6 @@
   category: TradeSkill Mods
   author: Dolgubon
   description: Fully automatic writ crafting, reward looting, and more.
-- name: Dungeon Timer
-  link: https://www.esoui.com/downloads/info2262-DungeonTimer.html
-  category: Info, Plug-in Bars
-  author: code65546
-  description: Keeps track of the time elapsed in veteran-mode group dungeons.
 - name: Dungeon Tracker
   link: https://www.esoui.com/downloads/info1552-DungeonTracker.html
   category: Map, Coords, Compasses
@@ -208,11 +202,6 @@
   category: PvP
   author: dorrino
   description: A plethora of useful features to display various PvP-related information in a convenient way.
-- name: Monster Set Shoulder Collector
-  link: https://www.esoui.com/downloads/info2860-MonsterSetShoulderCollector.html
-  category: Data Mods
-  author: Thepinja
-  description: Adds several chat commands to display the odds of unlocking a new shoulder piece.
 - name: pChat
   link: https://www.esoui.com/downloads/info93-pChatChatcustomizationhelplooknotificationsoundautomationhistory.html
   category: Chat Mods
@@ -238,6 +227,11 @@
   category: Map, Coords, Compasses
   author: CaptainBlagbird
   description: Adds pins for completed and uncompleted quest to the map.
+- name: Raidificator
+  link: https://www.esoui.com/downloads/info1101-RaidificatorDungeonTrialandArenaTracker.html
+  category: Raid Mods
+  author: code65536
+  description: Tracks the time, score, lives, and progress in dungeons, trials, and arenas.
 - name: RaidNotifier Updated
   link: https://www.esoui.com/downloads/info1355-RaidNotifierUpdated.html
   category: Raid Mods

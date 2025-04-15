@@ -6,7 +6,7 @@ image: /assets/images/games/ESO-cover.webp
 game: The Elder Scrolls Online
 description: The ESO mods used by Samantha Says. All add-ons are installed and managed through Minion 3. My top 10 are marked with a heart.
 tag: Modlist
-updated: 2024-04-26
+updated: 2025-04-15
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,13 @@ updated: 2024-04-26
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>15 Apr 2025</dt>
+        <dd>- Added Crystal Fragments Proc.</dd>
+        <dd>- Added Raidificator.</dd>
+        <dd>- Removed Accurate World Map.</dd>
+        <dd>- Removed Dungeon Timer.</dd>
+        <dd>- Removed Monster Set Shoulder Collector.</dd>
+        <dd>- Renamed Event Collectibles to Collectibles Tracker.</dd>
     <dt>26 Apr 2024</dt>
         <dd>- Removed Votan's Keybinder.</dd>
     <dt>11 Apr 2024</dt>
@@ -40,7 +47,7 @@ Additionally, I use 2 NVIDIA Overlay game filters. RTX Dynamic Vibrance at 10% i
 
 You can purchase The Elder Scrolls Online at <a target="_blank" href="https://greenmangaming.sjv.io/samanthasays-eso">Green Man Gaming</a> through my affiliate link.
 
-Add-ons marked with a ♥ heart are my top 10 favourites.
+Add-ons marked with a ♥ heart are my top 9 favourites.
 
 <table class="modlist">
     <thead>
