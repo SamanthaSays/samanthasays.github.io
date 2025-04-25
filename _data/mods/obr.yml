@@ -1,0 +1,25 @@
+- name: dlssg-to-fsr3
+  link: https://www.nexusmods.com/site/mods/738
+  category: Miscellaneous
+  author: Nukem
+  description: Replaces Nvidia DLSS frame gen with AMD FSR 3 frame gen.
+- name: FuzzUI - Interface Tweaks
+  link: https://www.nexusmods.com/oblivionremastered/mods/292
+  category: User Interface
+  author: Fuzzles
+  description: Tweaks various game menus for increased information density.
+- name: Items Have Weight
+  link: https://www.nexusmods.com/oblivionremastered/mods/594
+  category: Items
+  author: Samantha Says
+  description: Gives Lockpicks and Torches weight.
+- name: Optimized Tweaks OBLR
+  link: https://www.nexusmods.com/oblivionremastered/mods/79
+  category: Miscellaneous
+  author: VynnGfx
+  description: Optimises CPU and GPU efficiency, reduces latency, and improves streaming and memory management.
+- name: Remove Dialogue Spotlights
+  link: https://www.nexusmods.com/oblivionremastered/mods/599
+  category: Miscellaneous
+  author: Dayng
+  description: Removes the spotlight that illuminates an NPC's face during dialogue conversations.
