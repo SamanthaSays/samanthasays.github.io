@@ -6,10 +6,11 @@ image: /assets/images/games/Arena-cover.webp
 game: Arena
 description: The Arena mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 
+updated: 2024-8-16
 ---
 
 <h1>{{ page.title }}</h1>
+<p class="postDate">Updated: {{ page.updated | date_to_string }}</p>
 
 All mods are installed and managed through <a target="_blank" href="https://www.nexusmods.com/about/vortex">Vortex</a>.
 
