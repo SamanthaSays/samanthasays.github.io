@@ -12,6 +12,26 @@ updated: 2025-04-25
 <h1>{{ page.title }}</h1>
 <p class="postDate">Updated: {{ page.updated | date_to_string }}</p>
 
+<p class="changelog" onclick="changelog()">Changelog</p>
+
+<dl id="changelog" style="display: none">
+    <dt>26 April 2025</dt>
+        <dd>- Added Additional Map Markers.</dd>
+        <dd>- Added Ascension Remastered.</dd>
+        <dd>- Added Ascension Remastered - Slower Skill Leveling.</dd>
+        <dd>- Added Balanced NPC Level Cap.</dd>
+        <dd>- Added Balanced Unleveled Rewards.</dd>
+        <dd>- Added Better Inputs.</dd>
+        <dd>- Added Complete Clutter and Crop Ownership.</dd>
+        <dd>- Added Empty Starting Map.</dd>
+        <dd>- Added Hooded Outlaws.</dd>
+        <dd>- Added Less Ugly Black Infoboxes.</dd>
+        <dd>- Added No Creature Treasure Loot.</dd>
+        <dd>- Added No Sneak Vignette.</dd>
+    <dt>25 April 2025</dt>
+        <dd>- Created page.</dd>
+</dl>
+
 All mods are installed and managed through <a target="_blank" href="https://www.nexusmods.com/about/vortex">Vortex</a>.
 
 Remember to not just blindly copy somebody else's mod list. Make sure each mod is one that you really want!

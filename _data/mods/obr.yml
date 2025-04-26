@@ -1,18 +1,78 @@
+- name: Additional Map Markers
+  link: https://www.nexusmods.com/oblivionremastered/mods/479
+  category: Gameplay
+  author: Mixxa77
+  description: Adds map markers for all player homes, pilgrimage wayshrines, doomstones, runestones, ayleid wells, and the Shrine of Kynareth.
+- name: Ascension Remastered
+  link: https://www.nexusmods.com/oblivionremastered/mods/706
+  category: Gameplay
+  author: PushTheWinButton
+  description: A balance mod that covers loot, enemies, and skills.
+- name: Ascension Remastered - Slower Skill Leveling
+  link: https://www.nexusmods.com/oblivionremastered/mods/706
+  category: Gameplayer
+  author: PushTheWinButton
+  description: Minor Skills - 57% (Original Oblivion)<br>Decreases the skill levelling rate of minor skills to match the original game's pace.
+- name: Balanced NPC Level Cap
+  link: https://www.nexusmods.com/oblivionremastered/mods/182
+  category: Gameplay
+  author: PushTheWinButton
+  description: Adds consistent level caps to NPCs.
+- name: Balanced Unleveled Rewards
+  link: https://www.nexusmods.com/oblivionremastered/mods/157
+  category: Gameplay
+  author: PushTheWinButton
+  description: Removes level scaling from all leveled quest rewards and items, giving them balanced stats akin to TES V.
+- name: Better Inputs
+  link: https://www.nexusmods.com/oblivionremastered/mods/793
+  category: Miscellaneous
+  author: Glocklan
+  description: Changes several menus to allow F to select and A and D to navigate.
+- name: Complete Clutter and Crop Ownership
+  link: https://www.nexusmods.com/oblivionremastered/mods/804
+  category: Gameplay
+  author: PushTheWinButton
+  description: Adds ownership to all random clutter, containers, and crops in cities and settlements.
 - name: dlssg-to-fsr3
   link: https://www.nexusmods.com/site/mods/738
   category: Miscellaneous
   author: Nukem
   description: Replaces Nvidia DLSS frame gen with AMD FSR 3 frame gen.
+- name: Empty Starting Map
+  link: https://www.nexusmods.com/oblivionremastered/mods/847
+  category: User Interface
+  author: Samantha Says
+  description: Removes map markers at the start of the game so you can discover them for yourself.
 - name: FuzzUI - Interface Tweaks
   link: https://www.nexusmods.com/oblivionremastered/mods/292
   category: User Interface
   author: Fuzzles
   description: Tweaks various game menus for increased information density.
+- name: Hooded Outlaws
+  link: https://www.nexusmods.com/oblivionremastered/mods/268
+  category: Clothing
+  author: PushTheWinButton
+  description: Bandits, Highwaymen, Marauders, and Vampires have a chance to wear hoods.
 - name: Items Have Weight
   link: https://www.nexusmods.com/oblivionremastered/mods/594
   category: Items
   author: Samantha Says
-  description: Gives Lockpicks and Torches weight.
+  description: Gives lockpicks, torches, and wrist irons weight.
+- name: Less Ugly Black Infoboxes
+  link: https://www.nexusmods.com/oblivionremastered/mods/222
+  category: User Interface
+  author: Caites
+  description: Makes the black infoboxes translucent.
+- name: No Creature Treasure Loot
+  link: https://www.nexusmods.com/oblivionremastered/mods/211
+  category: Gameplay
+  author: IxionXVII
+  description: Removes treasure loot from all creatures.
+- name: No Sneak Vignette
+  link: https://www.nexusmods.com/oblivionremastered/mods/177
+  category: User Interface
+  author: Caites
+  description: Removes the dark vignette when sneaking.
 - name: Optimized Tweaks OBLR
   link: https://www.nexusmods.com/oblivionremastered/mods/79
   category: Miscellaneous
