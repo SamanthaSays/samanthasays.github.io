@@ -6,7 +6,7 @@ image: /assets/images/games/OBR-cover.webp
 game: Oblivion
 description: The Oblivion Remastered mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 2025-04-25
+updated: 2025-04-28
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,13 @@ updated: 2025-04-25
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>28 April 2025</dt>
+        <dd>- Added Local Map Toggle Key.</dd>
+        <dd>- Added No Ayleid Well Messagebox.</dd>
+        <dd>- Added No Objective Marker On Compass.</dd>
+        <dd>- Added No Text Compass for Better HUD.</dd>
+        <dd>- Added Remove Chromatic Aberration.</dd>
+        <dd>- Removed Better Inputs.</dd>
     <dt>26 April 2025</dt>
         <dd>- Added Additional Map Markers.</dd>
         <dd>- Added Ascension Remastered.</dd>

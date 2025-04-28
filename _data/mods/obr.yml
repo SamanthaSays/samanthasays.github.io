@@ -23,11 +23,6 @@
   category: Gameplay
   author: PushTheWinButton
   description: Removes level scaling from all leveled quest rewards and items, giving them balanced stats akin to TES V.
-- name: Better Inputs
-  link: https://www.nexusmods.com/oblivionremastered/mods/793
-  category: Miscellaneous
-  author: Glocklan
-  description: Changes several menus to allow F to select and A and D to navigate.
 - name: Complete Clutter and Crop Ownership
   link: https://www.nexusmods.com/oblivionremastered/mods/804
   category: Gameplay
@@ -63,21 +58,46 @@
   category: User Interface
   author: Caites
   description: Makes the black infoboxes translucent.
+- name: Local Map Toggle Key
+  link: https://www.nexusmods.com/oblivionremastered/mods/999
+  category: User Interface
+  author: animandan
+  description: Adds a key for toggling between the local and world maps.
+- name: No Ayleid Well Messagebox
+  link: https://www.nexusmods.com/oblivionremastered/mods/141
+  category: Miscellaneous
+  author: Sasquatch
+  description: Replaces the message box when interacting with Ayleid Wells with a corner notification.
 - name: No Creature Treasure Loot
   link: https://www.nexusmods.com/oblivionremastered/mods/211
   category: Gameplay
   author: IxionXVII
   description: Removes treasure loot from all creatures.
+- name: No Objective Marker On Compass
+  link: https://www.nexusmods.com/oblivionremastered/mods/877
+  category: User Interface
+  author: ThunderComputer
+  description: Removes the quest marker from the compass.
 - name: No Sneak Vignette
   link: https://www.nexusmods.com/oblivionremastered/mods/177
   category: User Interface
   author: Caites
   description: Removes the dark vignette when sneaking.
+- name: No Text Compass for Better HUD
+  link: https://www.nexusmods.com/oblivionremastered/mods/13
+  category: User Interface
+  author: Caites
+  description: Removes all text and distances from the compass.
 - name: Optimized Tweaks OBLR
   link: https://www.nexusmods.com/oblivionremastered/mods/79
   category: Miscellaneous
   author: VynnGfx
   description: Optimises CPU and GPU efficiency, reduces latency, and improves streaming and memory management.
+- name: Remove Chromatic Aberration
+  link: https://www.nexusmods.com/oblivionremastered/mods/483
+  category: Visual Presets
+  author: Gantz79
+  description: Disables chromatic aberration.
 - name: Remove Dialogue Spotlights
   link: https://www.nexusmods.com/oblivionremastered/mods/599
   category: Miscellaneous
