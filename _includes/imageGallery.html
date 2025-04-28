@@ -1,4 +1,9 @@
 <div class="gallery">
-<img style="max-width: 100%" src="{{ page.image }}"  alt="{{ page.title }}">
+<img id="mainImage" style="max-width: 100%" src="{{ page.image }}" alt="{{ page.title }}">
 </div>
 {% if page.gallery != "minecraft" %}<p style="text-align: center">{% if page.gallery != "samantha says" %}Purchase {% endif %}<a target="_blank" href="{{ page.link }}">{{ page.from }}</a></p>{% endif %}
+<div class="galleryModal" id="mainModal">
+    <span class="galleryModalClose">&times;</span>
+    <img class="galleryModalContent" id="mainImageModal">
+</div>
+<script src="/assets/js/galleryModal.js"></script>
