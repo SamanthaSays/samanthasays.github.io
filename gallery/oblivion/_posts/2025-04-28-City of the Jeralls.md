@@ -9,6 +9,6 @@ description: A screenshot of Bruma and Frostcrag Spire from The Elder Scrolls IV
 tag: Screenshot
 gallery: oblivion
 from: Oblivion
-link: http://greenmangaming.sjv.io/samanthasays-oblivion
+link: https://greenmangaming.sjv.io/samanthasays-oblivion
 ---
 {% include imageGallery.html %}
