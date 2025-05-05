@@ -5,7 +5,7 @@ section: gallery
 hidden: true
 permalink: /gallery/samantha says/10th anniversary
 image: /assets/images/gallery/samantha says/10th Anniversary - Drawbauchery.webp
-description: Celebrating 10 years of Twtich streaming with Samantha Says! Commissioned from Drawbauchery.
+description: Celebrating 10 years of Twitch streaming with Samantha Says! Commissioned from Drawbauchery.
 tag: Art
 gallery: samantha says
 from: Drawbauchery
