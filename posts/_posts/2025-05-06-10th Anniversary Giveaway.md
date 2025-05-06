@@ -3,7 +3,7 @@ layout: post
 title: 10th Anniversary Giveaway
 section: posts
 permalink: /posts/10y giveaway
-description: Celebrate 10 years of Samantha Says the chance to win a limited-time cotton shirt!
+description: Celebrate 10 years of Samantha Says with the chance to win a limited-time cotton shirt!
 image: /assets/images/gallery/samantha says/10th Anniversary - Drawbauchery.webp
 tag: Twitch Channel
 updated:
