@@ -10,7 +10,7 @@
   description: A balance mod that covers loot, enemies, and skills.
 - name: Ascension Remastered - Slower Skill Leveling
   link: https://www.nexusmods.com/oblivionremastered/mods/706
-  category: Gameplayer
+  category: Gameplaye
   author: PushTheWinButton
   description: Minor Skills - 57% (Original Oblivion)<br>Decreases the skill levelling rate of minor skills to match the original game's pace.
 - name: Balanced NPC Level Cap
@@ -23,21 +23,61 @@
   category: Gameplay
   author: PushTheWinButton
   description: Removes level scaling from all leveled quest rewards and items, giving them balanced stats akin to TES V.
+- name: Better Infoboxes (Transparent Background)
+  link: https://www.nexusmods.com/oblivionremastered/mods/222
+  category: User Interface
+  author: Caites
+  description: Replaces the obtrusive infoboxes with a transparent background.
+- name: Classic Difficulty
+  link: https://www.nexusmods.com/oblivionremastered/mods/2608
+  category: Gameplay
+  author: tails2356
+  description: Replaces the difficulty settings with a slider, like in the original Oblivion.
 - name: Complete Clutter and Crop Ownership
   link: https://www.nexusmods.com/oblivionremastered/mods/804
   category: Gameplay
   author: PushTheWinButton
   description: Adds ownership to all random clutter, containers, and crops in cities and settlements.
+- name: Delete Spells
+  link: https://www.nexusmods.com/oblivionremastered/mods/2440
+  category: Gameplay
+  author: xConfused
+  description: Allows you to shift click a spell to delete it.
+- name: DLC Loot
+  link: https://www.nexusmods.com/oblivionremastered/mods/2283
+  category: Gameplay
+  author: Samantha Says
+  description: Distributes DLC items through the game's leveled lists.
 - name: dlssg-to-fsr3
   link: https://www.nexusmods.com/site/mods/738
   category: Miscellaneous
   author: Nukem
   description: Replaces Nvidia DLSS frame gen with AMD FSR 3 frame gen.
+- name: Dynamic AI Behavior - Animals
+  link: https://www.nexusmods.com/oblivionremastered/mods/2228
+  category: Gameplay
+  author: OzenRSI
+  description: Overhauls the behaviour of both prey and predator animals, making them act more like their real-world counterparts.
 - name: Empty Starting Map
   link: https://www.nexusmods.com/oblivionremastered/mods/847
   category: User Interface
   author: Samantha Says
   description: Removes map markers at the start of the game so you can discover them for yourself.
+- name: Enhanced Light Radius
+  link: https://www.nexusmods.com/oblivionremastered/mods/1971
+  category: Visual Presets
+  author: Tewix
+  description: Increases the distance that static lights render.
+- name: Expanded Greetings Redux
+  link: https://www.nexusmods.com/oblivionremastered/mods/2692
+  category: Gameplay
+  author: Mandrasath
+  description: Increases the randomisation of skill-based NPC greetings, allowing NPCs to recognise a wider range of the player's talents.
+- name: Full Belly
+  link: https://www.nexusmods.com/oblivionremastered/mods/3006
+  category: Gameplay
+  author: Samantha Says
+  description: A simple survival mod that adds hunger, thirst, and exhaustion.
 - name: FuzzUI - Interface Tweaks
   link: https://www.nexusmods.com/oblivionremastered/mods/292
   category: User Interface
@@ -48,26 +88,46 @@
   category: Clothing
   author: PushTheWinButton
   description: Bandits, Highwaymen, Marauders, and Vampires have a chance to wear hoods.
+- name: Immersive Guards
+  link: https://www.nexusmods.com/oblivionremastered/mods/1976
+  category: NPCs
+  author: molerats
+  description: Diversifies guard armour sets and weapons based on each city's economy, industries, and climate, as well as a guard's personal station and rank.
+- name: Immersive Imperial Legion
+  link: https://www.nexusmods.com/oblivionremastered/mods/2439
+  category: NPCs
+  author: molerats
+  description: Various changes to weaponry, armour, and clothing of members of the Imperial Legion.
+- name: Imperial Bank
+  link: https://www.nexusmods.com/oblivionremastered/mods/2449
+  category: Gameplay
+  author: Cephalon Imp
+  description: Vinicia Melissaeia can now trade gold coins for bank notes.
 - name: Items Have Weight
   link: https://www.nexusmods.com/oblivionremastered/mods/594
   category: Items
   author: Samantha Says
-  description: Gives lockpicks, torches, and wrist irons weight.
-- name: Less Ugly Black Infoboxes
-  link: https://www.nexusmods.com/oblivionremastered/mods/222
+  description: Gives various weightless items, and optionally gold or keys, weight values.
+- name: Kwa Stacking Notifications
+  link: https://www.nexusmods.com/oblivionremastered/mods/2697
   category: User Interface
-  author: Caites
-  description: Makes the black infoboxes translucent.
+  author: PumpkinBites
+  description: Changes the game's notification system to support stacking multiple messages at once.
 - name: Local Map Toggle Key
   link: https://www.nexusmods.com/oblivionremastered/mods/999
   category: User Interface
   author: animandan
   description: Adds a key for toggling between the local and world maps.
-- name: No Ayleid Well Messagebox
+- name: Mother of All Weapon Balance Patches
+  link: https://www.nexusmods.com/oblivionremastered/mods/2558
+  category: Gameplay
+  author: ImmortanJoel
+  description: A vanilla balance pass to fix weapon type consistency.
+- name: No Annoying Messageboxes
   link: https://www.nexusmods.com/oblivionremastered/mods/141
-  category: Miscellaneous
-  author: Sasquatch
-  description: Replaces the message box when interacting with Ayleid Wells with a corner notification.
+  category: User Interface
+  author: Sasquatch678
+  description: Replaces over 400 messageboxes with a message in the top left.
 - name: No Creature Treasure Loot
   link: https://www.nexusmods.com/oblivionremastered/mods/211
   category: Gameplay
@@ -88,18 +148,58 @@
   category: User Interface
   author: Caites
   description: Removes all text and distances from the compass.
+- name: Oblivion Damage Formula Skill Uncapper
+  link: https://www.nexusmods.com/oblivionremastered/mods/1846
+  category: Gameplay
+  author: batuguin
+  description: Removes the capping of skills in the damage and magicka cost formula.
 - name: Optimized Tweaks OBLR
   link: https://www.nexusmods.com/oblivionremastered/mods/79
   category: Miscellaneous
   author: VynnGfx
   description: Optimises CPU and GPU efficiency, reduces latency, and improves streaming and memory management.
+- name: Player Race Height Fix
+  link: https://www.nexusmods.com/oblivionremastered/mods/2432
+  category: Gameplay
+  author: Exalderan
+  description: Automatically sets the player's height based on their race and sex.
+- name: Real Skeleton Key
+  link: https://www.nexusmods.com/oblivionremastered/mods/2689
+  category: Gameplay
+  author: gtekaz
+  description: You will always suceed in auto attempting locks if you have the Skeleton Key.
 - name: Remove Chromatic Aberration
   link: https://www.nexusmods.com/oblivionremastered/mods/483
   category: Visual Presets
   author: Gantz79
   description: Disables chromatic aberration.
+- name: Remove Item Outlines
+  link: https://www.nexusmods.com/oblivionremastered/mods/1371
+  category: Miscellaneous
+  author: Dayng
+  description: Removes the white outline that appears when hovering over items.
 - name: Remove Dialogue Spotlights
   link: https://www.nexusmods.com/oblivionremastered/mods/599
   category: Miscellaneous
   author: Dayng
   description: Removes the spotlight that illuminates an NPC's face during dialogue conversations.
+- name: Shadows Reworked
+  link: https://www.nexusmods.com/oblivionremastered/mods/1962
+  category: Visual Presets
+  author: Tewix
+  description: Deepens shadows, softens volumetric fog, and mildly colour corrects for a more dramatic and realistic lighting effect.
+- name: Simple Creature Level Cap
+  link: https://www.nexusmods.com/oblivionremastered/mods/2499
+  category: Creatures
+  author: PushTheWinButton
+  description: Adds a level cap to all creatures to prevent them from indefinitely leveling.
+- name: Skill Leveling XP Curvature Increased
+  link: https://www.nexusmods.com/oblivionremastered/mods/1414
+  category: Gameplay
+  author: Maegfaer
+  description: Changes the leveling curve so that higher skill levels progress considerably slower than lower levels.
+- name: Thieves Den Barter for Upgrades
+  link: https://www.nexusmods.com/oblivionremastered/mods/1474
+  category: Quests
+  author: Dispensation
+  description: Makes you have to buy the upgrades for Dunbarrow Cove with your Mercantile skill.

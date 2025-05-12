@@ -6,7 +6,7 @@ image: /assets/images/games/OBR-cover.webp
 game: Oblivion
 description: The Oblivion Remastered mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 2025-04-28
+updated: 2025-05-12
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,29 @@ updated: 2025-04-28
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>12 May 2025</dt>
+        <dd>- Added Classic Difficulty.</dd>
+        <dd>- Added Delete Spells.</dd>
+        <dd>- Added DLC Loot.</dd>
+        <dd>- Added Dynamic AI Behavior - Animals.</dd>
+        <dd>- Added Enhanced Light Radius.</dd>
+        <dd>- Added Expanded Greetings Redux.</dd>
+        <dd>- Added Full Belly.</dd>
+        <dd>- Added Immersive Guards.</dd>
+        <dd>- Added Immersive Imperial Legion.</dd>
+        <dd>- Added Imperial Bank.</dd>
+        <dd>- Added Kwa Stacking Notifications.</dd>
+        <dd>- Added Mother of All Weapon Balance Patches.</dd>
+        <dd>- Added Oblivion Damage Formula Skill Uncapper.</dd>
+        <dd>- Added Player Race Height Fix.</dd>
+        <dd>- Added Real Skeleton Key.</dd>
+        <dd>- Added Remove Item Outlines.</dd>
+        <dd>- Added Shadows Reworked.</dd>
+        <dd>- Added Simple Creature Level Cap.</dd>
+        <dd>- Added Skill Leveling XP Curvature Increased.</dd>
+        <dd>- Added Thieves Den Barter for Upgrades.</dd>
+        <dd>- Renamed Less Ugly Black Infoboxes to Better Infoboxes.</dd>
+        <dd>- Renamed No Ayleid Well Messagebox to No Annoying Messageboxes.</dd>
     <dt>28 April 2025</dt>
         <dd>- Added Local Map Toggle Key.</dd>
         <dd>- Added No Ayleid Well Messagebox.</dd>
