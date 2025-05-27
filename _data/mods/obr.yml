@@ -10,14 +10,14 @@
   description: A balance mod that covers loot, enemies, and skills.
 - name: Ascension Remastered - Slower Skill Leveling
   link: https://www.nexusmods.com/oblivionremastered/mods/706
-  category: Gameplaye
-  author: PushTheWinButton
-  description: Minor Skills - 57% (Original Oblivion)<br>Decreases the skill levelling rate of minor skills to match the original game's pace.
-- name: Balanced NPC Level Cap
-  link: https://www.nexusmods.com/oblivionremastered/mods/182
   category: Gameplay
   author: PushTheWinButton
-  description: Adds consistent level caps to NPCs.
+  description: Minor Skills - 57% (Original Oblivion)<br>Decreases the skill levelling rate of minor skills to match the original game's pace.
+- name: Baka Auto Open Local Map
+  link: https://www.nexusmods.com/oblivionremastered/mods/3665
+  category: User Interface
+  author: shad0wshayd3
+  description: Automatically opens the local map in interiors and specific worldspaces.
 - name: Balanced Unleveled Rewards
   link: https://www.nexusmods.com/oblivionremastered/mods/157
   category: Gameplay
@@ -28,6 +28,16 @@
   category: User Interface
   author: Caites
   description: Replaces the obtrusive infoboxes with a transparent background.
+- name: Brighter Torches - 1.5x
+  link: https://www.nexusmods.com/oblivionremastered/mods/2821
+  category: Visual Presets
+  author: Joldz
+  description: Increases the radius illuminated by torches.
+- name: Cartographers Map of Oblivion - Original Brown
+  link: https://www.nexusmods.com/oblivionremastered/mods/3754
+  category: User Interface
+  author: Xouthpaw
+  description: A recreated map for Cyrodiil and the Shivering Isles focused on accuracy and style.
 - name: Classic Difficulty
   link: https://www.nexusmods.com/oblivionremastered/mods/2608
   category: Gameplay
@@ -38,6 +48,16 @@
   category: Gameplay
   author: PushTheWinButton
   description: Adds ownership to all random clutter, containers, and crops in cities and settlements.
+- name: Delay Dark Brotherhood Initiation - 3 Kills
+  link: https://www.nexusmods.com/oblivionremastered/mods/1209
+  category: Quests
+  author: A18717
+  description: Delays the beginning of the Dark Brotherhood questline by requiring more murders, similar to Daggerfall.
+- name: Delayed Knights of the Nine - Level 20
+  link: https://www.nexusmods.com/oblivionremastered/mods/2144
+  category: Quests
+  author: MerseyRockoff
+  description: Delays the start of the Knights of the Nine questline until you reach level 20.
 - name: Delete Spells
   link: https://www.nexusmods.com/oblivionremastered/mods/2440
   category: Gameplay
@@ -83,6 +103,16 @@
   category: User Interface
   author: Fuzzles
   description: Tweaks various game menus for increased information density.
+- name: Hide Lock Security Level
+  link: https://www.nexusmods.com/oblivionremastered/mods/3853
+  category: User Interface
+  author: SquigM
+  description: Hides the lock level indicator of doors and containers.
+- name: Higher Thieves Guild Fence Amounts
+  link: https://www.nexusmods.com/oblivionremastered/mods/732
+  category: Factions
+  author: LameJames1212
+  description: Increases the amount of fenced gold needed to access commission jobs.
 - name: Hooded Outlaws
   link: https://www.nexusmods.com/oblivionremastered/mods/268
   category: Clothing
@@ -113,11 +143,31 @@
   category: User Interface
   author: PumpkinBites
   description: Changes the game's notification system to support stacking multiple messages at once.
-- name: Local Map Toggle Key
-  link: https://www.nexusmods.com/oblivionremastered/mods/999
-  category: User Interface
-  author: animandan
-  description: Adds a key for toggling between the local and world maps.
+- name: Lumiere
+  link: https://www.nexusmods.com/oblivionremastered/mods/3100
+  category: Locations
+  author: Tewix
+  description: Adds hundreds of lights to the outdoors of Cyrodiil.
+- name: Lumiere - Lighting Rebalanced
+  link: https://www.nexusmods.com/oblivionremastered/mods/3100
+  category: Visual Presets
+  author: Tewix
+  description: Evens out light sources that Lumiere uses to be more consistent.
+- name: Magic Skill Leveling Fixed
+  link: https://www.nexusmods.com/oblivionremastered/mods/3965
+  category: Skills & Leveling
+  author: Maegfaer
+  description: Changes XP gain for magic skills to be based on actual spell cost instead of base cost.
+- name: Marksman Fatigue Perk Rebalanced
+  link: https://www.nexusmods.com/oblivionremastered/mods/3782
+  category: Gameplay
+  author: AniHVX
+  description: Makes Marksman always drain fatigue at a rate that lowers as the skill levels up.
+- name: More Unique Look for Unique Daedric Realms
+  link: https://www.nexusmods.com/oblivionremastered/mods/3707
+  category: Locations
+  author: ikis
+  description: Changes the names and weather of The Pits, Attribution's Share, and Arkved's Oasis.
 - name: Mother of All Weapon Balance Patches
   link: https://www.nexusmods.com/oblivionremastered/mods/2558
   category: Gameplay
@@ -163,16 +213,16 @@
   category: Gameplay
   author: Exalderan
   description: Automatically sets the player's height based on their race and sex.
+- name: Rabbit's Real Lights Imperial City
+  link: https://www.nexusmods.com/oblivionremastered/mods/2852
+  category: Locations
+  author: RabbitDoesStuff
+  description: Adds over 400 light sources and objects for realism and better visibility at night.
 - name: Real Skeleton Key
   link: https://www.nexusmods.com/oblivionremastered/mods/2689
   category: Gameplay
   author: gtekaz
   description: You will always suceed in auto attempting locks if you have the Skeleton Key.
-- name: Remove Chromatic Aberration
-  link: https://www.nexusmods.com/oblivionremastered/mods/483
-  category: Visual Presets
-  author: Gantz79
-  description: Disables chromatic aberration.
 - name: Remove Item Outlines
   link: https://www.nexusmods.com/oblivionremastered/mods/1371
   category: Miscellaneous
@@ -193,11 +243,21 @@
   category: Creatures
   author: PushTheWinButton
   description: Adds a level cap to all creatures to prevent them from indefinitely leveling.
+- name: Simple NPC Level Cap
+  link: https://www.nexusmods.com/oblivionremastered/mods/182
+  category: Gameplay
+  author: PushTheWinButton
+  description: Adds consistent level caps to NPCs.
 - name: Skill Leveling XP Curvature Increased
   link: https://www.nexusmods.com/oblivionremastered/mods/1414
-  category: Gameplay
+  category: Skills & Leveling
   author: Maegfaer
   description: Changes the leveling curve so that higher skill levels progress considerably slower than lower levels.
+- name: Sleep Tight
+  link: https://www.nexusmods.com/oblivionremastered/mods/3019
+  category: NPCs
+  author: SamanthaSays
+  description: Fixes many NPC's broken sleep schedules and other related bugs.
 - name: Thieves Den Barter for Upgrades
   link: https://www.nexusmods.com/oblivionremastered/mods/1474
   category: Quests

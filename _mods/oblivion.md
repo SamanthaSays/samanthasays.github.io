@@ -6,7 +6,7 @@ image: /assets/images/games/OBR-cover.webp
 game: Oblivion
 description: The Oblivion Remastered mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 2025-05-12
+updated: 2025-05-27
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,24 @@ updated: 2025-05-12
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>27 May 2025</dt>
+        <dd>- Added Baka Auto Open Local Map.</dd>
+        <dd>- Added Brighter Torches - 1.5x.</dd>
+        <dd>- Added Cartographers Map of Oblivion - Original Brown.</dd>
+        <dd>- Added Delay Dark Brotherhood Initiation - 3 Kills.</dd>
+        <dd>- Added Delayed Knights of the Nine - Level 20.</dd>
+        <dd>- Added Hide Lock Security Level.</dd>
+        <dd>- Added Higher Thieves Guild Fence Amounts.</dd>
+        <dd>- Added Lumiere.</dd>
+        <dd>- Added Lumiere - Lighting Rebalanced.</dd>
+        <dd>- Added Magic Skill Leveling Fixed.</dd>
+        <dd>- Added Marksman Fatigue Perk Rebalanced.</dd>
+        <dd>- Added More Unique Look for Unique Daedric Realms.</dd>
+        <dd>- Added Rabbit's Real Lights Imperial City.</dd>
+        <dd>- Added Sleep Tight.</dd>
+        <dd>- Removed Local Map Toggle Key.</dd>
+        <dd>- Removed Remove Chromatic Aberration.</dd>
+        <dd>- Renamed Balanced NPC Level Cap to Simple NPC Level Cap.</dd>
     <dt>12 May 2025</dt>
         <dd>- Added Classic Difficulty.</dd>
         <dd>- Added Delete Spells.</dd>
