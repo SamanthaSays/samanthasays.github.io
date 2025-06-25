@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Gallery, Page 5
+title: Gallery, Page 7
 section: gallery
-permalink: /gallery/5
+permalink: /gallery/7
 description: A gallery of screenshots and artwork. All screenshots are taken by Samantha Says, each piece of artwork will contain links to the artist.
 image: /assets/images/Website Icon.png
 ---
@@ -14,13 +14,13 @@ image: /assets/images/Website Icon.png
     <a href="/gallery/2">2</a>
     <a href="/gallery/3">3</a>
     <a href="/gallery/4">4</a>
-    <a id="active">5</a>
+    <a href="/gallery/5">5</a>
     <a href="/gallery/6">6</a>
-    <a href="/gallery/7">7</a>
+    <a id="active">7</a>
 </div>
 
 <div class="tablesContainer">
-    {% for post in site.categories.gallery offset:96 limit:24 %}
+    {% for post in site.categories.gallery offset:144 limit:24 %}
         <table id="tableGallery">
             <tr>
                 <th style="width: 297px"><a href="{{ post.url }}"><img style="max-width: 297px; height: auto; max-height: 297px" src="{{ post.image }}" alt="{{ post.title }}"></a></th>
@@ -40,7 +40,7 @@ image: /assets/images/Website Icon.png
     <a href="/gallery/2">2</a>
     <a href="/gallery/3">3</a>
     <a href="/gallery/4">4</a>
-    <a id="active">5</a>
+    <a href="/gallery/5">5</a>
     <a href="/gallery/6">6</a>
-    <a href="/gallery/7">7</a>
+    <a id="active">7</a>
 </div>
