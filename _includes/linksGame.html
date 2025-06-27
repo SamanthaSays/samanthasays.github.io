@@ -1,0 +1,9 @@
+{% for item in site.data.linksGame %}
+    <div class="links">
+        {{ item.name }}
+        <a href="{{ item.link }}" title="{{ item.name }}" {% if item.tab != false %} target="_blank" {% endif %}>
+            <span class="linksLink">
+            </span>
+        </a>
+    </div>
+{% endfor %}
