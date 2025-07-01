@@ -6,7 +6,7 @@ image: /assets/images/games/OBR-cover.webp
 game: Oblivion
 description: The Oblivion Remastered mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 2025-05-27
+updated: 2025-07-01
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,30 @@ updated: 2025-05-27
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>01 July 2025</dt>
+        <dd>- Added A Horse With No Name.</dd>
+        <dd>- Added Armored Legion Horses.</dd>
+        <dd>- Added Attributes Damage Scaling Uncapper.</dd>
+        <dd>- Added Blackwood Company Refitted.</dd>
+        <dd>- Added Classic Blackwood Company Armor.</dd>
+        <dd>- Added Configurable Enchantment Charge Cost.</dd>
+        <dd>- Added Fighters Guild Refitted.</dd>
+        <dd>- Added Glory Holes of Oblivion.</dd>
+        <dd>- Added Imperial Bank - Daggerfall.</dd>
+        <dd>- Added No Constant Notifications.</dd>
+        <dd>- Added Pointed Ears for Bretons.</dd>
+        <dd>- Added Quaint Roads - More Road Signs.</dd>
+        <dd>- Added Rabbit's Real Lights Bruma.</dd>
+        <dd>- Added Rabbit's Real Lights Cheydinhal.</dd>
+        <dd>- Added Relocated - Shady Sam.</dd>
+        <dd>- Added Simply Swim Up.</dd>
+        <dd>- Added Step Into Oblivion.</dd>
+        <dd>- Added Ultra Plus.</dd>
+        <dd>- Added Wayshrines - Quaint Addon.</dd>
+        <dd>- Removed Brighter Torches.</dd>
+        <dd>- Removed Kwa Stacking notifications.</dd>
+        <dd>- Removed Optimized Tweaks OBLR.</dd>
+        <dd>- Removed Shadows Reworked.</dd>
     <dt>27 May 2025</dt>
         <dd>- Added Baka Auto Open Local Map.</dd>
         <dd>- Added Brighter Torches - 1.5x.</dd>
