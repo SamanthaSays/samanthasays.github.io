@@ -10,12 +10,6 @@
   author: jeseibel
   description: Adds simplified LODs to extend Minecraft's render distance.
   choice: Yes
-- name: Falling Leaves
-  link: https://modrinth.com/mod/fallingleaves
-  category: Visuals
-  author: randommcsomethin
-  description: Adds particle effects to leaf blocks.
-  choice: Yes
 - name: Litematica
   link: https://modrinth.com/mod/litematica
   category: Gameplay
@@ -69,6 +63,11 @@
   category: Gameplay
   author: BlayTheNinth
   description: Adds many configurable tweaks to improve the quality of life of gameplay.
+- name: DualBar
+  link: https://modrinth.com/mod/dualbar
+  category: UI
+  author: piuvas
+  description: Shows locator bar icons on the experience bar.
 - name: Enhanced Block Entities
   link: https://modrinth.com/mod/ebe
   category: Visuals
@@ -99,6 +98,11 @@
   category: Performance
   author: jellysquid3
   description: General-purpose optimisation mod.
+- name: Locator Heads
+  link: https://modrinth.com/mod/locator-heads
+  category: UI
+  author: Haage
+  description: Shows player heads on the locator bar.
 - name: MiniHUD
   link: https://modrinth.com/mod/minihud
   category: UI
@@ -119,11 +123,6 @@
   category: Gameplay
   author: YaLTeR
   description: Replaces and adds new dragging mechanics to the inventory.
-- name: Music Delay Reducer
-  link: https://modrinth.com/mod/music-delay-reducer
-  category: Audio
-  author: Kyronis
-  description: Lets Minecraft's music play more often.
 - name: Noisium
   link: https://modrinth.com/mod/noisium
   category: Performance
@@ -139,7 +138,12 @@
   category: Miscellaneous
   author: DimasKama
   description: Adds a toggleable and configurable orthographic view mode.
-- name: Partical Rain
+- name: Particle Effects
+  link: https://modrinth.com/mod/particle-effects
+  category: Visuals
+  author: KlashRaick
+  description: Adds unique textured particles for every effect.
+- name: Particle Rain
   link: https://modrinth.com/mod/particle-rain
   category: Visuals
   author: PigCart
@@ -149,11 +153,6 @@
   category: Miscellaneous
   author: CrushedPixel
   description: Record, relive, and share your gameplay.
-- name: Simple Durability
-  link: https://modrinth.com/mod/xdgrlnw_simple_durability
-  category: UI
-  author: xdgrinw
-  description: Adds item durability to tooltips without having to enable advanced item tooltips.
 - name: Simple Voice Chat
   link: https://modrinth.com/plugin/simple-voice-chat
   category: Gameplay
@@ -164,6 +163,11 @@
   category: Performance
   author: jellysquid3
   description: Improves framerates and reduces micro-stutters.
+- name: Tooltips TXF
+  link: https://modrinth.com/mod/tooltips-txf
+  category: UI
+  author: jahirtrap
+  description: Provides additional information on tooltips.
 - name: Tweakeroo
   link: https://modrinth.com/mod/tweakeroo
   category: Gameplay

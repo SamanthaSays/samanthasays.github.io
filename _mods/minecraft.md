@@ -4,9 +4,9 @@ title: Minecraft Mods
 section: mods
 image: /assets/images/games/MC-cover.webp
 game: Minecraft
-description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually. My top 6 are marked with a heart.
+description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually. My top 5 are marked with a heart.
 tag: Modlist
-updated: 2025-01-31
+updated: 2025-07-28
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,14 @@ updated: 2025-01-31
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>28 July 2025</dt>
+        <dd>- Added DualBar.</dd>
+        <dd>- Added Locator Heads.</dd>
+        <dd>- Added Particle Effects.</dd>
+        <dd>- Added Tooltips TXF.</dd>
+        <dd>- Removed Falling Leaves.</dd>
+        <dd>- Removed Music Delay Reducer.</dd>
+        <dd>- Removed Simple Durability.</dd>
     <dt>19 February 2025</dt>
         <dd>- Added 3D Skin Layers.</dd>
         <dd>- Added Music Delay Reducer.</dd>
@@ -42,7 +50,7 @@ updated: 2025-01-31
         <dd>- Removed Starlight.</dd>
     <dt>21 Jan 2024</dt>
         <dd>- Added Ambient Environment.</dd>
-        <dd>- Added Partical Rain.</dd>
+        <dd>- Added Particle Rain.</dd>
     <dt>21 Jun 2023</dt>
         <dd>- Removed LazyDFU.</dd>
     <dt>14 Apr 2023</dt>
