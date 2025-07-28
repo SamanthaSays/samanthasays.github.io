@@ -61,7 +61,7 @@ I manage my mods and resource packs manually. It's fairly simple to do, so I nev
 
 Remember to not just blindly copy somebody else's mod list. Make sure each mod is one that you really want! Because of this, my installed dependencies are not listed. Ensure all mods are updated for the Minecraft version you are using.
 
-Mods marked with a ♥ heart are my top 6 favourites.
+Mods marked with a ♥ heart are my top 5 favourites.
 
 <table class="modlist">
     <thead>
