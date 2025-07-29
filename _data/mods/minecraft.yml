@@ -148,6 +148,11 @@
   category: Visuals
   author: PigCart
   description: Replaces the default rain with some particle effects, and adds sandstorms to deserts and mesas.
+- name: Raised
+  link: https://modrinth.com/mod/raised
+  category: UI
+  author: yurisuika
+  description: Raises the hotbar so the selector is not cut off.
 - name: Replay Mod
   link: https://www.replaymod.com
   category: Miscellaneous
@@ -163,6 +168,11 @@
   category: Performance
   author: jellysquid3
   description: Improves framerates and reduces micro-stutters.
+- name: Status Effect Bars
+  link: https://modrinth.com/mod/status-effect-bars
+  category: UI
+  author: A5b84
+  description: Adds duration bars to status effects.
 - name: Tooltips TXF
   link: https://modrinth.com/mod/tooltips-txf
   category: UI

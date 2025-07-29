@@ -6,7 +6,7 @@ image: /assets/images/games/MC-cover.webp
 game: Minecraft
 description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually. My top 5 are marked with a heart.
 tag: Modlist
-updated: 2025-07-28
+updated: 2025-07-29
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,9 @@ updated: 2025-07-28
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>29 July 2025</dt>
+        <dd>- Added Raised.</dd>
+        <dd>- Added Status Effect Bars.</dd>
     <dt>28 July 2025</dt>
         <dd>- Added DualBar.</dd>
         <dd>- Added Locator Heads.</dd>
