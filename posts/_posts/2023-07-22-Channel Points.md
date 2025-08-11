@@ -6,7 +6,7 @@ permalink: /posts/channel points
 description: All of the details of the channel points and redemption options on Samantha Says' Twitch channel.
 image: /assets/images/Website Icon.png
 tag: Twitch Channel
-updated: 08 Dec 2024
+updated: 11 Aug 2025
 ---
 
 This is a complete rundown on the channel points and mini-games available on <a href="https://www.twitch.tv/samanthasays">Samantha Says'</a> Twitch channel.
@@ -99,59 +99,64 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         <th>XP Earned</th>
     </tr><tr>
         <td>[First] Receive a blessing</td>
-        <td>The first adventurer of the day is always blessed by one of 187 Aedra, Daedra, or Saints.</td>
+        <td>The first adventurer of the day is always blessed by one of 186 Aedra, Daedra, or Saints.</td>
         <td>10 Stamina</td>
         <td>25 XP</td>
     </tr><tr>
         <td>[Daily] Have a meal</td>
-        <td>Before setting out on your adventure, don't forget to have a full meal! This will choose between 634 foods and 361 drinks for a truly unique meal.</td>
+        <td>Before setting out on your adventure, don't forget to have a full meal! This will choose between 684 foods and 388 drinks for a truly unique meal.</td>
         <td>80 Stamina</td>
         <td>100 XP</td>
     </tr><tr>
         <td>[RPG] Stay hydrated!</td>
-        <td>Remember to drink your potions! Drink one of 85 potions and remind us all to stay hydrated.</td>
+        <td>Remember to drink your potions! Drink one of 97 potions and remind us all to stay hydrated.</td>
         <td>100 Stamina</td>
         <td>40 XP</td>
     </tr><tr>
         <td>[Strength] Slay a monster</td>
-        <td>Adventure across Tamriel to slay one of 115 monsters for XP with a high chance of success! If you do fail, your weapon will break and you will need to repair it before you can earn more XP through this mini-game.</td>
+        <td>Adventure across Tamriel to slay one of 122 monsters for XP with a high chance of success! If you fail, your weapon will break and you will need to repair it before you can earn more XP through this mini-game.<br>
+        Use the !strength command to see how many unique monsters you've slain!</td>
         <td>150 Stamina</td>
         <td>Success: 90 XP<br>
         Failure: 0 XP, +1 turn</td>
     </tr><tr>
         <td>[Willpower] Cast a rune</td>
-        <td>This is a game of strategy. Attempt to cast a rune spell for XP. If someone else has already cast a rune, you will trigger it and fail to earn XP! Will you take a chance without knowing the outcome, or will you wait for somebody else to try so you can guarantee success?</td>
+        <td>This is a game of strategy. Attempt to cast a rune spell for XP. If someone else has already cast a rune, you will trigger it and fail to earn XP! Will you take a chance without knowing the outcome, or will you wait for somebody else to try so you can guarantee success?<br>
+        Use the !willpower command to see how many runes you've cast and set off!</td>
         <td>200 Stamina</td>
         <td>Success: 200 XP<br>
         Failure: 0 XP</td>
     </tr><tr>
         <td>[Speed] Archery practice</td>
-        <td>Fire a volley of 6 arrows at a target. Each successful hit grants you XP. Each arrow has a high chance to land, but landing all 6 can be challenging.</td>
+        <td>Fire a volley of 6 arrows at a target. Each successful hit grants you XP. Each arrow has a high chance to land, but landing all 6 can be challenging.<br>
+        Use the !speed command to see how many perfect games you've had!</td>
         <td>200 Stamina</td>
         <td>Success: 24 XP<br>
         per arrow landed</td>
     </tr><tr>
         <td>[Intelligence] Brew a potion</td>
-        <td>Attempt to brew a Potion of Stamina, granting you XP and refunding the Stamina spent. You will succeed often, but perfecting the potion for a Stamina refund can be tricky.</td>
+        <td>Attempt to brew a Potion of Stamina, granting you XP and refunding the Stamina spent. You will succeed often, but perfecting the potion for a Stamina refund can be tricky.<br>
+        Use the !intelligence command to see how many perfect potions you've brewed!</td>
         <td>500 Stamina</td>
         <td>Success: 225 XP<br>
         Critical Success: 225 XP, Stamina refund<br>
         Failure: 0 XP</td>
     </tr><tr>
         <td>[Endurance] Block an attack</td>
-        <td>Spar with a trainer to practice your Blocking skills! A moderate chance to succeed and gain XP, but missing a block will knock you out and make you lose XP.</td>
+        <td>Spar with a trainer to practice your Blocking skills! A moderate chance to succeed and gain XP, but missing a block will knock you out and make you lose XP.<br>
+        Use the !endurance command to see how many successful blocks you've made!</td>
         <td>750 Stamina</td>
         <td>Success: 500 XP<br>
         Failure: -500 XP</td>
     </tr><tr>
         <td>[Luck] Go fishing</td>
-        <td>Relax by the water and see what you can catch! There are 490 unique fish to catch, of varying rarities. There's even a small chance you'll fish up some treasure for massive XP, but also a small chance that you'll get nothing.</td>
+        <td>Relax by the water and see what you can catch! There are 502 unique fish to catch, of varying rarities. There's even a small chance that you'll fish up some treasure for massive XP.<br>
+        Use the !luck command to see how many unique fish you've caught!</td>
         <td>1000 Stamina</td>
         <td>Common: 450 XP<br>
-        Uncommon: 500 XP
-        Rare: 650 XP
-        Epic: 1050 XP
-        Failure: 0 XP</td>
+        Uncommon: 500 XP<br>
+        Rare: 650 XP<br>
+        Epic: 1000 XP</td>
     </tr><tr>
         <td>[Agility] Pickpocket someone</td>
         <td>Write another person's username to pick their pocket for one of 5,971 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP. There are 232 Normal, 2,113 Fine, 2,498 Superior, and 128 Epic treasures to find!</td>
