@@ -33,6 +33,11 @@
   category: Visuals
   author: tr7zw
   description: Replaces the flat second layer of player skins with a 3D modeled version.
+- name: Advanced Armor Bars
+  link: https://modrinth.com/mod/advanced-armor-bar
+  category: UI
+  author: Sygikal
+  description: Replaces the default armour bar with one that represents the armour materials and colours you have equipped.
 - name: Ambient Environment
   link: https://modrinth.com/mod/ambient-environment
   category: Visuals
@@ -153,11 +158,6 @@
   category: UI
   author: yurisuika
   description: Raises the hotbar so the selector is not cut off.
-- name: Replay Mod
-  link: https://www.replaymod.com
-  category: Miscellaneous
-  author: CrushedPixel
-  description: Record, relive, and share your gameplay.
 - name: Simple Voice Chat
   link: https://modrinth.com/plugin/simple-voice-chat
   category: Gameplay

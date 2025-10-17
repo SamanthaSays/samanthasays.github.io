@@ -15,6 +15,9 @@ updated: 2025-07-29
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>17 October 2025</dt>
+        <dd>- Added Advanced Armor Bar.</dd>
+        <dd>- Removed Replay Mod.</dd>
     <dt>29 July 2025</dt>
         <dd>- Added Raised.</dd>
         <dd>- Added Status Effect Bars.</dd>
