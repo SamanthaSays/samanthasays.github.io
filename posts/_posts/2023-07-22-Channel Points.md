@@ -6,7 +6,7 @@ permalink: /posts/channel points
 description: All of the details of the channel points and redemption options on Samantha Says' Twitch channel.
 image: /assets/images/Website Icon.png
 tag: Twitch Channel
-updated: 30 Aug 2025
+updated: 17 Oct 2025
 ---
 
 This is a complete rundown on the channel points and mini-games available on <a href="https://www.twitch.tv/samanthasays">Samantha Says'</a> Twitch channel.
@@ -159,7 +159,8 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         Epic: 1075 XP</td>
     </tr><tr>
         <td>[Agility] Pickpocket someone</td>
-        <td>Write another person's username to pick their pocket for one of 5,971 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP. There are 232 Normal, 2,113 Fine, 2,498 Superior, and 128 Epic treasures to find!</td>
+        <td>Write another person's username to pick their pocket for one of 5,971 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP. There 365 unique treasures to find.<br>
+        Use the !agility command to see how many unique treasures you've taken!</td>
         <td>2000 Stamina</td>
         <td>Normal: 700 XP<br>
         Fine: 850 XP<br>
@@ -167,7 +168,8 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         Epic: 1350 XP</td>
     </tr><tr>
         <td>[Personality] Barter</td>
-        <td>If you find yourself with an excess of Stamina, you can barter a large amount for a fair amount of XP. Definitely the easiest way to spend mass amounts of Stamina, but with minimal profits, it's not intended to be something that you save up for.</td>
+        <td>If you find yourself with an excess of Stamina, you can barter a large amount for a fair amount of XP. Definitely the easiest way to spend mass amounts of Stamina, but with minimal profits, it's not intended to be something that you save up for.<br>
+        Use the !barter command to see how many excellent deals you've had!</td>
         <td>5000 Stamina</td>
         <td>Approximately: 2500 XP</td>
     </tr>
