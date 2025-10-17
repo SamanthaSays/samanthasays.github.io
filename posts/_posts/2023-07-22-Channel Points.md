@@ -159,7 +159,7 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         Epic: 1075 XP</td>
     </tr><tr>
         <td>[Agility] Pickpocket someone</td>
-        <td>Write another person's username to pick their pocket for one of 5,971 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP. There 365 unique treasures to find.<br>
+        <td>Write another person's username to pick their pocket for one of 365 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP.<br>
         Use the !agility command to see how many unique treasures you've taken!</td>
         <td>2000 Stamina</td>
         <td>Normal: 700 XP<br>
