@@ -6,7 +6,7 @@ permalink: /posts/channel points
 description: All of the details of the channel points and redemption options on Samantha Says' Twitch channel.
 image: /assets/images/Website Icon.png
 tag: Twitch Channel
-updated: 17 Oct 2025
+updated: 19 Oct 2025
 ---
 
 This is a complete rundown on the channel points and mini-games available on <a href="https://www.twitch.tv/samanthasays">Samantha Says'</a> Twitch channel.
@@ -150,13 +150,13 @@ Mini-games are where you'll spend most of your Stamina. Some are cheap and rewar
         Failure: -500 XP</td>
     </tr><tr>
         <td>[Luck] Go fishing</td>
-        <td>Relax by the water and see what you can catch! There are 502 unique fish to catch, of varying rarities. There's even a small chance that you'll fish up some treasure for massive XP.<br>
+        <td>Relax by the water and see what you can catch! There are 502 unique fish to catch, of varying rarities. Each rarity has duplicate protection to help you complete your collection! There's even a small chance that you'll fish up some treasure for massive XP.<br>
         Use the !luck command to see how many unique fish you've caught!</td>
         <td>1000 Stamina</td>
-        <td>Common: 450 XP<br>
+        <td>Common: 415 XP<br>
         Uncommon: 500 XP<br>
         Rare: 600 XP<br>
-        Epic: 1075 XP</td>
+        Epic: 1000 XP</td>
     </tr><tr>
         <td>[Agility] Pickpocket someone</td>
         <td>Write another person's username to pick their pocket for one of 365 treasures. People that are a higher level than you will have higher quality loot! Stealing from the rich will yield more XP.<br>
