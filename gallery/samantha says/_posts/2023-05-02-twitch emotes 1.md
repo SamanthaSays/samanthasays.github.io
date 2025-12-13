@@ -9,6 +9,6 @@ description: The first 6 Twitch emotes, commissioned from noredji.
 tag: Art
 gallery: samantha says
 from: noredji
-link: https://www.fiverr.com/noredji
+link: https://linktr.ee/noredji
 ---
 {% include imageGallery.html %}
