@@ -1,57 +1,3 @@
-- name: Character Knowledge (Motif, Recipe and Furnishing Plan Tracker)
-  link: https://www.esoui.com/downloads/info2938-CharacterKnowledgeMotifRecipeandFurnishingPlanTracker.html
-  category: Character Advancement
-  author: code65536
-  description: Tracks recipe, furnishing plan, and motif knowledge across multiple characters.
-  choice: Yes
-- name: EasyTravel
-  link: https://www.esoui.com/downloads/info1454-EasyTravel.html
-  category: Map, Coords, Compasses
-  author: sirinsidiator
-  description: Right click a zone in the location tab of the map screen to automatically search for a player to jump to.
-  choice: Yes
-- name: Collectibles Tracker
-  link: https://www.esoui.com/downloads/info2588-EventCollectibles.html
-  category: Data Mods
-  author: code65536
-  description: Displays a list of every account-wide collectible that can be acquired during time-limited events.
-  choice: Yes
-- name: Harven's Quest Journal
-  link: https://www.esoui.com/downloads/info580-HarvensQuestJournal.html
-  category: Character Advancement
-  author: Harven
-  description: A fully functional quest journal inspired by The Elder Scrolls III&#58; Morrowind.
-  choice: Yes
-- name: Item Set Browser
-  link: https://www.esoui.com/downloads/info1480-ItemSetBrowser.html
-  category: Data Mods
-  author: code65536
-  description: An easier, faster, more efficient way to navigate item sets.
-  choice: Yes
-- name: Jack of all Trades - Automatic CP Respec
-  link: https://www.esoui.com/downloads/info2951-JackofallTrades-AutomaticCPRespec.html
-  category: Character Advancement
-  author: CyberOnEso
-  description: Automatically adjusts the Craft champion bar depending on context.
-  choice: Yes
-- name: Loot Log
-  link: https://www.esoui.com/downloads/info1455-LootLog.html
-  category: Bags, Bank, Inventory
-  author: code65536
-  description: Helps track your loot drops and those of group members.
-  choice: Yes
-- name: Notebook 2018
-  link: https://www.esoui.com/downloads/info1991-Notebook2018.html
-  category: Miscellaneous
-  author: Phuein
-  description: A virtual notebook to keep track of anything. Allows the creation of as many pages as you wish to write.
-  choice: Yes
-- name: PerfectPixel
-  link: https://www.esoui.com/downloads/info2103-PerfectPixel.html
-  category: Bags, Bank, Inventory
-  author: KLISK
-  description: Changes the style of windows and expands the inventory list.
-  choice: Yes
 - name: Addon Selector
   link: https://www.esoui.com/downloads/info1161-AddonSelectorSaveAddOnprofilespacks.html
   category: Utility Mods
@@ -82,11 +28,21 @@
   category: Map, Coords, Compasses
   author: DeadSoon
   description: All fast travel options you have through guilds, friends, and group are listed in a clear way and are usable with different search and filtering features.
+- name: Character Knowledge (Motif, Recipe and Furnishing Plan Tracker)
+  link: https://www.esoui.com/downloads/info2938-CharacterKnowledgeMotifRecipeandFurnishingPlanTracker.html
+  category: Character Advancement
+  author: code65536
+  description: Tracks recipe, furnishing plan, and motif knowledge across multiple characters.
 - name: Code's Combat Alerts
   link: https://www.esoui.com/downloads/info1855-CodesCombatAlerts.html
   category: Combat Mods
   author: code65536
   description: Provides notifications and alerts for a selection of PvE mechanics.
+- name: Collectibles Tracker
+  link: https://www.esoui.com/downloads/info2588-EventCollectibles.html
+  category: Data Mods
+  author: code65536
+  description: Displays a list of every account-wide collectible that can be acquired during time-limited events.
 - name: Combat Metrics
   link: https://www.esoui.com/downloads/info1360-CombatMetrics.html
   category: Combat Mods
@@ -117,6 +73,11 @@
   category: Map, Coords, Compasses
   author: Phinix
   description: Adds completion and achievement information to dungeon and trial tooltips, and overhauls the activity finder.
+- name: EasyTravel
+  link: https://www.esoui.com/downloads/info1454-EasyTravel.html
+  category: Map, Coords, Compasses
+  author: sirinsidiator
+  description: Right click a zone in the location tab of the map screen to automatically search for a player to jump to.
 - name: Enhanced Bounties
   link: https://www.esoui.com/downloads/info3096-EnhancedBounties.html
   category: Graphic UI Mods
@@ -142,12 +103,17 @@
   category: Character Advancement
   author: Harven
   description: Various improvements to the skills window.
+- name: Harven's Quest Journal
+  link: https://www.esoui.com/downloads/info580-HarvensQuestJournal.html
+  category: Character Advancement
+  author: Harven
+  description: A fully functional quest journal inspired by The Elder Scrolls III&#58; Morrowind.
 - name: HarvestMap
   link: https://www.esoui.com/downloads/info57-HarvestMap.html
   category: Map, Coords, Compasses
   author: Shinni
   description: Displays resource nodes, chests, and fishing spots on the map, compass, and 3D world.
-- name: ImmersiveHorseRiding
+- name: Immersive Horse Riding
   link: https://www.esoui.com/downloads/info1048-ImmersiveHorseRiding.html
   category: RolePlay
   author: Nuojua
@@ -162,6 +128,16 @@
   category: Bags, Bank, Inventory
   author: manavortex
   description: Tracks everything in all your characters bags, bank, guild banks, craft bag, and storage chests.
+- name: Item Set Browser
+  link: https://www.esoui.com/downloads/info1480-ItemSetBrowser.html
+  category: Data Mods
+  author: code65536
+  description: An easier, faster, more efficient way to navigate item sets.
+- name: Jack of all Trades - Automatic CP Respec
+  link: https://www.esoui.com/downloads/info2951-JackofallTrades-AutomaticCPRespec.html
+  category: Character Advancement
+  author: CyberOnEso
+  description: Automatically adjusts the Craft champion bar depending on context.
 - name: Jukebox - Menu Music Randomizer
   link: https://www.esoui.com/downloads/info3403-Jukebox-MenuMusicRandomizer.html
   category: Miscellaneous
@@ -172,6 +148,11 @@
   category: Bags, Bank, Inventory
   author: ADH
   description: A rule-based system for marking items as junk or destroying them.
+- name: Loot Log
+  link: https://www.esoui.com/downloads/info1455-LootLog.html
+  category: Bags, Bank, Inventory
+  author: code65536
+  description: Helps track your loot drops and those of group members.
 - name: LoreBooks
   link: https://www.esoui.com/downloads/info288-LoreBooks.html
   category: Map, Coords, Compasses
@@ -202,16 +183,21 @@
   category: PvP
   author: dorrino
   description: A plethora of useful features to display various PvP-related information in a convenient way.
+- name: Notebook 2018
+  link: https://www.esoui.com/downloads/info1991-Notebook2018.html
+  category: Miscellaneous
+  author: Phuein
+  description: A virtual notebook to keep track of anything. Allows the creation of as many pages as you wish to write.
 - name: pChat
   link: https://www.esoui.com/downloads/info93-pChatChatcustomizationhelplooknotificationsoundautomationhistory.html
   category: Chat Mods
   author: Puddy
   description: Overhauls the chatbox with many customisable features.
-- name: Pollox's Daily Quest Tracker
-  link: https://www.esoui.com/downloads/info2192-PolloxsDailyQuestTracker.html
-  category: Miscellaneous
-  author: Pollox
-  description: Quick and easy overview of all the daily quests you care about across all your characters.
+- name: PerfectPixel
+  link: https://www.esoui.com/downloads/info2103-PerfectPixel.html
+  category: Bags, Bank, Inventory
+  author: KLISK
+  description: Changes the style of windows and expands the inventory list.
 - name: Potion Maker (for Alchemy Crafting)
   link: https://www.esoui.com/downloads/info405-PotionMakerforAlchemyCrafting.html
   category: TradeSkill Mods
@@ -277,6 +263,11 @@
   category: Combat Mods
   author: Phinix
   description: Manually toggle between Vampire Feed and Blade of Woe.
+- name: Vestige's Epic Quest
+  link: https://www.esoui.com/downloads/info3228-VestigesEpicQuest.html
+  category: UI
+  author: Masteroshi430
+  description: Adds many miscellaneous tasks as mini-quests underneath the quest tracker.
 - name: Votan's Addon List
   link: https://www.esoui.com/downloads/info2094-VotansAddonList.html
   category: Utility Mods

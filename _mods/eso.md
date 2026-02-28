@@ -4,9 +4,9 @@ title: ESO Mods
 section: mods
 image: /assets/images/games/ESO-cover.webp
 game: The Elder Scrolls Online
-description: The ESO mods used by Samantha Says. All add-ons are installed and managed through Minion 3. My top 10 are marked with a heart.
+description: The ESO mods used by Samantha Says. All add-ons are installed and managed through Minion 3.
 tag: Modlist
-updated: 2025-04-15
+updated: 2026-02-28
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,9 @@ updated: 2025-04-15
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>28 Feb 2026</dt>
+        <dd>- Added Vestige's Epic Quest.</dd>
+        <dd>- Removed Pollox's Daily Quest Tracker.</dd>
     <dt>15 Apr 2025</dt>
         <dd>- Added Crystal Fragments Proc.</dd>
         <dd>- Added Raidificator.</dd>
@@ -46,8 +49,6 @@ Remember to not just blindly copy somebody else's add-on selection. Make sure ea
 Additionally, I use 2 NVIDIA Overlay game filters. RTX Dynamic Vibrance at 10% intensity and 100% saturation boost, and Sharpen+ at 0 intensity and 50 texture details.
 
 You can purchase The Elder Scrolls Online at <a target="_blank" href="https://greenmangaming.sjv.io/samanthasays-eso">Green Man Gaming</a> through my affiliate link.
-
-Add-ons marked with a ♥ heart are my top 9 favourites.
 
 <table class="modlist">
     <thead>
