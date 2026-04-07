@@ -3,7 +3,7 @@ layout: post
 title: Freestyler
 section: gallery
 hidden: true
-permalink: /gallery/samantha says/fursona
+permalink: /gallery/samantha says/freestyler
 image: /assets/images/gallery/samantha says/Irusu - Freestyler Transp.webp
 description: Samantha Says breaks it down, commissioned from Irusu.
 tag: Art
