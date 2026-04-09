@@ -13,16 +13,36 @@
   category: Skins
   author: Bethesda Game Studios
   description: Stand out in the city and hide out in the desert with the Desert Camo Pack from Allied Arms.
+- name: Allied Winter Camo Skin Pack
+  link: https://creations.bethesda.net/en/starfield/details/4d2573b0-b5fb-4e18-ad2a-eb93243e9338/Allied_Winter_Camo_Skin_Pack
+  category: Skins
+  author: Bethesda Game Studios
+  description: Allied Winter Camo Skin Pack by CombaTech is expertly designed to make sure you're only spotted... when it's too late.
+- name: Ammo HUD
+  link: https://www.nexusmods.com/starfield/mods/11352
+  category: User Interface
+  author: ProfX1527
+  description: Adds custom weapon icons with ammunition icons and labels to the HUD and favourites menu.
 - name: Ancient Mariner Module
   link: https://creations.bethesda.net/en/starfield/details/07fe73ab-6edb-471d-8769-7bff25ffeb95/Ancient_Mariner_Module
   category: Crafting
   author: Bethesda Game Studios
   description: Become the captain of your own Ancient Mariner with 22 new decor items for Outposts, Ships, and Housing.
+- name: At Hell's Gate
+  link: https://creations.bethesda.net/en/starfield/details/6d89fcba-9940-4d8b-abc7-5cdb2c9b5a4d/At_Hell__39_s_Gate
+  category: Quests
+  author: Bethesda Game Studios
+  description: A band of mercenaries has narrowly escaped an encounter with something that can only be described as beyond evil. Investigate this mysterious happening and prevent a vile force from invading your universe.
 - name: Auto Door Closer
   link: https://www.nexusmods.com/starfield/mods/8242
   category: Gameplay
   author: CrEaToXx
   description: Automatically closes doors that actors have previously opened.
+- name: Auto Unlock
+  link: https://www.nexusmods.com/starfield/mods/5571
+  category: Gameplay
+  author: powerofthree
+  description: Auto unlock doors, containers, and terminals if you have the required perks.
 - name: Baka Achievement Enabler
   link: https://www.nexusmods.com/starfield/mods/658
   category: Miscellaneous
@@ -33,6 +53,11 @@
   category: User Interface
   author: KahoMaat
   description: Less distracting, more immersive, and simply a better HUD.
+- name: Blackout Big Bang Skin
+  link: https://creations.bethesda.net/en/starfield/details/0dd23a7f-3e76-491c-b879-4f3054708b1f/Blackout_Big_Bang_Skin
+  category: Skins
+  author: Bethesda Game Studios
+  description: Customise your Big Bang with a new look!
 - name: Blackout Drumbeat Skin
   link: https://creations.bethesda.net/en/starfield/details/31ccf130-4852-417b-842a-9d82672028e4/Blackout_Drumbeat_Skin
   category: Skins
@@ -43,6 +68,21 @@
   category: Skins
   author: Bethesda Game Studios
   description: Customise your Equinox with a new look!
+- name: Blackout Grendel Skin
+  link: https://creations.bethesda.net/en/starfield/details/044b2aa7-42f9-4ba6-93a8-2265d4008641/Blackout_Grendel_Skin
+  category: Skins
+  author: Bethesda Game Studios
+  description: Customise your Grendel with a new look!
+- name: Blackout Hard Target Skin
+  link: https://creations.bethesda.net/en/starfield/details/3301d73c-b6dd-4fa9-ad43-9b9094fb8bc3/Blackout_Hard_Target_Skin
+  category: Skins
+  author: Bethesda Game Studios
+  description: Customise your Hard Target with a new look!
+- name: Blackout Kodama Skin
+  link: https://creations.bethesda.net/en/starfield/details/5a8a341a-03a9-43b6-aa11-3d25231cd3ee/Blackout_Kodama_Skin
+  category: Skins
+  author: Bethesda Game Studios
+  description: Customise your Kodama with a new look!
 - name: Blackout Shotty Skin
   link: https://creations.bethesda.net/en/starfield/details/2880d357-3084-447d-a712-c9317eac56d1/Blackout_Shotty_Skin
   category: Skins
@@ -58,11 +98,26 @@
   category: User Interface
   author: Samantha Says
   description: Changes many American English words into British English.
-- name: CharGenMenu
-  link: https://www.nexusmods.com/starfield/mods/6850
+- name: Cash In CredStiks
+  link: https://www.nexusmods.com/starfield/mods/2008
+  category: Gameplay
+  author: Samantha Says
+  description: CredStiks are miscellaneous items until you visit Galbank to add them to your account.
+- name: Choose Your Variant Universe
+  link: https://www.nexusmods.com/starfield/mods/9273
+  category: Gameplay
+  author: Aurelianis
+  description: Select which variant universe you would like when starting NG+.
+- name: Civilian Survival Suit
+  link: https://creations.bethesda.net/en/starfield/details/66311a58-23a4-4950-9b25-d70f693fadc0/Civilian_Survival_Suit
+  category: Spacesuits
+  author: Bethesda Game Studios
+  description: Be prepared for any environment! This practical and affordable spacesuit is the perfect addition to any traveler's wardrobe.
+- name: Climate Change
+  link: https://www.nexusmods.com/starfield/mods/11448
   category: User Interface
-  author: Expired6978
-  description: Modifies the vanilla CharGenMenu to show numbers, compacts vertical space to show more sliders, and allows you to save and load presets.
+  author: Samantha Says
+  description: Provides a greater variety of weather across the entire Settled Systems.
 - name: CombaTech Digital Camo Skin Pack
   link: https://creations.bethesda.net/en/starfield/details/6cb482a0-9fb6-48f5-ad69-c4c40d830bd5/CombaTech_Digital_Camo_Skin_Pack
   category: Skins
@@ -98,11 +153,21 @@
   category: Gameplay
   author: Samantha Says
   description: Distributes the new BGS Creation items through the game's leveled lists.
-- name: Dicord Rich Presence
-  link: https://www.nexusmods.com/starfield/mods/2545
-  category: Miscellaneous
-  author: TimmInfinite
-  description: Integrates Discord Rich Presence into Starfield.
+- name: Creature Plushie Set
+  link: https://creations.bethesda.net/en/starfield/details/a4c2c041-fcd5-455b-a8a4-41e106ba3de1/Creature_Plushie_Set
+  category: Crafting
+  author: Bethesda Game Studios
+  description: Presenting the lovable and snuggly version of some familiar creatures throughout the galaxy.
+- name: Crowd Gun Fear
+  link: https://www.nexusmods.com/starfield/mods/11416
+  category: Gameplay
+  author: Ghostrider231
+  description: Discharging firearms causes citizens to run in fear.
+- name: Deimog
+  link: https://creations.bethesda.net/en/starfield/details/e3295393-57db-47ba-91e4-2ba74133856a/Deimog
+  category: Vehicles
+  author: Bethesda Game Studios
+  description: Once you've purchased vehicle access at a Ship Vendor, the Deimog will automatically appear in your vehicle hangar.
 - name: Doctor Crew
   link: https://www.nexusmods.com/starfield/mods/9941
   category: Gameplay
@@ -113,26 +178,56 @@
   category: Gameplay
   author: LarannKiar
   description: Dynamically changes the inventory menu actor model to the target NPC when you trade with them.
-- name: Enemy Friendly Fire
-  link: https://www.nexusmods.com/starfield/mods/614
+- name: Dynamic Medical Bill
+  link: https://www.nexusmods.com/starfield/mods/11789
   category: Gameplay
-  author: powerofthree
-  description: SFSE plugin that enables friendly fire for all NPCs.
+  author: Samantha Says
+  description: Dynamically changes the cost of healing from doctors based on how bad your condition is.
+- name: Dynamic Repair Bill
+  link: https://www.nexusmods.com/starfield/mods/11704
+  category: Gameplay
+  author: Samantha Says
+  description: Dynamically changes the cost of ship repairs based on how damaged your ship is.
+- name: Enhanced Lights and FX
+  link: https://www.nexusmods.com/starfield/mods/54
+  category: Visuals
+  author: anamorfus
+  description: Creates more atmospheric and realistic interior lighting.
+- name: Escape
+  link: https://creations.bethesda.net/en/starfield/details/1106af41-fac5-431e-aa1a-163b3e5d2892/Escape
+  category: Quests
+  author: Bethesda Game Studios
+  description: Trapped on a remote starstation, you must solve puzzles and make unlikely allies to escape with untold riches, and your life.
+- name: First Person Running with Hands
+  link: https://www.nexusmods.com/starfield/mods/16234
+  category: Animations
+  author: neeher
+  description: Adds visible hands to the first person sprinting animation.
 - name: Full Auto Burst Semi
   link: https://www.nexusmods.com/starfield/mods/9942
   category: Weapons
   author: Samantha Says
   description: Rebalances the damage modifications of Receiver mods.
-- name: High-Vis Scope Crosshair Replacement
-  link: https://www.nexusmods.com/starfield/mods/327
+- name: Functional Reflex Sights
+  link: https://www.nexusmods.com/starfield/mods/15799
+  category: Gameplay
+  author: melik173
+  description: Functional reflex sights that help with aiming.
+- name: Galactic Mesh Fixes
+  link: https://www.nexusmods.com/starfield/mods/13258
+  category: Visuals
+  author: SkyBorik
+  description: Fixes various issues with meshes across the entire galaxy.
+- name: Geotag Photos
+  link: https://www.nexusmods.com/starfield/mods/9105
   category: User Interface
-  author: GliOcchi
-  description: Scope reticles/crosshairs are now dual colours with red accents for higher visibility.<br><br>I use the HVCrosshair Replacement version.
-- name: Landing Animation Reloaded
-  link: https://www.nexusmods.com/starfield/mods/7569
-  category: Animations
-  author: 7StarC
-  description: Always plays the landing animation when landing on a planet.
+  author: LarannKiar
+  description: Adds the name of the planet where photos were taken to the filename.
+- name: Immersive Driving
+  link: https://www.nexusmods.com/starfield/mods/11253
+  category: Gameplay
+  author: LarannKiar
+  description: A collection of immersive land vehicle features.
 - name: Laser Sight Dot Enabled
   link: https://www.nexusmods.com/starfield/mods/9643
   category: Visuals
@@ -168,21 +263,106 @@
   category: User Interface
   author: m8r98a4f2
   description: Removes the additional rare/epic/legendary item card notification, which pops up when you pick up a rare/epic/legendary item.
+- name: No Vehicle Mouse Steering
+  link: https://www.nexusmods.com/starfield/mods/11135
+  category: Gameplay
+  author: LarannKiar
+  description: Disables mouse steering for land vehicles.
 - name: Observatory
   link: https://creations.bethesda.net/en/starfield/details/e8ff65fc-7c13-44b3-b8a5-27df6b28007d/Observatory
   category: Settlements
   author: Bethesda Game Studios
   description: Search for the stars with this new Observatory!
+- name: Parked Vehicles
+  link: https://www.nexusmods.com/starfield/mods/13838
+  category: Environment
+  author: SarthesArai
+  description: Adds parked REV-8 vehicles to many human-built locations.
 - name: Quick Lowered Weapons - First Person
   link: https://www.nexusmods.com/starfield/mods/6338
   category: Gameplay
   author: LarannKiar
   description: Puts your equipped weapon into "lowered" state when not in combat.
+- name: Rabbit's Real Lights Akila City
+  link: https://www.nexusmods.com/starfield/mods/10973
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for Akila City.
+- name: Rabbit's Real Lights Asteroid Mansion
+  link: https://www.nexusmods.com/starfield/mods/16356
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for Château des Étoiles.
+- name: Rabbit's Real Lights Cydonia
+  link: https://www.nexusmods.com/starfield/mods/11224
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for Cydonia.
+- name: Rabbit's Real Lights Dazra
+  link: https://www.nexusmods.com/starfield/mods/11933
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for Dazra.
+- name: Rabbit's Real Lights Eleos Retreat
+  link: https://www.nexusmods.com/starfield/mods/12636
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for Eleos Retreat.
+- name: Rabbit's Real Lights Gagarin
+  link: https://www.nexusmods.com/starfield/mods/11076
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for Gagarin.
+- name: Rabbit's Real Lights HopeTown
+  link: https://www.nexusmods.com/starfield/mods/11381
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for HopeTown.
+- name: Rabbit's Real Lights Landing Pads
+  link: https://www.nexusmods.com/starfield/mods/11541
+  category: Visuals
+  author: RabbitDoesStuff
+  description: Lighting overhaul for outpost landing pads.
+- name: Rabbit's Real Lights Neon
+  link: https://www.nexusmods.com/starfield/mods/11498
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for Neon.
+- name: Rabbit's Real Lights New Atlantis
+  link: https://www.nexusmods.com/starfield/mods/10874
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for New Atlantis.
+- name: Rabbit's Real Lights New Homestead
+  link: https://www.nexusmods.com/starfield/mods/11590
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for New Homestead.
+- name: Rabbit's Real Lights Paradiso
+  link: https://www.nexusmods.com/starfield/mods/11701
+  category: Environment
+  author: RabbitDoesStuff
+  description: Lighting overhaul for Paradiso.
 - name: Roleplay Walk
   link: https://www.nexusmods.com/starfield/mods/1996
   category: Gameplay
   author: Samantha Says
   description: Increases your walking speed.
+- name: Scopes Without Overlays
+  link: https://www.nexusmods.com/starfield/mods/15828
+  category: Gameplay
+  author: melik173
+  description: Removes scope overlays and adds actual scopes.
+- name: Sensible Outpost Lighting
+  link: https://www.nexusmods.com/starfield/mods/11452
+  category: Visuals
+  author: BosDragon
+  description: Makes vanilla outpost lighting a bit more useful and immersive.
+- name: Shattered Space Plushie Set
+  link: https://creations.bethesda.net/en/starfield/details/37bf9b4b-f281-4460-a9a5-c67bf87139fa/Shattered_Space_Plushie_Set
+  category: Crafting
+  author: Bethesda Game Studios
+  description: Look what crawled out of the Vortex!
 - name: Show Me Those Chunks
   link: https://www.nexusmods.com/starfield/mods/7922
   category: Items
@@ -193,10 +373,10 @@
   category: User Interface
   author: FSNovask
   description: Shows the equipped power name on the HUD above the health bar.
-- name: Smooth Interface
-  link: https://www.nexusmods.com/starfield/mods/506
+- name: Smooth UI
+  link: https://www.nexusmods.com/starfield/mods/350
   category: User Interface
-  author: Moddy
+  author: Fuzzlesz
   description: Increases the framerate of the UI to 60fps.
 - name: Starborn Gravis Suit
   link: https://creations.bethesda.net/en/starfield/details/beefc7ae-59f4-4934-b2a5-d04e5264f029/Starborn_Gravis_Suit
@@ -208,11 +388,6 @@
   category: Gameplay
   author: Samantha Says
   description: Increases the armour rating of Starborn Spacesuits. Starborn Guardian ships have triple the storage, triple the shielded storage, increased crew capacity to 8, and a native Dual-Frequency Scan Jammer for a 30% increase to scan evasion chance.
-- name: Starfield Community Patch
-  link: https://www.nexusmods.com/starfield/mods/1
-  category: Bug Fixes
-  author: Starfield Modding Community
-  description: Fixes bugs, errors, and inconsistencies in Starfield.
 - name: Starfield Engine Fixes
   link: https://www.nexusmods.com/starfield/mods/10457
   category: Bug Fixes
@@ -223,36 +398,26 @@
   category: Miscellaneous
   author: ianpatt
   description: A tool adding additional scripting capabilities and functionality to the game.
-- name: StarUI Inventory
-  link: https://www.nexusmods.com/starfield/mods/773
-  category: User Interface
-  author: m8r98a4f2
-  description: StarUI Inventory improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item category icons. Category as left sidebar. Many quality of life features!
-- name: StarUI Outpost
-  link: https://www.nexusmods.com/starfield/mods/5766
-  category: User Interface
-  author: m8r98a4f2
-  description: Improves the outpost interface for PC. Add a comfortable build menu with separate lists for category, building, and variation. Changes the key bindings to be like most other interfaces. Adds an inspect label and button hints at the cursor. And many other quality of life additions.
-- name: StarUI Ship Builder
-  link: https://www.nexusmods.com/starfield/mods/6402
-  category: User Interface
-  author: m8r98a4f2
-  description: StarUI Ship Builder improves the ship builder for usage on PC. Compact style, sort-able columns, filter panel, category list, variant list, vertical upgrade list, and many more quality of life additions.
-- name: StarUI Workbench
-  link: https://www.nexusmods.com/starfield/mods/4966
-  category: User Interface
-  author: m8r98a4f2
-  description: StarUI Workbench improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, quality of life features, and more!
-- name: Trackers Alliance&#58; The Vulture
-  link: https://creations.bethesda.net/en/starfield/details/4bf1a31f-46d5-47bf-a5e6-d0f9e2496d0c/Trackers_Alliance__The_Vulture
+- name: The Perfect Recipe
+  link: https://creations.bethesda.net/en/starfield/details/daa65855-1e97-495d-aa7d-fd675e40024c/The_Perfect_Recipe
   category: Quests
   author: Bethesda Game Studios
-  description: A veteran of the colony war is wanted for high treason against the Freestar Government. Take on a treacherous Trackers Alliance contract to hunt down one of the deadliest snipers in Freestar space. Includes a new Trackers Alliance bounty, the Arboron Novastrike Sniper, and two additional outfits.
+  description: You can find many a story at Sinclair's Books in Akila City. One tells of a promising chef who had his life derailed by the Colony War.
+- name: Trackers Alliance&#58; The Complete Bounty Series
+  link: https://creations.bethesda.net/en/starfield/details/4bf1a31f-46d5-47bf-a5e6-d0f9e2496d0c/Trackers_Alliance__The_Complete_Bounty_Series
+  category: Quests
+  author: Bethesda Game Studios
+  description: The Trackers Alliance bounty series is now complete with five new high-value, high-stakes targets for you to track down! These five new self-contained stories round out the arc with tougher choices, memorable contracts and new pursuits that span the Settled Systems.
 - name: Vend Unto Floor
   link: https://www.nexusmods.com/starfield/mods/8191
   category: Gameplay
   author: TheSparkOfLife
   description: Items from vending machines will drop from the chute, into the world.
+- name: Wall Snap Letters Numbers and Symbols
+  link: https://www.nexusmods.com/starfield/mods/13781
+  category: Outposts
+  author: DustyRumps
+  description: Letters, numbers, and symbols that will snap to a wall or vertical surface.
 - name: Water-Cooled Miners' Outfit
   link: https://creations.bethesda.net/en/starfield/details/f84790ea-caeb-4a73-9d06-d4db254dc37d/Water_Cooled_Miners__39__Outfit
   category: Clothing
