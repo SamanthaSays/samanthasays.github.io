@@ -6,7 +6,7 @@ image: /assets/images/games/SF-cover.webp
 game: Starfield
 description: The Starfield mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 2026-04-09
+updated: 2026-04-15
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,18 @@ updated: 2026-04-09
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>15 Apr 2026</dt>
+        <dd>- Added Affinity Enhanced.</dd>
+        <dd>- Added Akila Outskirts Expanded.</dd>
+        <dd>- Added Astral UI.</dd>
+        <dd>- Added Compact Build Menu.</dd>
+        <dd>- Added Compact Crafting UI.</dd>
+        <dd>- Added Compact Ship Builder UI.</dd>
+        <dd>- Added Indoor Armillary.</dd>
+        <dd>- Added Integrated Ship Optimisation Terminal.</dd>
+        <dd>- Added Positively New Atlantis.</dd>
+        <dd>- Added Red Mile Expanded.</dd>
+        <dd>- Added Starborn Always Hunt.</dd>
     <dt>9 Apr 2026</dt>
         <dd>- Added Allied Winter Camo Skin Pack.</dd>
         <dd>- Added Ammo HUD.</dd>

@@ -8,6 +8,16 @@
   category: Visuals
   author: DarthParametric
   description: Tones down the chemically bleached look of clean teeth, slightly darkens dirty teeth, removes the bright edges of blackened teeth.
+- name: Affinity Enhanced
+  link: https://www.nexusmods.com/starfield/mods/6891
+  category: Companions
+  author: SkinnyPig2
+  description: Gives followers distinct opinions on common gameplay activities and increases the requirements for story checkpoints and timers.
+- name: Akila Outskirts Expanded
+  link: https://www.nexusmods.com/starfield/mods/16238
+  category: Locations
+  author: relentlessp0sitivity
+  description: Overhauls the area surrounding Akila with a rail network, animated windmills, outlying farms, and fortified bunkers.
 - name: Allied Desert Camo Skin Pack
   link: https://creations.bethesda.net/en/starfield/details/128b6982-590d-47eb-b8cd-b20917b2de13/Allied_Desert_Camo_Skin_Pack
   category: Skins
@@ -28,6 +38,11 @@
   category: Crafting
   author: Bethesda Game Studios
   description: Become the captain of your own Ancient Mariner with 22 new decor items for Outposts, Ships, and Housing.
+- name: Astral UI
+  link: https://www.nexusmods.com/starfield/mods/16405
+  category: User Interface
+  author: Cybernav
+  description: A modern, fully customisable inventory UI overhaul.
 - name: At Hell's Gate
   link: https://creations.bethesda.net/en/starfield/details/6d89fcba-9940-4d8b-abc7-5cdb2c9b5a4d/At_Hell__39_s_Gate
   category: Quests
@@ -123,6 +138,16 @@
   category: Skins
   author: Bethesda Game Studios
   description: Looking good has never been so hard to see. This Digital Camo Pack by CombaTech is expertly designed to make sure you're only spotted... when it's too late.
+- name: Compact Build Menu
+  link: https://www.nexusmods.com/starfield/mods/3063
+  category: User Interface
+  author: Stentorious
+  description: Modifies the outpost build menu so more items can be seen at once.
+- name: Compact Crafting UI
+  link: https://www.nexusmods.com/starfield/mods/3274
+  category: User Interface
+  author: Stentorious
+  description: Modifies all crafting menus so more items can be seen at once.
 - name: Compact Crew Menu UI
   link: https://www.nexusmods.com/starfield/mods/3014
   category: User Interface
@@ -133,6 +158,11 @@
   category: User Interface
   author: Stentorious
   description: Modifies the mission menu for more items can be seen at once.
+- name: Compact Ship Builder UI
+  link: https://www.nexusmods.com/starfield/mods/1170
+  category: User Interface
+  author: Stentorious
+  description: Modifies the ship builder menu so more items can be seen at once.
 - name: Constellation Plushie Set
   link: https://creations.bethesda.net/en/starfield/details/bdf19afb-2be7-43ad-b023-9c310e3602d9/Constellation_Plushie_Set
   category: Crafting
@@ -228,6 +258,16 @@
   category: Gameplay
   author: LarannKiar
   description: A collection of immersive land vehicle features.
+- name: Indoor Armillary
+  link: https://www.nexusmods.com/starfield/mods/13308
+  category: Outposts
+  author: DownfallNemesis
+  description: Adds two new buildable Armillarys without a foundation to be placed indoors and at player homes.
+- name: Integrated Ship Optimisation Terminal
+  link: https://www.nexusmods.com/starfield/mods/16412
+  category: Ships
+  author: DownfallNemesis
+  description: Integrates the Ship Optimisation Terminal into various habs without the need of placing a terminal yourself.
 - name: Laser Sight Dot Enabled
   link: https://www.nexusmods.com/starfield/mods/9643
   category: Visuals
@@ -278,6 +318,11 @@
   category: Environment
   author: SarthesArai
   description: Adds parked REV-8 vehicles to many human-built locations.
+- name: Positively New Atlantis
+  link: https://www.nexusmods.com/starfield/mods/13977
+  category: Locations
+  author: relentlessp0sitivity
+  description: Overhauls the area around New Atlantis for a nice city backdrop.
 - name: Quick Lowered Weapons - First Person
   link: https://www.nexusmods.com/starfield/mods/6338
   category: Gameplay
@@ -343,6 +388,11 @@
   category: Environment
   author: RabbitDoesStuff
   description: Lighting overhaul for Paradiso.
+- name: Red Mile Expanded
+  link: https://www.nexusmods.com/starfield/mods/13564
+  category: Locations
+  author: relentlessp0sitivity
+  description: Livens up the area around Red Mile with more set dressing.
 - name: Roleplay Walk
   link: https://www.nexusmods.com/starfield/mods/1996
   category: Gameplay
@@ -378,6 +428,11 @@
   category: User Interface
   author: Fuzzlesz
   description: Increases the framerate of the UI to 60fps.
+- name: Starborn Always Hunt
+  link: https://www.nexusmods.com/starfield/mods/16002
+  category: Gameplay
+  author: DaveHedgehog54
+  description: Enables Starborn hunting the player in NG+ without mission progress.
 - name: Starborn Gravis Suit
   link: https://creations.bethesda.net/en/starfield/details/beefc7ae-59f4-4934-b2a5-d04e5264f029/Starborn_Gravis_Suit
   category: Spacesuits
