@@ -4,9 +4,9 @@ title: Minecraft Mods
 section: mods
 image: /assets/images/games/MC-cover.webp
 game: Minecraft
-description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually. My top 5 are marked with a heart.
+description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually.
 tag: Modlist
-updated: 2025-10-17
+updated: 2026-05-16
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,12 @@ updated: 2025-10-17
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>16 May 2026</dt>
+        <dd>- Added Bundles Beyond.</dd>
+        <dd>- Added Chat Signing Hider.</dd>
+        <dd>- Added Scribble.</dd>
+        <dd>- Removed Enhanced Block Entities.</dd>
+        <dd>- Removed Noisium.</dd>
     <dt>17 October 2025</dt>
         <dd>- Added Advanced Armor Bar.</dd>
         <dd>- Removed Replay Mod.</dd>

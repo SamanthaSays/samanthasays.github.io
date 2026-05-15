@@ -1,39 +1,9 @@
-- name: Complementary Shaders - Reimagined
-  link: https://modrinth.com/shader/complementary-reimagined
-  category: Shaders
-  author: EminGTR
-  description: My favourite shaderpack.
-  choice: Yes
-- name: Distant Horizons
-  link: https://modrinth.com/mod/distanthorizons
-  category: Visuals
-  author: jeseibel
-  description: Adds simplified LODs to extend Minecraft's render distance.
-  choice: Yes
-- name: Litematica
-  link: https://modrinth.com/mod/litematica
-  category: Gameplay
-  author: masa
-  description: Create and load schematics of structures.
-  choice: Yes
-- name: Pixlli
-  link: https://illystray.com/p/pixlli/
-  category: Resource Pack
-  author: illystray
-  description: My favourite resource pack. Adds PBR, but keeps the vanilla style.
-  choice: Yes
-- name: Sound Physics Remastered
-  link: https://modrinth.com/mod/sound-physics-remastered
-  category: Audio
-  author: henkelmax
-  description: Provides realistic sound attenuation, reverberation, and absorption through blocks.
-  choice: Yes
 - name: 3D Skin Layers
   link: https://modrinth.com/mod/3dskinlayers
   category: Visuals
   author: tr7zw
   description: Replaces the flat second layer of player skins with a 3D modeled version.
-- name: Advanced Armor Bars
+- name: Advanced Armor Bar
   link: https://modrinth.com/mod/advanced-armor-bar
   category: UI
   author: Sygikal
@@ -53,6 +23,11 @@
   category: UI
   author: Lortseam
   description: Displays both your hunger and the health of your mount at the same time, as well as hiding the jump bar until actually jumping.
+- name: Bundles Beyond
+  link: https://modrinth.com/mod/bundles-beyond
+  category: Gameplay
+  author: "7410"
+  description: Allows more than 12 items to be seen and retrieved from bundles.
 - name: Cave Dust
   link: https://modrinth.com/mod/cave-dust
   category: Visuals
@@ -63,21 +38,31 @@
   category: UI
   author: dzwdz
   description: Adds player heads next to chat messages.
+- name: Chat Signing Hider
+  link: https://modrinth.com/mod/chat-signing-hider
+  category: UI
+  author: henkelmax
+  description: Hides the chat signing toasts.
 - name: Client Tweaks
   link: https://modrinth.com/mod/client-tweaks
   category: Gameplay
   author: BlayTheNinth
   description: Adds many configurable tweaks to improve the quality of life of gameplay.
+- name: Complementary Shaders - Reimagined
+  link: https://modrinth.com/shader/complementary-reimagined
+  category: Shaders
+  author: EminGTR
+  description: My favourite shaderpack.
+- name: Distant Horizons
+  link: https://modrinth.com/mod/distanthorizons
+  category: Visuals
+  author: jeseibel
+  description: Adds simplified LODs to extend Minecraft's render distance.
 - name: DualBar
   link: https://modrinth.com/mod/dualbar
   category: UI
   author: piuvas
   description: Shows locator bar icons on the experience bar.
-- name: Enhanced Block Entities
-  link: https://modrinth.com/mod/ebe
-  category: Visuals
-  author: FoundationGames
-  description: Improves the performance and visuals of block entities.
 - name: Fabrishot
   link: https://modrinth.com/mod/fabrishot
   category: Miscellaneous
@@ -98,6 +83,11 @@
   category: Shaders
   author: coderbot
   description: An open-source shaders mod compatible with OptiFine shaderpacks.
+- name: Litematica
+  link: https://modrinth.com/mod/litematica
+  category: Gameplay
+  author: masa
+  description: Create and load schematics of structures.
 - name: Lithium
   link: https://modrinth.com/mod/lithium
   category: Performance
@@ -128,11 +118,6 @@
   category: Gameplay
   author: YaLTeR
   description: Replaces and adds new dragging mechanics to the inventory.
-- name: Noisium
-  link: https://modrinth.com/mod/noisium
-  category: Performance
-  author: Steveplays
-  description: Optimises worldgen performance.
 - name: Not Enough Animations
   link: https://modrinth.com/mod/not-enough-animations
   category: Visuals
@@ -158,6 +143,11 @@
   category: UI
   author: yurisuika
   description: Raises the hotbar so the selector is not cut off.
+- name: Scribble
+  link: https://modrinth.com/mod/scribble
+  category: Gameplay
+  author: chrrs
+  description: Extends book functionality&#58; see two pages at once; inster, remove, and skip to any page; centre the GUI; add colour codes; undo and redo.
 - name: Simple Voice Chat
   link: https://modrinth.com/plugin/simple-voice-chat
   category: Gameplay
@@ -168,6 +158,11 @@
   category: Performance
   author: jellysquid3
   description: Improves framerates and reduces micro-stutters.
+- name: Sound Physics Remastered
+  link: https://modrinth.com/mod/sound-physics-remastered
+  category: Audio
+  author: henkelmax
+  description: Provides realistic sound attenuation, reverberation, and absorption through blocks.
 - name: Status Effect Bars
   link: https://modrinth.com/mod/status-effect-bars
   category: UI
