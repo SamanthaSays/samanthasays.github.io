@@ -501,6 +501,20 @@ body {
     text-align: center;
     padding: 0.1rem;
 }
+.classMastery1 {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+    font-weight: bold;
+}
+.classMastery2 {
+    float: right;
+    width: 50%;
+    text-align: center;
+    padding: 0.1rem;
+    font-weight: bold;
+}
 .actionBar {
     margin: 0.5rem;
     padding: 0.5rem;
@@ -557,6 +571,44 @@ body {
 
 .fashionDye {
     margin-top: 40px;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltipText {
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  font-weight: normal;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 3px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: -15px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltipText::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltipText {
+  visibility: visible;
+  opacity: 1;
 }
 
 @media (max-width: 450px) {
