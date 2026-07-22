@@ -39,13 +39,13 @@
   type: Stamina
   theme: Lycanthrope
 - name: Shakul gra-Lash
-  race: Orsimer
+  race: Orc
   class: Necromancer
   type: Stamina
   theme: Disease
 - name: Sehlayeh
   race: Redguard
-  class: Sorcerer
+  class: Arcanist
   type: Stamina
   theme: Pirate
 - name: Senna Octavia
@@ -63,3 +63,13 @@
   class: Sorcerer
   type: Magicka
   theme: Stormcalling
+- name: Solgra gra-Gral
+  race: Orc
+  class: Templar
+  type: Stamina
+  theme: Battlesmith
+- name: Sobani-sa
+  race: Khajiit
+  class: Nightblade
+  type: Stamina
+  theme: Dragonguard
