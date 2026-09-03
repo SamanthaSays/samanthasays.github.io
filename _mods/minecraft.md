@@ -15,6 +15,14 @@ updated: 2026-05-16
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>03 September 2026</dt>
+        <dd>- Added Cave Dust Rethinking.</dd>
+        <dd>- Added Fresh Armor Bar.</dd>
+        <dd>- Added Subtle Effects.</dd>
+        <dd>- Added Voxy.</dd>
+        <dd>- Removed Advanced Armor Bar.</dd>
+        <dd>- Removed Cave Dust.</dd>
+        <dd>- Removed Distant Horizons.</dd>
     <dt>16 May 2026</dt>
         <dd>- Added Bundles Beyond.</dd>
         <dd>- Added Chat Signing Hider.</dd>

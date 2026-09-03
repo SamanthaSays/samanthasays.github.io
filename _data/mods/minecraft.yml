@@ -3,11 +3,6 @@
   category: Visuals
   author: tr7zw
   description: Replaces the flat second layer of player skins with a 3D modeled version.
-- name: Advanced Armor Bar
-  link: https://modrinth.com/mod/advanced-armor-bar
-  category: UI
-  author: Sygikal
-  description: Replaces the default armour bar with one that represents the armour materials and colours you have equipped.
 - name: Ambient Environment
   link: https://modrinth.com/mod/ambient-environment
   category: Visuals
@@ -28,10 +23,10 @@
   category: Gameplay
   author: "7410"
   description: Allows more than 12 items to be seen and retrieved from bundles.
-- name: Cave Dust
-  link: https://modrinth.com/mod/cave-dust
+- name: Cave Dust Rethinking
+  link: https://modrinth.com/mod/cave-dust-rethinking
   category: Visuals
-  author: LizIsTired
+  author: Toffiks
   description: Adds the white ash particle from Basalt Deltas to the underground to simulate dust.
 - name: Chat Heads
   link: https://modrinth.com/mod/chat-heads
@@ -53,11 +48,6 @@
   category: Shaders
   author: EminGTR
   description: My favourite shaderpack.
-- name: Distant Horizons
-  link: https://modrinth.com/mod/distanthorizons
-  category: Visuals
-  author: jeseibel
-  description: Adds simplified LODs to extend Minecraft's render distance.
 - name: DualBar
   link: https://modrinth.com/mod/dualbar
   category: UI
@@ -73,6 +63,11 @@
   category: Performance
   author: malte0811
   description: Reduces the memory usage of the game in a few different ways.
+- name: Fresh Armor Bar
+  link: https://modrinth.com/mod/fresh-armor-bar
+  category: UI
+  author: ZeroXXII
+  description: Adds material-based armour icons depending on what you're wearing.
 - name: Immediately Fast
   link: https://modrinth.com/mod/immediatelyfast
   category: Performance
@@ -168,6 +163,11 @@
   category: UI
   author: A5b84
   description: Adds duration bars to status effects.
+- name: Subtle Effects
+  link: https://modrinth.com/mod/subtle-effects
+  category: Visuals
+  author: MinecraftEinstein
+  description: Adds many new subtle details through particles.
 - name: Tooltips TXF
   link: https://modrinth.com/mod/tooltips-txf
   category: UI
@@ -178,6 +178,11 @@
   category: Gameplay
   author: masa
   description: Adds many small tweaks to gameplay.
+- name: Voxy
+  link: https://modrinth.com/mod/voxy
+  category: Visuals
+  author: cortex
+  description: Adds distant LOD to achieve high distance rendering.
 - name: Xaero's World Map
   link: https://modrinth.com/mod/xaeros-world-map
   category: Gameplay
