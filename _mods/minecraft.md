@@ -6,7 +6,7 @@ image: /assets/images/games/MC-cover.webp
 game: Minecraft
 description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually.
 tag: Modlist
-updated: 2026-05-16
+updated: 2026-09-03
 ---
 
 <h1>{{ page.title }}</h1>
