@@ -113,6 +113,11 @@
   category: Gameplay
   author: YaLTeR
   description: Replaces and adds new dragging mechanics to the inventory.
+- name: Nemo's Inventory Sorting
+  link: https://modrinth.com/mod/nemos-inventory-sorting
+  category: Gameplay
+  author: NemoNotFound
+  description: Adds buttons to sort your inventory and storage.
 - name: Not Enough Animations
   link: https://modrinth.com/mod/not-enough-animations
   category: Visuals

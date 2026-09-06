@@ -6,7 +6,7 @@ image: /assets/images/games/MC-cover.webp
 game: Minecraft
 description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually.
 tag: Modlist
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,9 +15,10 @@ updated: 2026-09-03
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
-    <dt>03 September 2026</dt>
+    <dt>05 September 2026</dt>
         <dd>- Added Cave Dust Rethinking.</dd>
         <dd>- Added Fresh Armor Bar.</dd>
+        <dd>- Added Nemo's Inventory Sorting.</dd>
         <dd>- Added Subtle Effects.</dd>
         <dd>- Added Voxy.</dd>
         <dd>- Removed Advanced Armor Bar.</dd>
