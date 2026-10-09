@@ -1,0 +1,45 @@
+- name: 3D Skin Layers
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/16
+  category: Skins
+  author: ewanhowell5195
+  description: Turns the second skin layer into real 3D blocks.
+- name: Blueprint Loader
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/2
+  category: Utilities
+  author: ewanhowell5195
+  description: Mod loader and settings menu.
+- name: Clearer World Map
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/125
+  category: User Interface
+  author: ewanhowell5195
+  description: Makes the paths on the world map easier to see by drawing it like the minimap.
+- name: Countdown Skip
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/115
+  category: User Interface
+  author: ewanhowell5195
+  description: Skips the 5 second countdown after pressing play.
+- name: Custom Skin Loader
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/9
+  category: Skins
+  author: ewanhowell5195
+  description: Lets you replace skins with custom ones.
+- name: Display Emeralds
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/51
+  category: User Interface
+  author: packfather
+  description: Shows your emeralds and echo shards next to the hotbar.
+- name: Dungeon Map
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/102
+  category: User Interface
+  author: packfather
+  description: Shows a map inside Dungeons and Rifts.
+- name: Uncapped Cutscenes
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/3
+  category: User Interface
+  author: ewanhowell5195
+  description: Removes the 24 FPS cap on cutscenes.
+- name: Visible Health Overlay
+  link: https://www.nexusmods.com/minecraftdungeons2/mods/134
+  category: User Interface
+  author: Firewyrm06
+  description: Makes the in-game health overlay always visible.
