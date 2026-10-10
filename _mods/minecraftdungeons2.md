@@ -6,7 +6,7 @@ image: /assets/images/games/MCD2-cover.webp
 game: Minecraft Dungeons II
 description: The Minecraft Dungeons II mods used by Samantha Says. All mods are installed and managed through Vortex.
 tag: Modlist
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,8 @@ updated: 2026-10-09
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>10 October 2026</dt>
+        <dd>- Added Wolf Pet Customiser.</dd>
     <dt>09 October 2026</dt>
         <dd>- Created page.</dd>
 </dl>
