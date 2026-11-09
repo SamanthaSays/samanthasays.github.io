@@ -6,7 +6,7 @@ image: /assets/images/games/MC-cover.webp
 game: Minecraft
 description: The Minecraft mods used by Samantha Says. I manage my mods and resource packs manually.
 tag: Modlist
-updated: 2026-09-05
+updated: 2026-11-09
 ---
 
 <h1>{{ page.title }}</h1>
@@ -15,6 +15,22 @@ updated: 2026-09-05
 <p class="changelog" onclick="changelog()">Changelog</p>
 
 <dl id="changelog" style="display: none">
+    <dt>09 November 2026</dt>
+        <dd>- Added Armor Poser.</dd>
+        <dd>- Added BadOptimizations.</dd>
+        <dd>- Added Big Sign Writer.</dd>
+        <dd>- Added Chunksmith.</dd>
+        <dd>- Added Concurrent Chunk Management Engine.</dd>
+        <dd>- Added Entity Texture Features.</dd>
+        <dd>- Added Last World Panorama.</dd>
+        <dd>- Added Particle Core.</dd>
+        <dd>- Added ScalableLux.</dd>
+        <dd>- Added Soft Imprints.</dd>
+        <dd>- Added Spyglass Only HUD.</dd>
+        <dd>- Added Wakes.</dd>
+        <dd>- Added Windy.</dd>
+        <dd>- Removed OrthoCamera.</dd>
+        <dd>- Removed Particle Rain.</dd>
     <dt>05 September 2026</dt>
         <dd>- Added Cave Dust Rethinking.</dd>
         <dd>- Added Fresh Armor Bar.</dd>

@@ -13,11 +13,26 @@
   category: UI
   author: squeek502
   description: Adds food value information to tooltips, shows saturation, and visualises the restoration of held food.
+- name: Armor Poser
+  link: https://modrinth.com/mod/armor-poser
+  category: Gameplay
+  author: Mrbysco
+  description: Adds a GUI for armour stands to set its pose and more.
+- name: BadOptimizations
+  link: https://modrinth.com/mod/badoptimizations
+  category: Performance
+  author: thosea
+  description: Optimises a few non-rendering systems.
 - name: Better Mount HUD
   link: https://modrinth.com/mod/better-mount-hud
   category: UI
   author: Lortseam
   description: Displays both your hunger and the health of your mount at the same time, as well as hiding the jump bar until actually jumping.
+- name: Big Sign Writer
+  link: https://modrinth.com/mod/bigsignwriter
+  category: Gameplay
+  author: chililisoup
+  description: Add large, multi-line characters and symbols to signs.
 - name: Bundles Beyond
   link: https://modrinth.com/mod/bundles-beyond
   category: Gameplay
@@ -38,6 +53,11 @@
   category: UI
   author: henkelmax
   description: Hides the chat signing toasts.
+- name: Chunksmith
+  link: https://modrinth.com/plugin/chunksmith
+  category: Miscellaneous
+  author: Kishku7
+  description: Pre-generates distant terrain.
 - name: Client Tweaks
   link: https://modrinth.com/mod/client-tweaks
   category: Gameplay
@@ -48,11 +68,21 @@
   category: Shaders
   author: EminGTR
   description: My favourite shaderpack.
+- name: Concurrent Chunk Management Engine
+  link: https://modrinth.com/mod/c2me-fabric
+  category: Performance
+  author: ishland
+  description: Improves chunk performance.
 - name: DualBar
   link: https://modrinth.com/mod/dualbar
   category: UI
   author: piuvas
   description: Shows locator bar icons on the experience bar.
+- name: Entity Texture Features
+  link: https://modrinth.com/mod/entitytexturefeatures
+  category: Miscellaneous
+  author: Traben
+  description: Provides custom texture support for entities in resource packs.
 - name: Fabrishot
   link: https://modrinth.com/mod/fabrishot
   category: Miscellaneous
@@ -78,6 +108,11 @@
   category: Shaders
   author: coderbot
   description: An open-source shaders mod compatible with OptiFine shaderpacks.
+- name: Last World Panorama
+  link: https://modrinth.com/mod/last-world-panorama
+  category: Visuals
+  author: slovuka
+  description: Replaces the default panorama with one from your last location in the world.
 - name: Litematica
   link: https://modrinth.com/mod/litematica
   category: Gameplay
@@ -123,26 +158,26 @@
   category: Visuals
   author: tr7zw
   description: Adds and modifies third-person animations to be better representative of how they should look.
-- name: OrthoCamera
-  link: https://modrinth.com/mod/orthocamera
-  category: Miscellaneous
-  author: DimasKama
-  description: Adds a toggleable and configurable orthographic view mode.
+- name: Particle Core
+  link: https://modrinth.com/mod/particle-core
+  category: Performance
+  author: fzzyhmstrs
+  description: Optimises particle rendering and culling.
 - name: Particle Effects
   link: https://modrinth.com/mod/particle-effects
   category: Visuals
   author: KlashRaick
   description: Adds unique textured particles for every effect.
-- name: Particle Rain
-  link: https://modrinth.com/mod/particle-rain
-  category: Visuals
-  author: PigCart
-  description: Replaces the default rain with some particle effects, and adds sandstorms to deserts and mesas.
 - name: Raised
   link: https://modrinth.com/mod/raised
   category: UI
   author: yurisuika
   description: Raises the hotbar so the selector is not cut off.
+- name: ScalableLux
+  link: https://modrinth.com/mod/scalablelux
+  category: Performance
+  author: ishland
+  description: Improves the performance of light updates.
 - name: Scribble
   link: https://modrinth.com/mod/scribble
   category: Gameplay
@@ -158,11 +193,21 @@
   category: Performance
   author: jellysquid3
   description: Improves framerates and reduces micro-stutters.
+- name: Soft Imprints
+  link: https://modrinth.com/mod/snow-imprints
+  category: Visuals
+  author: nNined
+  description: Adds dynamic imprints across snow and sand. 
 - name: Sound Physics Remastered
   link: https://modrinth.com/mod/sound-physics-remastered
   category: Audio
   author: henkelmax
   description: Provides realistic sound attenuation, reverberation, and absorption through blocks.
+- name: Spyglass Only HUD
+  link: https://modrinth.com/mod/spyglass-only-hud
+  category: Gameplay
+  author: Reva1v
+  description: Hides the HUD when using the spyglass and lets you zoom in and out.
 - name: Status Effect Bars
   link: https://modrinth.com/mod/status-effect-bars
   category: UI
@@ -188,6 +233,16 @@
   category: Visuals
   author: cortex
   description: Adds distant LOD to achieve high distance rendering.
+- name: Wakes
+  link: https://modrinth.com/mod/wakes
+  category: Visuals
+  author: Goby56
+  description: Adds splashes and wakes while travelling on water.
+- name: Windy
+  link: https://modrinth.com/mod/windy
+  category: Visuals
+  author: Bonfire Studios
+  description: Adds wind particles to the world.
 - name: Xaero's World Map
   link: https://modrinth.com/mod/xaeros-world-map
   category: Gameplay
